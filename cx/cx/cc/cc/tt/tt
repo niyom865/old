@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-095832-tv-station_bEin-Sports-2-(AU).png" ,beinsports2au
+https://www.doofootball.com/live/streaming/beinsports2au/694405
+#EXTINF:0 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094336-tv-station_Fox-Sports-1-(NL).png" ,foxsport1n
+https://www.doofootball.com/live/streaming/foxsport1nl/694405
+#EXTINF:0 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094928-tv-station_Fox-Sports-4-(NL).png" ,foxsport4nl
+https://www.doofootball.com/live/streaming/foxsport4nl/694405
+#EXTINF:0 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-091115-tv-station_Sport-TV-1-(PT).png" ,sporttv1
+https://www.doofootball.com/live/streaming/sporttv1/694405
