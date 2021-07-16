@@ -176,13 +176,24 @@
       "url": "https://ball365.co/channel/?id=bein1" ,"referer": "https://www.warpballsod.tv/", 
 	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
      mute: true,autostart: true},
+      {                
+      "name": "bein1",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/bein1.png",
+      "url": "https://www.doonung1234.com/match/view/14069/bein1" ,"referer": "https://www.doonung1234.com/", 
+	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+     mute: true,autostart: true},
      {                
       "name": "bein2",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/bein2.png",
       "url": "https://ball365.co/channel/?id=bein2" ,"referer": "https://www.warpballsod.tv/", 
 	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
      mute: true,autostart: true},
-     
+     {                
+      "name": "bein2",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/bein2.png",
+      "url": "https://www.doonung1234.com/match/view/14069/bein2" ,"referer": "https://www.doonung1234.com/", 
+	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+     mute: true,autostart: true},
       {                
       "name": "foxsporthd",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/foxsporthd.png",
@@ -283,8 +294,14 @@
      mute: true,autostart: true},
      {                
       "name": "sporttv1",
-      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sporttv2.png",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",
       "url": "https://ball365.co/channel/?id=sporttv1" ,"referer": "https://www.warpballsod.tv/", 
+	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+     mute: true,autostart: true},
+       {                
+      "name": "sporttv1",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",
+      "url": "https://www.doonung1234.com/match/view/14067/sporttv1" ,"referer": "https://www.doonung1234.com/", 
 	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
      mute: true,autostart: true},
       {                
@@ -294,15 +311,33 @@
 	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
      mute: true,autostart: true},
       {                
+      "name": "sporttv2",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sporttv2.png",
+      "url": "https://www.doonung1234.com/match/view/14067/sporttv2" ,"referer": "https://www.doonung1234.com/", 
+	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+     mute: true,autostart: true},
+      {                
       "name": "sporttv3",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sporttv3.png",
       "url": "https://ball365.co/channel/?id=sporttv3" ,"referer": "https://www.warpballsod.tv/", 
+	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+     mute: true,autostart: true},
+       {                
+      "name": "sporttv3",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sporttv3.png",
+      "url": "https://www.doonung1234.com/match/view/14067/sporttv3" ,"referer": "https://www.doonung1234.com/", 
 	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
      mute: true,autostart: true},
       {                
       "name": "sporttv4",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sporttv4.png",
       "url": "https://ball365.co/channel/?id=sporttv4" ,"referer": "https://www.warpballsod.tv/", 
+	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+     mute: true,autostart: true},
+      {                
+      "name": "sporttv4",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sporttv4.png",
+      "url": "https://www.doonung1234.com/match/view/14067/sporttv4" ,"referer": "https://www.doonung1234.com/", 
 	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
      mute: true,autostart: true},
       {                
@@ -384,16 +419,46 @@
       "url": "https://ball365.co/channel/?id=foxsports1usa" ,"referer": "https://www.warpballsod.tv/", 
 	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
      mute: true,autostart: true},
+       {                
+      "name": "foxsports1usa",
+      "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport1.png",
+      "url": "https://www.doonung1234.com/match/view/14069/foxsports1usa" ,"referer": "https://www.doonung1234.com/", 
+	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+     mute: true,autostart: true},
      {                
       "name": "foxsports2usa",
       "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport2.png",
       "url": "https://ball365.co/channel/?id=foxsports2usa" ,"referer": "https://www.warpballsod.tv/", 
 	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
      mute: true,autostart: true},
+      {                
+      "name": "foxsports2usa",
+      "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport2.png",
+      "url": "https://www.doonung1234.com/match/view/14069/foxsports1usa" ,"referer": "https://www.doonung1234.com/", 
+	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+     mute: true,autostart: true},
      {                
       "name": "beinsport1fr",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/beinsport1fr.png",
       "url": "https://ball365.co/channel/?id=beinsport1fr" ,"referer": "https://www.warpballsod.tv/", 
+	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+     mute: true,autostart: true},
+     {                
+      "name": "beinsport2fr",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/beinsport2fr.png",
+      "url": "https://ball365.co/channel/?id=beinsport2fr" ,"referer": "https://www.warpballsod.tv/", 
+	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+     mute: true,autostart: true},
+      {                
+      "name": "beinsports1tu",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--640.png",
+      "url": "https://www.doonung1234.com/match/view/14091/beinsports1tu" ,"referer": "https://www.doonung1234.com/", 
+	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+     mute: true,autostart: true},
+      {                
+      "name": "beinsports2tu",
+      "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--641.png",
+      "url": "https://www.doonung1234.com/match/view/14091/beinsports2tu" ,"referer": "https://www.doonung1234.com/", 
 	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
      mute: true,autostart: true},
       {                
