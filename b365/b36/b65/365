@@ -34,26 +34,26 @@
       "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/thairath.png",
       "url": "https://ball365.co/channel/?id=thairath" ,"referer": "https://ball365.co/", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
-     desktopt: true},
+     desktop: true},
      
      {                
       "name": "workpoint",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/workpoint.png",
       "url": "https://ball365.co/channel/?id=workpoint" ,"referer": "https://www.warpballsod.tv/", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
-   desktop: true},
+     desktop: true},
      {                
       "name": "pptv",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/pptv.png",
       "url": "https://ball365.co/channel/?id=pptv" ,"referer": "https://www.warpballsod.tv/", 
-	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-     mute: true,autostart: true},
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
      {                
       "name": "amarin",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/amarin.png",
       "url": "https://ball365.co/channel/?id=amarin" ,"referer": "https://www.warpballsod.tv/", 
-	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
-     mute: true,autostart: true},
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
      {                
       "name": "mono29",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/mono29.png",
