@@ -27,21 +27,21 @@
       "name": "7hd",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/7hd.png",
       "url": "https://ball365.co/channel/?id=7hd" ,"referer": "https://ball365.co/", 
-	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
-     mute: true,autostart: true},
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
      {                
       "name": "thairath",
       "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/thairath.png",
       "url": "https://ball365.co/channel/?id=thairath" ,"referer": "https://ball365.co/", 
-	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
-     mute: true,autostart: true},
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktopt: true},
      
      {                
       "name": "workpoint",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/workpoint.png",
       "url": "https://ball365.co/channel/?id=workpoint" ,"referer": "https://www.warpballsod.tv/", 
-	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
-     mute: true,autostart: true},
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+   desktop: true},
      {                
       "name": "pptv",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/pptv.png",
