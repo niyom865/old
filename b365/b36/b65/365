@@ -31,7 +31,7 @@
      mute: true,autostart: true},
      {                
       "name": "thairath",
-      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/7hd.png",
+      "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/thairath.png",
       "url": "https://ball365.co/channel/?id=thairath" ,"referer": "https://ball365.co/", 
 	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
      mute: true,autostart: true},
