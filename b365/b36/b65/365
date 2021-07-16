@@ -98,13 +98,13 @@
      mute: true,autostart: true},
        {                
       "name": "newtv",
-      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/tnn.png",
+      "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/newtv.png",
       "url": "https://ball365.co/channel/?id=newtv" ,"referer": "https://www.warpballsod.tv/", 
 	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
      mute: true,autostart: true},
        {                
       "name": "voicetv",
-      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/tnn.png",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/voicetv.png",
       "url": "https://ball365.co/channel/?id=voicetv" ,"referer": "https://www.warpballsod.tv/", 
 	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
      mute: true,autostart: true},
@@ -252,7 +252,7 @@
      mute: true,autostart: true},
        {                
       "name": "digisport4",
-      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/digisport1romania.png",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/digisport4romania.png",
       "url": "https://ball365.co/channel/?id=digisport4romania" ,"referer": "https://www.warpballsod.tv/", 
 	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
      mute: true,autostart: true},
@@ -301,7 +301,7 @@
      mute: true,autostart: true},
       {                
       "name": "sporttv4",
-      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sporttv5.png",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/sporttv4.png",
       "url": "https://ball365.co/channel/?id=sporttv4" ,"referer": "https://www.warpballsod.tv/", 
 	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
      mute: true,autostart: true},
@@ -324,7 +324,7 @@
 	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
      mute: true,autostart: true},
       {                
-      "name": "foxsportl",
+      "name": "foxsport4",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/foxsport4nl.png",
       "url": "https://ball365.co/channel/?id=foxsport4nl" ,"referer": "https://www.warpballsod.tv/", 
 	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
@@ -380,13 +380,13 @@
      
       {                
       "name": "foxsports1usa",
-      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/foxsports1usa.png",
+      "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport1.png",
       "url": "https://ball365.co/channel/?id=foxsports1usa" ,"referer": "https://www.warpballsod.tv/", 
 	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
      mute: true,autostart: true},
      {                
       "name": "foxsports2usa",
-      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/foxsports2usa.png",
+      "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport2.png",
       "url": "https://ball365.co/channel/?id=foxsports2usa" ,"referer": "https://www.warpballsod.tv/", 
 	 type: "hls",user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
      mute: true,autostart: true},
