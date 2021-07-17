@@ -45,15 +45,10 @@
       {                
       "name": "workpoint",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/workpoint.png",
-      "url": "https://doofootball.livestream-cdn.com/iptv/sd-workpoint.stream/chunks.m3u8" ,"referer": "https://www.chomfootball.com/", 
+      "url": "https://stream-02.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8iDPDZHnnFD3P5VLrUkQIdc)/dm/3/x6g9qjj/s/live-2.m3u8#cell=lsg1" ,"referer": "https://www.workpointtv.com/", 
 	 "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
     "playInNatPlayer": "true"},
-      {                
-      "name": "workpoint",
-      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/workpoint.png",
-      "url": "https://www.workpointtv.com/" ,"referer": "https://www.workpointtv.com/", 
-	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
-     desktop: true},
+     
      
      {                
       "name": "pptv",
