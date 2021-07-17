@@ -22,7 +22,12 @@
       "url": "https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/chunks.m3u8" ,"referer": "https://www.chomfootball.com/", 
    "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
     "playInNatPlayer": "true"},
- 
+  {                
+      "name": "tv5",
+      "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/5hd.png",
+      "url": "http://160.119.77.116:8081/iptv/hd-ch5.stream/playlist.m3u8" ,"referer": "http://www.afrinic.net", 
+   "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+    "playInNatPlayer": "true"},
 {                
       "name": "7hd",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/7hd.png",
