@@ -37,6 +37,18 @@
 
 },
  { 
+"name":"truetennis",
+"image":"https://www.ball24.tv/wp-content/themes/ball24/logo/truetennis.png",
+"url":" https://r3-sn-5fo-c37ed63.googleuservideo.com/ball24tv_s1/truetennis_480p/chunks.m3u8?nimblesessionid=30477440&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDE6MTA6MDkgUE0maGFzaF92YWx1ZT1OVm1Xb0Z5ZC9GN2hCQjFjU29GUVhnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTY0MTk5",
+"remote Address": "https://r3-sn-5fo-c37ed63.googleuservideo.com/",
+"content-Type": "application/vnd.apple.mpegurl",
+"referer": "https://www.ball24.tv/",
+"user-Agent":" Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"nimblesessionid":"30477440",
+"wmsAuthSign": "c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDE6MTA6MDkgUE0maGFzaF92YWx1ZT1OVm1Xb0Z5ZC9GN2hCQjFjU29GUVhnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MTY0MTk5"
+
+},
+ { 
 "name":"foxsporthd",
 "image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/foxsporthd.png",
 "url":" https://stream.warpballsod.tv/foxsporthd.m3u8",
