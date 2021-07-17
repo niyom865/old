@@ -60,6 +60,31 @@
 "nimblesessionid":" ",
 "wmsAuthSign": ""
 
+},
+{ 
+"name":"sporttv2",
+"image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/sporttv2.png",
+"url":" https://stream.warpballsod.tv/sporttv2.m3u8",
+"remote Address": "178.128.99.54:443",
+"content-Type": "application/vnd.apple.mpegurl",
+"referer": "https://www.warpballsod.tv/",
+"user-Agent":" Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"sessionid": "",
+"nimblesessionid":" ",
+"wmsAuthSign": ""
+
+},
+{ 
+"name":"7hd",
+"image":"https://www.warpballsod.tv/wp-content/themes/ballsod/logo/7hd.png",
+"url":" https://stream.warpballsod.tv/7hd.m3u8",
+"remote Address": "178.128.99.54:443",
+"content-Type": "application/vnd.apple.mpegurl",
+"referer": "https://www.warpballsod.tv/",
+"user-Agent":" Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36",
+"sessionid": "",
+"nimblesessionid":" ",
+"wmsAuthSign": ""
 }
 ]
 }
