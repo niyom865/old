@@ -107,6 +107,16 @@ https://fo1iptv.com/tv-player/true4u.html
 https://www.topnews.co.th/
 #EXTINF:0 tvg-logo="http://ctbtv.co.th/wp-content/uploads/2013/05/ctblogo.png" ,CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png" ,bbc-earth
+https://www.doofree88.com/live/bbc-earth
+#EXTINF:0 tvg-logo="https://www.doofree88.com/storage/live/9yb9Ng4uhP1goO0FVrIO9ETyOAkKrV3lzBcbPy6R.png" ,bbc-lifestyle
+https://www.doofree88.com/live/bbc-lifestyle
+#EXTINF:0 tvg-logo="https://www.doofree88.com/storage/live/fbbOeGTPrQc10JNtcq4i2RxNTd1E8LSnTB1VvDTv.png" ,national-geographic
+https://www.doofree88.com/live/national-geographic
+#EXTINF:0 tvg-logo="https://www.doofree88.com/storage/live/lJBXFhwbz6WPLehk1WFBZDX7bqBRIM0XWs0Mm8LN.png" ,discovery-channel
+https://www.doofree88.com/live/discovery-channel
+#EXTINF:0 tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png" ,discovery-asia
+https://www.doofree88.com/live/discovery-asia
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/animal-planet.png" ,animal-planet
 https://fo1iptv.com/tv-player/animal-planet.html
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/discovery-asia.png" ,discovery-asia
