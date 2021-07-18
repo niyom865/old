@@ -1,0 +1,78 @@
+{
+   "name": "OX",
+   "author": "Fernado",
+   "url": "191",
+   "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/Dusk.png",
+   "info": "",
+    "stations": [
+          {                
+      "name": "oh-ah",
+      "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/ox-ha.png",
+      "url": "http://oxax.tv/oh-ah.html" ,"referer": "http://oxax.tv/", 
+	viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+        {                
+      "name": "brazzers-tv",
+      "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/BRAZZERS%20TV.png",
+      "url": "http://oxax.tv/brazzers-tv.html" ,"referer": "http://oxax.tv/", 
+	viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+       {                
+      "name": "brazzers-tv-europe",
+      "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/Braazer%20eropn.png",
+      "url": "http://oxax.tv/brazzers-tv-europe.html" ,"referer": "http://oxax.tv/", 
+	viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+       {                
+      "name": "xy-max",
+      "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/Braazer%20eropn.png",
+      "url": "http://oxax.tv/xy-max-hd.html" ,"referer": "http://oxax.tv/", 
+	viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+       {                
+      "name": "xy-plus",
+      "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/xx%20plus.png",
+      "url": "http://oxax.tv/xy-plus-hd.html" ,"referer": "http://oxax.tv/", 
+	viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+       {                
+      "name": "xy-mix",
+      "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/xx%20mix.png",
+      "url": "http://oxax.tv/xy-mix-hd.html" ,"referer": "http://oxax.tv/", 
+	viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+       {                
+      "name": "sl-hot2",
+      "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/SL%20khot.png",
+      "url": "http://oxax.tv/sl-hot2.html" ,"referer": "http://oxax.tv/", 
+	viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+      {                
+      "name": "venus",
+      "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/Venus.png",
+      "url": "http://oxax.tv/venus.html" ,"referer": "http://oxax.tv/", 
+	viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+       {                
+      "name": "venus",
+      "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/ExxxOTica.png",
+      "url": "http://oxax.tv/hot-pleasure.html" ,"referer": "http://oxax.tv/", 
+	viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+      {                
+      "name": "dusk",
+      "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/Dusk.png",
+      "url": "http://oxax.tv/dusk.html" ,"referer": "http://oxax.tv/", 
+	viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+     {                
+      "name": "tv5",
+      "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/5hd.png",
+      "url": "https://doofootball.livestream-cdn.com/iptv/hd-ch5.stream/chunks.m3u8" ,"referer": "https://www.chomfootball.com/", 
+   "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+    "playInNatPlayer": "true"} 
+    ]
+    }
+    ]
+    }
+    
