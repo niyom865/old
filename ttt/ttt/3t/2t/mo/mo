@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20movie/hd-hbo.jpg" ,HBO MULTI BAHASA & SUBSTITLE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hbo-asia.png" ,HBO MULTI BAHASA & SUBSTITLE
 https://wacth.tv/tv-player/hbo-asia.html
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20movie/HBO_Family_logo.png" ,HBO FAM MULTI BAHASA & SUBSTITLE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hbo-family.png" ,HBO FAM MULTI BAHASA & SUBSTITLE
 https://wacth.tv/tv-player/hbo-family.html
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20movie/HBOHits-ASIA.png" ,HBO HITS MULTI BAHASA & SUBSTITLE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hbo-hits.png" ,HBO HITS MULTI BAHASA & SUBSTITLE
 https://wacth.tv/tv-player/hbo-hits.html
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20movie/HBO_Signature_Asia.png" ,HBO SIG MULTI BAHASA & SUBSTITLE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hbo-signature.png" ,HBO SIG MULTI BAHASA & SUBSTITLE
 https://wacth.tv/tv-player/hbo-signature.html
-#EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312012641redbyhbo-hd.png" ,RED MULTI BAHASA & SUBSTITLE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hd-screenred.jpg" ,RED MULTI BAHASA & SUBSTITLE
 https://wacth.tv/tv-player/true-series-384uaxyvkw3w.html
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20movie/cinemax%20red.png" ,CINEMAX MULTI BAHASA & SUBSTITLE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/cinemax-hd.png" ,CINEMAX MULTI BAHASA & SUBSTITLE
 https://wacth.tv/tv-player/cinemax-hd.html
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20movie/HBo.jpg" ,HBO SUBS IND
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hbo-asia%20(1).png" ,HBO SUBS IND
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20movie/hbo%20Red.jpg" ,RED SUBS IND
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hd-screenred.jpg" ,RED SUBS IND
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20movie/cinemax%20red.png" ,CINEMAX SUBS IND
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/cinemax-hd.png" ,CINEMAX SUBS IND
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20movie/HBO_Family_logo.png" ,HBO FAMILY SUBS IND
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hbo-family.png" ,HBO FAMILY SUBS IND
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20movie/HBOHits-ASIA.png" ,HBO HITS SUBS IND
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hbo-hits.png" ,HBO HITS SUBS IND
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20movie/HBO_Signature_Asia.png" ,HBO SIGN SUBS IND
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hbo-signature.png" ,HBO SIGN SUBS IND
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20movie/hd-foxpremium.png" ,FOX Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hd-foxpremium.png" ,FOX Movies
 https://www.we-play.live/watching/tv/fox-movies-soundtrack
 #EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/fox-action-movies.png" ,action
 https://wacth.tv/tv-player/fox-action-movies.html
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20movie/hd-foxfamily.png" ,Fox Family Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hd-foxfamily.png" ,Fox Family Movies
 https://www.we-play.live/watching/tv/fox-family-movies
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-fox.png" ,fox-thai
 https://www.we-play.live/watching/tv/fox-thai
