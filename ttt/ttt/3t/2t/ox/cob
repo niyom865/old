@@ -28,7 +28,11 @@
 "image":"https://movie285.com/wp-content/uploads/2019/06/775.jpg",
 "url":"https://movie285.com/unforgiven-1992-ไถ่บาปด้วยบุญปืน/", 
  "webviewType": "chrome", "embed": true }, 
-     
+   { "name": "the-proposition-เดนเมืองดิบ-2005", 
+"image":"https://movie285.com/wp-content/uploads/2019/08/1906.jpg",
+"url":"https://cdn1.cdn9x.com/cgd81fv8/index.m3u8", 
+ "webviewType": "chrome", "embed": true }, 
+ 
      
  { "name": "เดอะ ลาสต์ เอาท์ลอว์ (1993)", 
 "image":"https://cdn-img.movieclub.tv/img_movies_vertical/1615634307_1.jpg",
