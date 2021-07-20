@@ -7,7 +7,7 @@
  "webviewType": "chrome", "embed": true }, 
  
  { "name": "TVB", 
-"image":"https://i.ytimg.com/an_webp/JVOFLNFUw2I/mqdefault_6s.webp?du=3000&sqp=CLbd2IcG&rs=AOn4CLCGzLUlyk9ojA-v75oIJhA7uL57ag",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/tvb.png",
 "url":"https://www.youtube.com/channel/UCJMJEBLhYT8VCVy0K82omfg/videos", 
  "webviewType": "chrome", "embed": true }, 
 
