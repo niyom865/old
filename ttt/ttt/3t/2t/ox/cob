@@ -1,6 +1,16 @@
 { "name": "คาวบอย ตะวันตก", "author": "Blackdog", 
 "image":"https://sv1.picz.in.th/images/2021/07/16/sMpkoE.png", "url": "", 
 "stations": [ 
+{ "name": "movie285.com", 
+"image":"https://movie285.com/wp-content/uploads/2020/03/movie285logo.png",
+"url":"https://movie285.com/category/western/", 
+ "webviewType": "chrome", "embed": true }, 
+ 
+ { "name": "TVB", 
+"image":"https://i.ytimg.com/an_webp/JVOFLNFUw2I/mqdefault_6s.webp?du=3000&sqp=CLbd2IcG&rs=AOn4CLCGzLUlyk9ojA-v75oIJhA7uL57ag",
+"url":"https://www.youtube.com/channel/UCJMJEBLhYT8VCVy0K82omfg/videos", 
+ "webviewType": "chrome", "embed": true }, 
+
 { "name": "The เจ้าแผ่นดิน (1956)", 
 "image":"https://cdn-img.movieclub.tv/img_movies_vertical/1619075407_1.jpg",
 "url":"https://www.all-movie.tv/Giant%20%281956%29", 
