@@ -147,11 +147,18 @@
     "type": "hls", "auto start": "true"},
     
        {                
+      "name": "foxsports2usa",
+      "image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-091416-tv-station_Fox-Sports-1-(US).png",
+      "url": "https://www.doofootball.com/live/streaming/foxsports2usa/696457" ,"referer": "https://www.doofootball.com/", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+      {                
       "name": "epl1",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl1.png",
       "url": "https://ball365.co/channel/?id=epl1" ,"referer": "https://ball365.co/channel/", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
+     
       {                
       "name": "truesporthd",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/truesporthd.png",
