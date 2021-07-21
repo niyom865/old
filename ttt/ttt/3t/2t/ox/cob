@@ -15,32 +15,28 @@
 "image":"https://cdn-img.movieclub.tv/img_movies_vertical/1619075407_1.jpg",
 "url":"https://www.all-movie.tv/Giant%20%281956%29", 
  "referer": "https://www.all-movie.tv/","viewerType": "hls",user-agent: "Mozilla/5.0 (CrKey OnePlus5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36",
-     "emble": true},	
+     "embed": true},	
 
 { "name": "Adios Gringo (1965)", 
 "image":"https://cdn-img.movieclub.tv/img_movies_vertical/1616050109_1.jpg",
 "url":"https://www.all-movie.tv/Adios%20Gringo%20%281965%29", 
 "referer": "https://www.all-movie.tv/" ,"viewerType": "hls",user-agent: "Mozilla/5.0 (CrKey OnePlus5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36",
-     "emble": true},	
+     "embed": true},	
      
 { "name": "Days-of-Glory-2006", 
 "image":"https://movie2film.com/wp-content/uploads/2021/06/Days-of-Glory-2006.jpg",
-"url":"https://movie2o.com/public/dist/index.html?id=263b57aafa9e32e8767e5839a8bd3f52", 
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"desktop": "true"
-},
+"url":"https://movie2film.com/days-of-glory-2006/", 
+"webviewType": "chrome", "embed": true }, 
+
 { "name": "สมรภูมิเดือด", 
 "image":"https://movie2film.com/wp-content/uploads/2021/05/Forbidden-Ground-2013.jpg",
-"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=y2HtQEmOwTujaEoxur5EWwCuwzdi0TT%2FOthAM5A%2Bw%2BERCoSdV5GZgz3Fw5DK8%2FVdAYuyDTSRfmAnc2sETmGDQO%2FZBp0W0X1PlxRcOF2XBwwEqQZX%2FFP%2Bh7%2FH5fgGxA%3D%3D", 
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"desktop": "true"
-},
+"url":"https://movie2film.com/forbidden-ground-2013/", 
+"webviewType": "chrome", "embed": true }, 
+
 { "name": "วันสิ้นคราม", 
 "image":"https://movie2film.com/wp-content/uploads/2021/05/Tae-Guk-Gi-2004.jpg",
-"url":"https://movie2o.com/public/dist/index.html?id=11cda9fa18ca8500befeb00a5e943444", 
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-"desktop": "true"
-},
+"url":"https://movie2film.com/tae-guk-gi-2004/", 
+"webviewType": "chrome", "embed": true }, 
 
  { "name": "7-สิงห์พิชิตตะวันตก-1980", 
 "image":"https://movie285.com/wp-content/uploads/2021/07/1-1887.jpg",
