@@ -25,8 +25,11 @@
      
 { "name": "Days-of-Glory-2006", 
 "image":"https://movie2film.com/wp-content/uploads/2021/06/Days-of-Glory-2006.jpg",
-"url":"https://movie2film.com/days-of-glory-2006/", 
- "webviewType": "chrome", "embed": true }, 
+"url":"https://movie2o.com/hls4/d9f8f29937d65315683927d64be70478/d9f8f29937d65315683927d64be70478-1.html?msKey=m3", 
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
+
  { "name": "7-สิงห์พิชิตตะวันตก-1980", 
 "image":"https://movie285.com/wp-content/uploads/2021/07/1-1887.jpg",
 "url":"https://movie285.com/the-long-riders-7-สิงห์พิชิตตะวันตก-1980/", 
