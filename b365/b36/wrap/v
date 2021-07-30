@@ -691,7 +691,7 @@
 		{ 
 	   "name": "tptv",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",
-                "url": "http://tpchannel.org/tv/live.php","referer": "https://www.warpfootball.games/live/", 
+                "url": "http://tpchannel.org/tv/live.php","referer": " ", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "type": "hls",
     		"auto start": "true"	     
               },
