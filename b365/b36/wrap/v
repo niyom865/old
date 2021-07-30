@@ -81,101 +81,101 @@
 	{
               "name": "truespor thd2",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd2.png",
-                "url": "https://www.warpfootball.games/live/?ch=truesporthd2","referer": "https://www.warpfootball.games/live/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "type": "hls",
-    		"auto start": "true"	   	   
-              },
+                "url": "https://www.warpfootball.games/live/?ch=truesporthd2","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"	   	   
+             },
 	{
               "name": "truespor thd3",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd3.png",
-                "url": "https://www.warpfootball.games/live/?ch=truesporthd3","referer": "https://www.warpfootball.games/live/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "type": "hls",
-    		"auto start": "true"	   	   
-              },
+                "url": "https://www.warpfootball.games/live/?ch=truesporthd3","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"	   	   
+             },
 	{
               "name": "truespor 5",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesport5.png",
-                "url": "https://www.warpfootball.games/live/?ch=truesport5","referer": "https://www.warpfootball.games/live/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "type": "hls",
-    		"auto start": "true"	   	   
-              },
+                "url": "https://www.warpfootball.games/live/?ch=truesport5","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"	   	   
+             },
 	{
               "name": "truespor 7",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesport7.png",
-                "url": "https://www.warpfootball.games/live/?ch=truesport7","referer": "https://www.warpfootball.games/live/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "type": "hls",
-    		"auto start": "true"	   	   
-              },
+                "url": "https://www.warpfootball.games/live/?ch=truesport7","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"	   	   
+             },
 	{
               "name": "foxsport hd",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsporthd.png",
-                "url": "https://www.warpfootball.games/live/?ch=foxsporthd","referer": "https://www.warpfootball.games/live/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "type": "hls",
-    		"auto start": "true"	   	   
-              },
+                "url": "https://www.warpfootball.games/live/?ch=foxsporthd","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"	   	   
+             },
 	{
               "name": "foxsport 1",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport1.png",
-                "url": "https://www.warpfootball.games/live/?ch=foxsport1","referer": "https://www.warpfootball.games/live/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "type": "hls",
-    		"auto start": "true"	   	   
-              },
+                "url": "https://www.warpfootball.games/live/?ch=foxsport1","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"	   	   
+             },
 	{
               "name": "foxsport 2",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport2.png",
-                "url": "https://www.warpfootball.games/live/?ch=foxsport2","referer": "https://www.warpfootball.games/live/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "type": "hls",
-    		"auto start": "true"	   	   
-              },
+                "url": "https://www.warpfootball.games/live/?ch=foxsport2","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"	   	   
+             },
 	{
               "name": "foxsport 3",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport3.png",
-                "url": "https://www.warpfootball.games/live/?ch=foxsport3","referer": "https://www.warpfootball.games/live/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "type": "hls",
-    		"auto start": "true"	   	   
-              },
+                "url": "https://www.warpfootball.games/live/?ch=foxsport3","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"	   	   
+             },
 	{
               "name": "golf channel",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/golfchannel.png",
-                "url": "https://www.warpfootball.games/live/?ch=golfchannel","referer": "https://www.warpfootball.games/live/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "type": "hls",
-    		"auto start": "true"	   	   
-              },
+                "url": "https://www.warpfootball.games/live/?ch=golfchannel","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"	   	   
+             },
 	{
               "name": "true tennis",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truetennis.png",
-                "url": "https://www.warpfootball.games/live/?ch=truetennis","referer": "https://www.warpfootball.games/live/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "type": "hls",
-    		"auto start": "true"	   	   
-              },
+                "url": "https://www.warpfootball.games/live/?ch=truetennis","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"	   	   
+             },
 	{
               "name": "true nba",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truenba.png",
-                "url": "https://www.warpfootball.games/live/?ch=truenba","referer": "https://www.warpfootball.games/live/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "type": "hls",
-    		"auto start": "true"	   	   
-              },
+                "url": "https://www.warpfootball.games/live/?ch=truenba","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"	   	   
+             },
 	{
               "name": "bein sport laliga",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsportlaliga.png",
-                "url": "https://www.warpfootball.games/live/?ch=beinsportlaliga","referer": "https://www.warpfootball.games/live/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "type": "hls",
-    		"auto start": "true"	   	   
-              },
+                "url": "https://www.warpfootball.games/live/?ch=beinsportlaliga","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"	   	   
+             },
 	{
               "name": "bein sport laliga",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsportlaliga.png",
-                "url": "https://www.warpfootball.games/live/?ch=beinsportlaliga","referer": "https://www.warpfootball.games/live/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "type": "hls",
-    		"auto start": "true"	   	   
-              },
+                "url": "https://www.warpfootball.games/live/?ch=beinsportlaliga","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"	   	   
+             },
 		{
               "name": "mainevent",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportmainevent.png",
-                "url": "https://www.warpfootball.games/live/?ch=skysportmainevent","referer": "https://www.warpfootball.games/live/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "type": "hls",
-    		"auto start": "true"	   	   
-              },
+                "url": "https://www.warpfootball.games/live/?ch=skysportmainevent","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"	   	   
+             },
 		{
               "name": "mainevent",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportmainevent.png",
