@@ -34,7 +34,7 @@
             {
               "name": "epl3",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",
-                "url": "https://www.warpfootball.games/live/?ch=epl3"," "webviewType": "chrome", "embed": true },
+                "url": "https://www.warpfootball.games/live/?ch=epl3", "webviewType": "chrome", "embed": true },
 	{
               "name": "epl4",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl4.png",
