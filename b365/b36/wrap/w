@@ -59,17 +59,11 @@
 	{
               "name": "bein1",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
-                "url": "https://www.warpfootball.games/live/?ch=bein1","referer": "https://www.warpfootball.games/live/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "type": "hls",
-    		"auto start": "true"	   	   
-              },
+                "url": "https://www.warpfootball.games/live/?ch=bein1", "webviewType": "chrome", "embed": true },
 	{
               "name": "bein2",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein2.png",
-                "url": "https://www.warpfootball.games/live/?ch=bein2","referer": "https://www.warpfootball.games/live/", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "type": "hls",
-    		"auto start": "true"	   	   
-              },
+                "url": "https://www.warpfootball.games/live/?ch=bein2", "webviewType": "chrome", "embed": true },
 	{
               "name": "truesport hd",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd.png",
