@@ -11,15 +11,15 @@
          "stations": [ 
             {name:"warpfootball",
                   image:"https://www.warpfootball.games/wp-content/uploads/Logo-warp-game-01-e1580715356367.png",
-                    url:"https://www.warpfootball.games/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/",
+                  "url":"https://www.warpfootball.games/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/",
                   "webviewType": "chrome", "embed": " true" },
 	    {name:"warpfootball.games",
                   image:"https://www.warpfootball.games/wp-content/uploads/Logo-warp-game-01-e1580715356367.png",
-                    url:"https://www.warpfootball.games/",
+                  "url":"https://www.warpfootball.games/",
                   "webviewType": "chrome", "embed":" true" },
 	    {name:"liveballsod",
                   image:"https://www.liveballsod.com/wp-content/uploads/2018/08/logo250.png",
-                    url:"https://www.liveballsod.com/",
+                  "url":"https://www.liveballsod.com/",
                   "webviewType": "chrome", "embed":" true" },
 	   {
               "name": "epl1",
