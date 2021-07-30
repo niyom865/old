@@ -1,0 +1,108 @@
+{ 
+   "name": "Warpfootball",
+   "author":"FERNADO",       
+   "url": "",
+   "image": "https://www.warpfootball.games/wp-content/uploads/Logo-warp-game-01-e1580715356367.png",
+   "info": "",
+   "groups": [   
+      { 
+         "name": "Sports", 
+         "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",       
+         "stations": [ 
+            {name:"warpfootball",
+                  image:"https://www.warpfootball.games/wp-content/uploads/Logo-warp-game-01-e1580715356367.png",
+                    url:"https://www.warpfootball.games/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/",
+                  "webviewType": "chrome", "embed": true },
+	    {name:"warpfootball.games",
+                  image:"https://www.warpfootball.games/wp-content/uploads/Logo-warp-game-01-e1580715356367.png",
+                    url:"https://www.warpfootball.games/",
+                  "webviewType": "chrome", "embed": true },
+	    {name:"liveballsod",
+                  image:"https://www.liveballsod.com/wp-content/uploads/2018/08/logo250.png",
+                    url:"https://www.liveballsod.com/",
+                  "webviewType": "chrome", "embed": true },
+	   {
+              "name": "epl1",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",
+                "url": "https://www.warpfootball.games/live/?ch=epl1","webviewType": "chrome", "embed": true },
+             
+            {
+              "name": "epl2",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl2.png",
+                "url": "https://www.warpfootball.games/live/?ch=epl2","webviewType": "chrome", "embed": true },
+            {
+              "name": "epl3",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",
+                "url": "https://www.warpfootball.games/live/?ch=epl3","webviewType": "chrome", "embed": true },
+	{
+              "name": "epl4",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl4.png",
+                "url": "https://www.warpfootball.games/live/?ch=epl4","webviewType": "chrome", "embed": true },
+	{
+              "name": "epl5",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl5.png",
+                "url": "https://www.warpfootball.games/live/?ch=epl5","webviewType": "chrome", "embed": true },
+	{
+              "name": "bein1",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
+                "url": "https://www.warpfootball.games/live/?ch=bein1", "webviewType": "chrome", "embed": true },
+	{
+              "name": "bein2",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein2.png",
+                "url": "https://www.warpfootball.games/live/?ch=bein2", "webviewType": "chrome", "embed": true },
+	{
+              "name": "truesport hd",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd.png",
+                "url": "https://www.warpfootball.games/live/?ch=truesporthd","webviewType": "chrome", "embed": true },
+	{
+              "name": "truespor thd2",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd2.png",
+                "url": "https://www.warpfootball.games/live/?ch=truesporthd2","webviewType": "chrome", "embed": true },
+	{
+              "name": "truespor thd3",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd3.png",
+                "url": "https://www.warpfootball.games/live/?ch=truesporthd3","webviewType": "chrome", "embed": true },
+	{
+              "name": "truespor 5",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesport5.png",
+                "url": "https://www.warpfootball.games/live/?ch=truesport5","webviewType": "chrome", "embed": true },
+	{
+              "name": "truespor 7",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesport7.png",
+                "url": "https://www.warpfootball.games/live/?ch=truesport7","webviewType": "chrome", "embed": true },
+	{
+              "name": "foxsport hd",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsporthd.png",
+                "url": "https://www.warpfootball.games/live/?ch=foxsporthd","webviewType": "chrome", "embed": true },
+	{
+              "name": "foxsport 1",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport1.png",
+                "url": "https://www.warpfootball.games/live/?ch=foxsport1","webviewType": "chrome", "embed": true },
+	{
+              "name": "foxsport 2",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport2.png",
+                "url": "https://www.warpfootball.games/live/?ch=foxsport2","webviewType": "chrome", "embed": true },
+	{
+              "name": "foxsport 3",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport3.png",
+                "url": "https://www.warpfootball.games/live/?ch=foxsport3","webviewType": "chrome", "embed": true },
+	{
+              "name": "golf channel",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/golfchannel.png",
+                "url": "https://www.warpfootball.games/live/?ch=golfchannel","webviewType": "chrome", "embed": true },
+	{
+              "name": "true tennis",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truetennis.png",
+                "url": "https://www.warpfootball.games/live/?ch=truetennis","webviewType": "chrome", "embed": true },
+	{
+              "name": "true nba",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truenba.png",
+                "url": "https://www.warpfootball.games/live/?ch=truenba","webviewType": "chrome", "embed": true },
+	{
+              "name": "bein sport laliga",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsportlaliga.png",
+                "url": "https://www.warpfootball.games/live/?ch=beinsportlaliga","webviewType": "chrome", "embed": true } 
+                ]
+                }
+                ]
+                }
