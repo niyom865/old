@@ -47,21 +47,21 @@
               "name": "epl4",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl4.png",
                 "url": "https://www.warpfootball.games/live/?ch=epl4","referer": " ", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
     		"deskpop": "true"	   	   
              },
 	{
               "name": "epl5",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl5.png",
                 "url": "https://www.warpfootball.games/live/?ch=epl5","referer": " ", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
     		"deskpop": "true"	   	   
              },
 	{
               "name": "bein1",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
                 "url": "https://www.warpfootball.games/live/?ch=bein1","referer": " ", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
     		"deskpop": "true"	   	   
              },
 	{
