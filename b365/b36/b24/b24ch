@@ -7,7 +7,7 @@
    "groups": [   
       { 
          "name": "Sports", 
-         "image": "https://www.ball24.tv/wp-content/themes/ball24/image/menu.pngg",       
+         "image": "https://www.ball24.tv/wp-content/themes/ball24/image/menu.png",       
          "stations": [ 
             {name:"warpfootball",
                   image:"https://www.ball24.tv/wp-content/themes/ball24/image/menu.png",
