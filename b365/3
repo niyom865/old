@@ -1,4 +1,12 @@
 { 
+   "name": "Warpfootball",
+   "author":"FERNADO",       
+   "url": "",
+   "image": "https://www.warpfootball.games/wp-content/uploads/Logo-warp-game-01-e1580715356367.png",
+   "info": "",
+   "groups": [   
+
+{ 
          	"name": "ดิจิตัลทีวี",
          	 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/pptv.png",  
          	 "stations": [ 
