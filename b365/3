@@ -1,0 +1,142 @@
+{ 
+         	"name": "ดิจิตัลทีวี",
+         	 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/pptv.png",  
+         	 "stations": [ 
+             { 
+	   "name": "3HD",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/3hd.png",
+                "url": "https://www.warpfootball.games/live/?ch=3hd","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+	 { 
+	   "name": "7HD",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/7hd.png",
+                "url": "https://www.warpfootball.games/live/?ch=7hd","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+	 { 
+	   "name": "Thairath",
+                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/thairath.png",
+                "url": "https://www.warpfootball.games/live/?ch=thairath","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+	{ 
+	   "name": "5HD",
+                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/5hd.png",
+                "url": "https://www.warpfootball.games/live/?ch=5hd","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+	{ 
+	   "name": "MCOT HD",
+                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/mcot.png",
+                "url": "https://www.warpfootball.games/live/?ch=mcot","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+	  { 
+	   "name": "PPTV",
+                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/pptv.png",
+                "url": "https://www.warpfootball.games/live/?ch=pptv","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+	 { 
+	   "name": "AMARIN",
+                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/amarin.png",
+                "url": "https://www.warpfootball.games/live/?ch=amarin","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+{ 
+	   "name": "workpoint",
+                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/workpoint.png",
+                "url": "https://www.warpfootball.games/live/?ch=workpoint","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+	 { 
+	   "name": "MONO29",
+                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/mono29.png",
+                "url": "https://www.warpfootball.games/live/?ch=mono29","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+	{ 
+	   "name": "TPBS",
+                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/thaipbs.png",
+                "url": "https://www.warpfootball.games/live/?ch=thaipbs","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+		{ 
+	   "name": "one-hd",
+                "image": "https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg",
+                "url": "https://www.we-play.live/watching/tv/one-hd","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+	{ 
+	   "name": "gmm25",
+                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/gmm25.png",
+                "url": "https://www.warpfootball.games/live/?ch=gmm25","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+		{ 
+	   "name": "ch8",
+                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/ch8.png",
+                "url": "https://www.warpfootball.games/live/?ch=ch8","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+	{ 
+	   "name": "true4u",
+                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/true4u.png",
+                "url": "https://www.warpfootball.games/live/?ch=true4u","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+		{ 
+	   "name": "tnn",
+                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/tnn.png",
+                "url": "https://www.warpfootball.games/live/?ch=tnn","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+		{ 
+	   "name": "nation",
+                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/nation.png",
+                "url": "https://www.warpfootball.games/live/?ch=nation","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+		{ 
+	   "name": "jkn18",
+                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/newtv.png",
+                "url": "https://www.warpfootball.games/live/?ch=newtv","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+		{ 
+	   "name": "voicetv",
+                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/voicetv.png",
+                "url": "https://www.warpfootball.games/live/?ch=voicetv","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+		{ 
+	   "name": "tptv",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",
+                "url": "http://tpchannel.org/tv/live.php","referer": "referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},  
+		{ 
+	   "name": "tptv",
+                "image": "https://www.blueskychannel.tv/wp-content/uploads/2021/06/Big-logo-BSC-web.png",
+                "url": "https://www.blueskychannel.tv/","referer": "referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	
+		
+              },
+		{ 
+	   "name": "topnews",
+                "image": "https://images.topnews.co.th/2021/04/cropped-topnews-logo.png",
+                "url": "https://live.topnews.co.th/hls/topnews.m3u8"  
+              },
+	{ 
+	   "name": "NBT",
+                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/nbt.png",
+                "url": "https://www.warpfootball.games/live/?ch=nbt","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"    	   
+              }	
+          ]
+        }
+]
+}
