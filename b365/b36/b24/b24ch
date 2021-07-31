@@ -412,14 +412,14 @@
 		{
               "name": "digisport2 romania",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/digisport2romania.png",
-	       "url": "https://www.ball24.tv/allchannel/?id=digisport1romania","referer": " ", 
+	       "url": "https://www.ball24.tv/allchannel/?id=digisport2romania","referer": " ", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
     		"deskpop": "true"	   	   
              },
 	{
               "name": "digisport3 romania",
-               "image": "hhttps://www.ball24.tv/allchannel/?id=ttps://www.warpfootball.games/wp-content/themes/colormag/logo/digisport3romania.png",
-                "url": "https://www.warpfootball.games/live/?ch=digisport3romania","referer": " ", 
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/digisport3romania.png",
+                "url": "https://www.ball24.tv/allchannel/?id=digisport3romania","referer": " ", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
     		"deskpop": "true"	   	   
              },
