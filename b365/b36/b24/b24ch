@@ -630,6 +630,15 @@
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
     		"deskpop": "true"	   	   
              },
+	     { 
+	   "name": "5HD",
+                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/5hd.png",
+                "url": "http://tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1.php","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "": "true",
+    		"deskpop": "true"	   	   
+             },
+	     
+	     
 	{ 
 	   "name": "MCOT HD",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/mcot.png",
