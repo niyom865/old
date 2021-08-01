@@ -176,7 +176,23 @@
                "image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-025708-tv-station_bEin-Sports-1-(AU).png",
                 "url": "https://www.doofootball.com/dootv/live/beinsports2au#main_dootv","referer": " ", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},  
+		
+		{
+              "name": "beinsports1tu",
+               "image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-025748-tv-station_bEin-Sports-1-(TU).png",
+                "url": "https://www.doofootball.com/dootv/live/beinsports1tu#main_dootv","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
     		"deskpop": "true"},   	   
+	{
+              "name": "beinsports2tu",
+               "image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-025806-tv-station_bEin-Sports-2-(TU).png",
+                "url": "https://www.doofootball.com/dootv/live/beinsports2tu#main_dootv","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	   
+		
+		
+		
 		{
               "name": "mainevent",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportmainevent.png",
