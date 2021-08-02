@@ -19,8 +19,8 @@
        {                
       "name": "3hd",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/3hd.png",
-      "url": "https://bec-streaming-jb5qph.cdn.byteark.com/live/playlist.m3u8 " ,  
-      "referer": "https://ch3plus.com/", 
+      "url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8 " ,  
+      "referer": "https://api-ch3plus.mello.me/api/live", 
       user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4590.0 Safari/537.36",
      desktop: true},
      
