@@ -19,9 +19,9 @@
        {                
       "name": "3hd",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/3hd.png",
-      "url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8 " ,  
-      "referer": "https://api-ch3plus.mello.me/api/live", 
-      user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4590.0 Safari/537.36",
+      "url": "https://ch3plus.com/live " ,  
+      "referer": "", 
+      "embed": "true",
      desktop: true},
      
      
@@ -81,8 +81,22 @@
       "referer": " "  
 	 },
      
+     {                
+      "name": "workpoint",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/gmm25.png",
+      "url": "https://ball365.co/channel/?id=gmm25" ,"referer": "https://ball365.co/channel/", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
      
      
+     
+      {                
+      "name": "gmm25",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/gmm25.png",
+      "url": "https://www.dailymotion.com/embed/video/k7KnbDPalNddQqrJq1J?autoplay=1&queue-enable=false" ,
+      "url": "https://stream-01.sg1.dailymotion.com/sec(pDyZxTTGl2hc8DOnzK37_fbU0lAu6EAc99FUN0nrs4Y)/dm/3/x6rz4t7/s/live-3.m3u8#cell=lsg1" ,
+      "referer": " "  
+	 },
      
      
      
