@@ -19,7 +19,7 @@
        {                
       "name": "3hd",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/3hd.png",
-      "url": "https://bec-streaming-jb5qph.cdn.byteark.com/live/playlist.m3u8 " , "url": "https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8 " ,
+      "url": "https://bec-streaming-jb5qph.cdn.byteark.com/live/playlist.m3u8 " ,  
       "referer": "https://ch3plus.com/", 
      desktop: true},
      
