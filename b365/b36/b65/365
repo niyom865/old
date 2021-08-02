@@ -109,7 +109,7 @@
       {                
       "name": "amarin",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/amarin.png",
-      "url": "https://www.amarintv.com/live" ,"referer": "https://www.amarintv.com/live", 
+      "url": "https://www.dailymotion.com/embed/video/x7z8zsu?autoplay=1&queue-enable=false" ,"referer": "", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
      
@@ -143,7 +143,7 @@
       {                
       "name": "thaipbs",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/thaipbs.png",
-      "url": "https://program.thaipbs.or.th/live" ,"referer": "https://program.thaipbs.or.th/live", 
+      "url": "https://program.thaipbs.or.th/static/fonts/sukhumvit/sukhumvit-set_medium-webfont.woff2" ,"referer": "https://program.thaipbs.or.th/live", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
      
@@ -188,7 +188,7 @@
        {                
       "name": "nation",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/nation.png",
-      "url": "https://www.nationtv.tv/" ,"referer": "https://www.nationtv.tv/", 
+      "url": "https://www.dailymotion.com/embed/video/x6eoldf?autoplay=1&mute=1&queue-enable=false&controls=true&sharing-enable=false" ,"referer": " ", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
      
@@ -218,7 +218,7 @@
        {                
       "name": "mcot",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/mcot.png",
-      "url": "https://tv.mcot.net/mcothd" ,"referer":"https://tv.mcot.net/mcothd", 
+      "url": "http://avn.innity.com/view/?campaignid=20499&adid=189285&zoneid=0&cb=[timestamp]" ,"referer":"https://tv.mcot.net/mcothd", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
      
