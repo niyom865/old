@@ -142,9 +142,8 @@
       {                
       "name": "thaipbs",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/thaipbs.png",
-      "url": "https://program.thaipbs.or.th/static/fonts/sukhumvit/sukhumvit-set_medium-webfont.woff2" ,"referer": "https://program.thaipbs.or.th/live", 
-	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
-     desktop: true},
+      "url": "https://program.thaipbs.or.th/live" ,"referer": " ", 
+	 "embed": "true", desktop: true},
      
      
      
