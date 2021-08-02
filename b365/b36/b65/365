@@ -16,6 +16,14 @@
       "url": "https://ball365.co/channel/?id=3hd" ,"referer": "https://ball365.co/", 
 	viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
+       {                
+      "name": "3hd",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/3hd.png",
+      "url": "https://ch3plus.com/live" ,"referer": "https://ch3plus.com/live", 
+	viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+     
+     
      {                
       "name": "tv5",
       "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/5hd.png",
@@ -35,11 +43,28 @@
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
      {                
+      "name": "7hd",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/7hd.png",
+      "url": "https://bcovlive-a.akamaihd.net/efdfa4b2dfc54cb38fdb120d52973e95/ap-southeast-1/5282994675001/profile_2/chunklist.m3u8" ,"referer": "https://www.ch7.com/live.html", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+     
+     
+     
+     {                
       "name": "thairath",
       "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/thairath.png",
       "url": "https://ball365.co/channel/?id=thairath" ,"referer": "https://ball365.co/", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
+     
+      {                
+      "name": "thairath",
+      "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/thairath.png",
+      "url": "https://thairathtv.cdn.byteark.com/fleetstream/live1/720p/index.m3u8" ,"referer": "https://www.thairath.co.th/tv/live", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+     
      
      {                
       "name": "workpoint",
@@ -47,12 +72,16 @@
       "url": "https://ball365.co/channel/?id=workpoint" ,"referer": "https://ball365.co/channel/", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
-      {                
+     {                
       "name": "workpoint",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/workpoint.png",
-      "url": "https://stream-02.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8iDPDZHnnFD3P5VLrUkQIdc)/dm/3/x6g9qjj/s/live-2.m3u8#cell=lsg1" ,"referer": "", 
-	 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36", 
-    "playInNatPlayer": "true"},
+      "url": "https://www.workpointtv.com/live-stream-page/" ,"referer": "https://www.workpointtv.com/live-stream-page/", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+     
+     
+     
+     
      
      
      {                
@@ -61,12 +90,30 @@
       "url": "https://ball365.co/channel/?id=pptv" ,"referer": "https://ball365.co/channel/",  
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
+     
+       {                
+      "name": "pptv",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/pptv.png",
+      "url": "https://www.pptvhd36.com/live" ,"referer": "https://www.pptvhd36.com/live",  
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+     
+     
+     
      {                
       "name": "amarin",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/amarin.png",
       "url": "https://ball365.co/channel/?id=amarin" ,"referer": "https://ball365.co/channel/", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
+      {                
+      "name": "amarin",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/amarin.png",
+      "url": "https://www.amarintv.com/live" ,"referer": "https://www.amarintv.com/live", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+     
+     
      {                
       "name": "mono29",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/mono29.png",
@@ -94,29 +141,74 @@
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
       {                
+      "name": "thaipbs",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/thaipbs.png",
+      "url": "https://program.thaipbs.or.th/live" ,"referer": "https://program.thaipbs.or.th/live", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+     
+     
+     
+      {                
       "name": "ch8",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/ch8.png",
       "url": "https://ball365.co/channel/?id=ch8" ,"referer": "https://ball365.co/channel/", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
+     {                
+      "name": "ch8",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/ch8.png",
+      "url": "https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8" ,"referer": "https://www.thaich8.com/live", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+     
+     
+     
       {                
       "name": "nbt",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/nbt.png",
       "url": "https://ball365.co/channel/?id=nbt" ,"referer": "https://ball365.co/channel/", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
+       {                
+      "name": "nbt",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/nbt.png",
+      "url": "https://tv.trueid.net/live/nbt" ,"referer": "", 
+	"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"},
+     
+     
+     
       {                
       "name": "nation",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/nation.png",
       "url": "https://ball365.co/channel/?id=nation" ,"referer": "https://ball365.co/channel/", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
+       {                
+      "name": "nation",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/nation.png",
+      "url": "https://www.nationtv.tv/" ,"referer": "https://www.nationtv.tv/", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+     
+     
+     
       {                
       "name": "tnn",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/tnn.png",
       "url": "https://ball365.co/channel/?id=tnn" ,"referer": "https://ball365.co/channel/", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
+     
+      {                
+      "name": "tnn",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/tnn.png",
+      "url": "https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8" ,"referer": "https://www.tnnthailand.com/live/", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+     
+     
        {                
       "name": "mcot",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/mcot.png",
@@ -124,17 +216,42 @@
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
        {                
+      "name": "mcot",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/mcot.png",
+      "url": "https://tv.mcot.net/mcothd" ,"referer":"https://tv.mcot.net/mcothd", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+     
+     
+       {                
       "name": "newtv",
       "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/newtv.png",
       "url": "https://ball365.co/channel/?id=newtv" ,"referer": "https://ball365.co/channel/", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
+      {                
+      "name": "newtv",
+      "image": "https://www.ball24.tv/wp-content/themes/ball24/logo/newtv.png",
+      "url": "https://tv.trueid.net/live/jkn18" ,"referer": " ", 
+	"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"},
+     
+     
+     
        {                
       "name": "voicetv",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/voicetv.png",
       "url": "https://ball365.co/channel/?id=voicetv" ,"referer": "https://ball365.co/channel/", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
+      {                
+      "name": "voicetv",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/voicetv.png",
+      "url": "https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/Cv8EjkijtNjI3Mnii5y5-dMmaVcm1BJ1ClnKIZ16Ld7kCDmOiyxrCAXbvuu3Vk674TwKogG2wZVa5l4MmIvQ0rkw8PAN1v-_ll-huMJQ3elHUJOx7u19NqankkU2mCTZwuRAAf5HZmyXV8Kmw3fPqTNbwEJiZ-DGM83et-sBvnkH_eAm2BMTGD5PPn-ZSBBydV0fvIsMXV4Tzpu9MT1l_9fLFn0RLZdXc5poqYCoKpkdxCYADy6Hzefq_AZTDhuGNrgyG4zYtY7ixhRqqcSHk8cQwSaOHqgTW8Mob9oBRqeNDkeiG-12-pUzP_-6LCTkelyrMwduovCxmyPDjd2VeJI6cOpruvMaduhl_LjJGaZHJ7KIxhThZDVSzGyNX4ycAh37jldEEgXuziUOtIJnypa-St_pEl6M-RIA0DuNxuEpFapVuD-YJQcjD9meloo0h5kwRt-rE1SfIawQPQWuR6kw5_X2a4nBNkr0XdobCKlrBgoky4v-23H14xfkdr9SQ_AbkWJKKCGTKGbQY3NlW-2DJ1T-2kk_42pO66DzdhMvmun4bDAn84-lHffnUdlJttOTgvnA1lGCag15GtzHCKsGybnK4YR5rNNtvNnUPYW_eEgdjxIM7u-O8DfSBfZufz-G5Z0fGdsthN3s-VowdYMxlYrFacD8cLeJl8OBObEQVvouSI6izFX34FbyOo0KvWZUpPIHDtkh4W2cewu8cqSKAKAsaPHQT_FPGIF81sDwQgDKj94MnY884P0qhKg2Q3mT2u4kYU8_1f3R2PwPi5-ouGfNzka706x8lFfdx-pBvDCYJvTs6omePi9xD5AP3zHdzEbLKjpm6AXU2FfHkH2qEhBwcPDXsm9P2gyiyp-ftVUqGgzuIQQVv4xQjXplodQ.m3u8" ,"referer": "https://voicetv.co.th/live", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+     
+     
      {                
       "name": "news1",
       "image": "https://news1live.com/images/news1-logo.jpg",
