@@ -21,6 +21,7 @@
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/3hd.png",
       "url": "https://bec-streaming-jb5qph.cdn.byteark.com/live/playlist.m3u8 " ,  
       "referer": "https://ch3plus.com/", 
+      user-agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4590.0 Safari/537.36",
      desktop: true},
      
      
@@ -218,8 +219,9 @@
        {                
       "name": "mcot",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/mcot.png",
-      "url": "https://tv.mcot.net/index" ,"referer":"", 
-	 "embed": "true", desktop: true},
+      "url": "https://www.dailymotion.com/embed/video/x74wlgj?autoPlay=0&queue-enable=false" ,
+      "url": "https://stream-01.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xtRs2d-YRQQrcxwke3Vm1f0)/dm/3/x74wlgj/s/live-3.m3u8#cell=lsg1" ,
+      "referer":""},
      
      
        {                
