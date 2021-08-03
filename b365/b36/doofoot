@@ -289,6 +289,28 @@
                 "url": "https://www.doofootball.com/dootv/live/tv3max#main_dootv","referer": " ", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
     		"deskpop": "true"},   	   
+		
+		{
+              "name": "diemasport1",
+               "image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-025910-tv-station_Diema-Sport-(BG).png",
+                "url": "https://www.doofootball.com/dootv/live/diemasport1#main_dootv","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	  
+		{
+              "name": "Premier-Sports-1",
+               "image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094920-tv-station_Premier-Sports-1-(UK).png",
+                "url": "https://www.doofootball.com/dootv/live/premiersports1#main_dootv","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	 
+		
+		{
+              "name": "canal11pt",
+               "image": "https://api.cloud-streaming.com/images/channel-logo/tv-station--1787.png",
+                "url": "https://www.doofootball.com/dootv/live/canal11pt#main_dootv","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"deskpop": "true"},   	 
+		
+		
 		{
               "name": "fox1 nl",
                "image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030739-tv-station_Fox-Sports-1-(NL).png",
