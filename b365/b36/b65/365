@@ -288,7 +288,7 @@
       {                
       "name": "voicetv",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/voicetv.png",
-      "url": "https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/Cv8EjkijtNjI3Mnii5y5-dMmaVcm1BJ1ClnKIZ16Ld7kCDmOiyxrCAXbvuu3Vk674TwKogG2wZVa5l4MmIvQ0rkw8PAN1v-_ll-huMJQ3elHUJOx7u19NqankkU2mCTZwuRAAf5HZmyXV8Kmw3fPqTNbwEJiZ-DGM83et-sBvnkH_eAm2BMTGD5PPn-ZSBBydV0fvIsMXV4Tzpu9MT1l_9fLFn0RLZdXc5poqYCoKpkdxCYADy6Hzefq_AZTDhuGNrgyG4zYtY7ixhRqqcSHk8cQwSaOHqgTW8Mob9oBRqeNDkeiG-12-pUzP_-6LCTkelyrMwduovCxmyPDjd2VeJI6cOpruvMaduhl_LjJGaZHJ7KIxhThZDVSzGyNX4ycAh37jldEEgXuziUOtIJnypa-St_pEl6M-RIA0DuNxuEpFapVuD-YJQcjD9meloo0h5kwRt-rE1SfIawQPQWuR6kw5_X2a4nBNkr0XdobCKlrBgoky4v-23H14xfkdr9SQ_AbkWJKKCGTKGbQY3NlW-2DJ1T-2kk_42pO66DzdhMvmun4bDAn84-lHffnUdlJttOTgvnA1lGCag15GtzHCKsGybnK4YR5rNNtvNnUPYW_eEgdjxIM7u-O8DfSBfZufz-G5Z0fGdsthN3s-VowdYMxlYrFacD8cLeJl8OBObEQVvouSI6izFX34FbyOo0KvWZUpPIHDtkh4W2cewu8cqSKAKAsaPHQT_FPGIF81sDwQgDKj94MnY884P0qhKg2Q3mT2u4kYU8_1f3R2PwPi5-ouGfNzka706x8lFfdx-pBvDCYJvTs6omePi9xD5AP3zHdzEbLKjpm6AXU2FfHkH2qEhBwcPDXsm9P2gyiyp-ftVUqGgzuIQQVv4xQjXplodQ.m3u8" ,"referer": "https://voicetv.co.th/live", 
+      "url": "https://voicetv.co.th/live " ,"referer": "https://voicetv.co.th/live", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
      
