@@ -769,7 +769,7 @@
                "name": "expwild",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
                 "url": "https://tv.trueid.net/live/true-explore-wild",
-		desktop viewer: "true",playInNatPlayer: "true" 
+		"desktopviewer": "true","playInNatPlayer": "true" 
                },
 	       
 		
@@ -778,7 +778,9 @@
                 "image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051712-true-explore-sci.png",
                 "url": "https://www.doofootball.com/dootv/live/truesci#main_dootv","referer": " ", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
-    		"deskpop": "true"},   	  
+    		"deskpop": "true"}, 
+		
+		
 		{ 
 	   "name": "truelife",
                 "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-explife.png",
