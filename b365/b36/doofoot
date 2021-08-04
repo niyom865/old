@@ -765,12 +765,13 @@
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
     		"desktop": "true"},   	
 		
-		 { 
-               "name": "expwild",
-                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
-                "url": "https://tv.trueid.net/live/true-explore-wild",
-		"desktopviewer": "true","playInNatPlayer": "true" 
-               },
+		 {
+"name":"TRUE EXPLORE WILD",
+"image":"https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/sd-expwild.png",
+"url":"https://tv.trueid.net/embed/true-explore-wild?autoplay=yes&nopageview=yes",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true"
+},
 	       
 		
 		{ 
