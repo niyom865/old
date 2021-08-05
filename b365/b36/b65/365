@@ -183,6 +183,14 @@
       "url": "https://ball365.co/channel/?id=thaipbs" ,"referer": "https://ball365.co/channel/", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
+     
+      {                
+      "name": "thaipbs",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/thaipbs.png",
+      "url": "https://thaipbs-vod.cdn.byteark.com/medias/program/S/c/Z/ScZx7P4ko83J/hls/480p/prog_index.m3u8" ,"referer": "https://program.thaipbs.or.th/live", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+     
       {                
       "name": "thaipbs",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/thaipbs.png",
