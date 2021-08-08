@@ -76,7 +76,7 @@
      {                
       "name": "workpoint",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/workpoint.png",
-      "url": "https://www.workpointtv.com/live-stream-page/" ,
+      "url": "https://www.dailymotion.com/embed/video/x6g9qjj?api=postMessage&autoplay=false&id=player&origin=https%3A%2F%2Fwww.workpointtv.com" ,
      user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
      
@@ -266,7 +266,7 @@
        {                
       "name": "mcot",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/mcot.png",
-      "url": "https://www.dailymotion.com/embed/video/x74wlgj?autoPlay=0&queue-enable=false" ,
+      "url": "https://www.dailymotion.com/embed/video/x74wlgj?autoPlay=0&queue-enable=false&id=player&origin=https://www.mcot.net/" ,
      user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
      
