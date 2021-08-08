@@ -533,7 +533,21 @@
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/espnus.png",
                 "url": "https://www.doofootball.com/dootv/live/espnus#main_dootv","referer": " ", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
-    		"desktop": "true"},   	   
+    		"desktop": "true"}, 
+		{
+              "name": "supersport1al",
+               "image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-125556-tv-station_Super-Sport-2-(AL).png",
+                "url": "https://www.doofootball.com/dootv/live/supersport1al#main_dootv","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"desktop": "true"},   	
+		
+		{
+              "name": "supersport2al",
+               "image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-125556-tv-station_Super-Sport-2-(AL).png",
+                "url": "https://www.doofootball.com/dootv/live/supersport2al#main_dootv","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+    		"desktop": "true"},   	
+		
 	{
               "name": "pfc",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/pfc.png",
