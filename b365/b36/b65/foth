@@ -241,8 +241,8 @@
       "name": "mcot",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/mcot.png",
       "url": "https://www.dailymotion.com/embed/video/x74wlgj?autoPlay=0&queue-enable=false,  
-     embed:"true",
-     desktop: true},
+     "referer": " ", 
+	 "embed": "true", desktop: true},
      
      
        {                
