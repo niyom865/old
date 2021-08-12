@@ -77,8 +77,8 @@
       "name": "workpoint",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/workpoint.png",
       "url": "https://www.dailymotion.com/embed/video/x6g9qjj?api=postMessage&autoplay=false&id=player&origin=https%3A%2F%2Fwww.workpointtv.com",
-      embed: true,
-     desktop: true},
+     "referer": " ", 
+	 "embed": "true", desktop: true},
      
      {                
       "name": "workpoint",
@@ -93,8 +93,8 @@
       "name": "gmm25",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/gmm25.png",
       "url": "https://www.dailymotion.com/embed/video/k7KnbDPalNddQqrJq1J?autoplay=1&queue-enable=false",
-     embed: true,
-     desktop: true},
+     "referer": " ", 
+	 "embed": "true", desktop: true},
      
      
       {                
@@ -150,8 +150,8 @@
       "name": "amarin",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/amarin.png",
       "url": "https://www.dailymotion.com/embed/video/x7z8zsu?autoplay=1&queue-enable=false",
-       embed: true,
-     desktop: true},
+       "referer": " ", 
+	 "embed": "true", desktop: true},
      
      
      {                
@@ -236,8 +236,8 @@
       "name": "nation",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/nation.png",
       "url": "https://www.dailymotion.com/embed/video/x6eoldf?autoplay=1&mute=1&queue-enable=false&controls=true&sharing-enable=false",
-      embed: true,
-     desktop: true},
+      "referer": " ", 
+	 "embed": "true", desktop: true},
      
      
      
@@ -266,8 +266,8 @@
       "name": "mcot",
       "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/mcot.png",
       "url": "https://www.dailymotion.com/embed/video/x74wlgj?autoPlay=0&queue-enable=false,  
-    "embed": "true",
-     "desktop":"true"},
+     embed:"true",
+     desktop: true},
      
      
        {                
