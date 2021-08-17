@@ -24,56 +24,56 @@
 	   {
               "name": "epl1",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",
-                "url": "https://www.ball24.tv/allchannel/?id=epl1","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/?id=epl1","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
       },   
              {
               "name": "epl1",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",
-                "url": "https://www.ball24.tv/allchannel/?id=epl1backup","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tvl/?id=epl1backup","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
       },   
 	     
             {
               "name": "epl2",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl2.png",
-                "url": "https://www.ball24.tv/allchannel/?id=epl2","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/?id=epl2","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
       },   
             {
               "name": "epl3",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",
-                "url": "https://www.ball24.tv/allchannel/?id=epl3","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/?id=epl3","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
       },   
 	{
               "name": "epl4",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl4.png",
-                "url": "https://www.ball24.tv/allchannel/?id=epl4","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/?id=epl4","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
       },   
 	{
               "name": "epl5",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl5.png",
-                "url": "https://www.ball24.tv/allchannel/?id=epl5","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/?id=epl5","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
       },   
 	     
 	     {
               "name": "astrosupersport",
                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport1.png",
-                "url": "https://www.ball24.tv/allchannel/?id=astrosupersport","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/?id=astrosupersport","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
       },   
 	     
 	     {
               "name": "astrosupersport2",
                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport2.png",
-                "url": "https://www.ball24.tv/allchannel/?id=astrosupersport2","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tvl/?id=astrosupersport2","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
       },   
 	      {
               "name": "astrosupersport3",
                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport3.png",
-                "url": "https://www.ball24.tv/allchannel/?id=astrosupersport3","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/?id=astrosupersport3","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
       },   
 	     
 	      {
               "name": "astrosupersport4",
                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport4.png",
-                "url": "https://www.ball24.tv/allchannel/?id=astrosupersport4","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/?id=astrosupersport4","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
       },   
 	     
 	     
