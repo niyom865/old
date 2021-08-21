@@ -336,6 +336,34 @@
       "url": "https://ball365.co/channel/?id=epl1" ,"referer": "https://ball365.co/channel/", 
 	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
      desktop: true},
+       {   
+      "name": "epl2",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl2.png",
+      "url": "https://ball365.co/channel/?id=epl2" ,"referer": "https://ball365.co/channel/", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+       {   
+      "name": "epl3",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl3.png",
+      "url": "https://ball365.co/channel/?id=epl3" ,"referer": "https://ball365.co/channel/", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+     
+       {   
+      "name": "epl4",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl4.png",
+      "url": "https://ball365.co/channel/?id=epl4" ,"referer": "https://ball365.co/channel/", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+     
+       {   
+      "name": "epl5",
+      "image": "https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl5.png",
+      "url": "https://ball365.co/channel/?id=epl5" ,"referer": "https://ball365.co/channel/", 
+	 viewertype: "hls",user-agent: "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36",
+     desktop: true},
+     
+     
      
       {                
       "name": "truesporthd",
