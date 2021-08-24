@@ -2977,3 +2977,6 @@ https://ustvgo.tv/travel-channel-live-free/
 https://h1.ustvgo.la/VH1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMTo1Nzo0MSBBTSZoYXNoX3ZhbHVlPTBlL1IyVDB4RmxjazhiQ05XZHFXdFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:0 group-title="usa" ,yes-network
 https://ustvgo.tv/yes-network/
+#EXTINF:0 group-title="usa" ,files
+http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd
+
