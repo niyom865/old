@@ -26,15 +26,15 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hd-foxpremium.png" ,FOX Movies
 https://www.we-play.live/watching/tv/fox-movies-soundtrack
 #EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/fox-action-movies.png" ,action
-https://wacth.tv/tv-player/fox-action-movies.html
+https://www.we-play.live/watching/tv/fox-action-movies
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/hd-foxfamily.png" ,Fox Family Movies
 https://www.we-play.live/watching/tv/fox-family-movies
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-fox.png" ,fox-thai
 https://www.we-play.live/watching/tv/fox-thai
 #EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/fox-life-hd.png" ,fox-life
-https://wacth.tv/tv-player/fox-life-hd.html
+https://www.we-play.live/watching/tv/fox-life
 #EXTINF:-1 tvg-logo="https://www.img08.xyz/assets/img/ch_logo/sd-moviehits.png" ,movie-hits
-https://wacth.tv/tv-player/movie-hits.html
+https://www.we-play.live/watching/tv/true-movie-hits
 #EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/true-thai-film.png" ,thaifilm
 https://www.doofree88.com/live/thai-film
 #EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/true-film-hd-bk2gdt2o7xnj.png" ,film-hd
@@ -62,47 +62,47 @@ https://www.doofree88.com/live/axn-hd
 #EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312011426warner-tv.png" ,warnertv
 https://www.doofree88.com/live/warner-tv-hd
 #EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/hits.png" ,hits
-https://wacth.tv/tv-player/hits.html
+https://www.we-play.live/watching/tv/hits
 #EXTINF:-1 tvg-logo="https://wacth.officebk.co/uploads/tv_image/movie-hits.png" ,movie-hits
 https://www.we-play.live/watching/tv/hits-movies
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/amarin-tv.png" ,amarin-tv
-https://wacth.tv/tv-player/amarin-tv.html
+https://www.we-play.live/watching/tv/amarin-tv
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312011936ch3-hd.png" ,ch3-hd
-https://wacth.tv/tv-player/ch3-hd.html
+https://www.we-play.live/watching/tv/ch3-hd
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/ch8-uv5cjyms6as3.png" ,ch8
-https://wacth.tv/tv-player/ch8-rcloygx046k0.html
+https://www.doofree88.com/live/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-8
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/gmm25.png" ,gmm25
-https://wacth.tv/tv-player/tv-player/gmm25.html
+https://www.doofree88.com/live/gmm-channel
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/mcot-hd.png" ,mcot-hd
-https://wacth.tv/tv-player/mcot-hd.html
+https://www.doofree88.com/live/mcot-hd
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/mono-29.png" ,mono-29
-https://wacth.tv/tv-player/tv-player/mono-29.html
+https://www.doofree88.com/live/mono29
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/nation-tv.png" ,nation-tv
-https://wacth.tv/tv-player/nation-tv.html
+https://www.doofree88.com/live/nation-tv
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/nbt-hd.png" ,nbt-hd
-https://wacth.tv/tv-player/nbt-hd.html
+https://www.doofree88.com/live/nbt
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/new-18.png" ,new-18
-https://wacth.tv/tv-player/new-18.html
+https://www.we-play.live/watching/tv/jkn-18
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/one-hd.png" ,one-hd
-https://wacth.tv/tv-player/one-hd.html
+https://www.doofree88.com/live/gmm-one
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/pptv-hd.png" ,pptv-hd
-https://wacth.tv/tv-player/pptv-hd.html
+https://www.doofree88.com/live/pptv
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/thairath-hd.png" ,thairath-hd
-https://wacth.tv/tv-player/thairath-hd.html
+https://www.doofree88.com/live/%e0%b9%84%e0%b8%97%e0%b8%a2%e0%b8%a3%e0%b8%b1%e0%b8%90%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/tnn24.png" ,tnn24
-https://wacth.tv/tv-player/tnn24.html
+https://tnnthailand-8zdgwf.cdn.byteark.com/live/pl_720p/index.m3u8 
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/tpbs-hd.png" ,tpbs-hd
-https://wacth.tv/tv-player/tpbs-hd.html
+https://www.doofree88.com/live/thai-pbs
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312012054voice-tv.png" ,voice-tv
 https://www.ball24.tv/allchannel/?id=voicetv
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/workpoint.png" ,workpoint
-https://wacth.tv/tv-player/workpoint.html
+https://www.doofree88.com/live/workpoint
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/5hd.png" ,5hd
-https://wacth.tv/tv-player/5hd.html
+https://www.doofree88.com/live/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87-5-hd
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/202103120120117hd.png" ,7hd.
-https://wacth.tv/tv-player/7hd.html
+https://www.we-play.live/watching/tv/ch7-hd
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/true4u.png" ,true4u
-https://wacth.tv/tv-player/true4u.html
+https://tnnthailand-msqo7x.cdn.byteark.com/live/pl_720p/index.m3u8
 #EXTINF:0 tvg-logo="https://images.topnews.co.th/2021/04/cropped-topnews-logo.png" ,topnew
 https://www.topnews.co.th/
 #EXTINF:0 tvg-logo="http://ctbtv.co.th/wp-content/uploads/2013/05/ctblogo.png" ,CTB
@@ -112,29 +112,29 @@ https://www.doofree88.com/live/bbc-earth
 #EXTINF:0 tvg-logo="https://www.doofree88.com/storage/live/9yb9Ng4uhP1goO0FVrIO9ETyOAkKrV3lzBcbPy6R.png" ,bbc-lifestyle
 https://www.doofree88.com/live/bbc-lifestyle
 #EXTINF:0 tvg-logo="https://www.doofree88.com/storage/live/fbbOeGTPrQc10JNtcq4i2RxNTd1E8LSnTB1VvDTv.png" ,national-geographic
-https://www.doofree88.com/live/national-geographic
+https://www.we-play.live/watching/tv/national-geographic
 #EXTINF:0 tvg-logo="https://www.doofree88.com/storage/live/lJBXFhwbz6WPLehk1WFBZDX7bqBRIM0XWs0Mm8LN.png" ,discovery-channel
-https://www.doofree88.com/live/discovery-channel
+https://www.we-play.live/watching/tv/discovery-channel
 #EXTINF:0 tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png" ,discovery-asia
 https://www.doofree88.com/live/discovery-asia
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/animal-planet.png" ,animal-planet
-https://wacth.tv/tv-player/animal-planet.html
+https://www.we-play.live/watching/tv/animal-planet
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/discovery-asia.png" ,discovery-asia
-https://fo1iptv.com/tv-player/discovery-asia.html
+https://www.we-play.live/watching/tv/discovery-asia
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/discovery-hd.png" ,discovery
-https://wacth.tv/tv-player/discovery-hd.html
+https://www.we-play.live/watching/tv/discovery-channel
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/history-hd.png" ,history
-https://wacth.tv/tv-player/history-hd.html
+https://www.we-play.live/watching/tv/history-h2
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/history-hd.png" ,history
 https://www.ilike-movie.com/player/c/59/HISTORY-HD-59/37655.html
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/history2.png" ,history2
 https://www.ilike-movie.com/player/c/58/HISTORY2-HD-58/37654.html
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/national-geographic.png" ,geographic
-https://wacth.tv/tv-player/national-geographic.html
+https://www.we-play.live/watching/tv/national-geographic
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/tlc-hd.png" ,tlc-hd
-https://wacth.tv/tv-player/tlc-hd.html
+https://www.we-play.live/watching/tv/tlc-hd
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/nat-geo-wild-hd.png" ,wild
-https://wacth.tv/tv-player/nat-geo-wild-hd.html
+https://www.we-play.live/watching/tv/nat-geo-wild
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/fox-action-movies.png" ,fox-action
 https://wacth.tv/tv-player/fox-action-movies.html
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/true-film-asia.png" ,film-asia
