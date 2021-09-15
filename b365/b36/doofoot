@@ -97,19 +97,19 @@
               "name": "truesport hd",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd.png",
                 "url": "https://www.doofootball.com/dootv/live/truesporthd#main_dootv","referer": " ", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
     		"desktop": "true"},   	   
 	{
               "name": "truespor thd2",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd2.png",
                 "url": "https://www.doofootball.com/dootv/live/truesporthd2#main_dootv","referer": " ", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
     		"desktop": "true"},   	   
 	{
               "name": "truespor thd3",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd3.png",
                 "url": "https://www.doofootball.com/dootv/live/truesporthd3#main_dootv","referer": " ", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
     		"desktop": "true"},   	   
 	{
               "name": "truespor 5",
