@@ -136,7 +136,7 @@ https://www.we-play.live/watching/tv/tlc-hd
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/nat-geo-wild-hd.png" ,wild
 https://www.we-play.live/watching/tv/nat-geo-wild
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/fox-action-movies.png" ,fox-action
-https://wacth.tv/tv-player/fox-action-movies.html
+https://www.we-play.live/watching/tv/true-asian-more
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/true-film-asia.png" ,film-asia
 https://wacth.tv/tv-player/true-film-asia.html
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/true-film-hd.png" ,film-hd
@@ -144,7 +144,7 @@ https://wacth.tv/tv-player/true-film-hd.html
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/true-film-hd2.png" ,film-hd2
 https://wacth.tv/tv-player/true-film-hd2.html
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/tvb.png" ,tvb
-https://wacth.tv/tv-player/tvb.html
+https://www.we-play.live/watching/tv/true-chinese-more
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/asian-series.png" ,asian-series.
 https://wacth.tv/tv-player/asian-series.html
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/axn-hd.png" ,axn-hd
@@ -152,7 +152,7 @@ https://wacth.tv/tv-player/axn-hd.html
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/cinemax-hd.png" ,cinemax
 https://wacth.tv/tv-player/cinemax-hd.html
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/fox-life-hd.png" ,fox-life
-https://wacth.tv/tv-player/fox-life-hd.html
+https://www.we-play.live/watching/tv/true-korean-more
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/hbo-family.png" ,hbo-family
 https://wacth.tv/tv-player/hbo-family.html
 #EXTINF:0 tvg-logo="https://wacth.officebk.co/uploads/tv_image/hbo-asia.png" ,hbo-asia
@@ -174,11 +174,11 @@ https://www.we-play.live/watching/tv/hits-movies
 #EXTINF:0 tvg-logo="https://we-play.live/uploads/posters/-poster1602704689.jpeg" ,hits
 https://www.we-play.live/watching/tv/hits
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/s/xegzhpjw9lnqmku/BoxFilm.png?dl=0" ,BoxFilm
-http://27.254.130.62/feed/LC52/index.m3u8
+https://www.we-play.live/watching/tv/true-film-hd
 #EXTINF:0 tvg-logo="https://we-play.live/uploads/posters/-poster1602704657.jpeg" ,true-xzyte
 https://www.we-play.live/watching/tv/true-xzyte
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/CCM.png" ,ccm
-https://siamtv88.co/index.php?a=live_details&channel_code=th-celestial
+https://www.we-play.live/watching/tv/true-thai-film
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/s/ubmx3hw5n1i8v9y/CTB.png?dl=0" ,ctb
 https://cdn-th.login.in.th/CTB/CTB/chunklist_w2025810710.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropbox.com/s/5k5n74q5b23q4ii/Channel%208.png?dl=0" ,ch8
