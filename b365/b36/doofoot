@@ -27,7 +27,7 @@
               "name": "epl1",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",
                 "url": "https://www.doofootball.com/dootv/live/epl1#main_dootv","referer": " ", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
     		"desktop": "true"},   	   
              
             {
@@ -571,39 +571,39 @@
 	   "name": "3HD",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/3hd.png",
                 "url": "https://www.doofootball.com/dootv/live/3hd#main_dootv","referer": " ", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "embed": "true",
     		"desktop": "true"},   	   
 	 { 
 	   "name": "7HD",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/7hd.png",
                 "url": "https://www.doofootball.com/dootv/live/7hd#main_dootv","referer": " ", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
     		"desktop": "true"},   
         
          { 
 	   "name": "9",
                "image": "https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-030527-tv-station_MCOT.png",
                 "url": "https://www.doofootball.com/dootv/live/mcot#main_dootv","referer": " ", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "embed": "true",
     		"desktop": "true"},   	 
         
 	 { 
 	   "name": "Thairath",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/thairath.png",
                 "url": "https://www.doofootball.com/dootv/live/thairath#main_dootv","referer": " ", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
     		"desktop": "true"},   	   
 	{ 
 	   "name": "5HD",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/5hd.png",
                 "url": "https://www.doofootball.com/dootv/live/5hd#main_dootv","referer": " ", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
     		"desktop": "true"},   	   
 	{ 
 	   "name": "MCOT HD",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/mcot.png",
                 "url": "https://www.warpfootball.games/live/?ch=mcot","referer": " ", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "webview types": "true",
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",   "embed": "true",
     		"desktop": "true"},   	   
 	  { 
 	   "name": "PPTV",
