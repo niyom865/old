@@ -5,8 +5,6 @@ https://embed-dev.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmcb4r
 https://www.we-play.live/watching/tv/discovery-asia
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-discovery.png" ,hd-discovery
 https://www.ilike-movie.com/player/c/57/DISCOVERY-HD-WORLD-57/37653.html
-#EXTINF:-1 group-title="ballsod" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20th/psi.png" ,PSIHD
-http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/sd-discovery.png" ,discovery
 https://www.we-play.live/watching/tv/discovery-channel
 #EXTINF:0 group-title="ballsod" tvg-logo="https://dooball66.com/wp-content/uploads/2020/07/cropped-logo-1536x369.png" ,discovery
@@ -25,8 +23,6 @@ https://www.we-play.live/watching/tv/history-hd
 https://www.ilike-movie.com/player/c/59/HISTORY-HD-59/37655.html
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-natgeo.png" ,natgeo
 https://www.we-play.live/watching/tv/national-geographic
-#EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/jpg/hd-natgeowild.jpg" ,natgeowild
-https://www.we-play.live/watching/tv/nat-geo-wild
 #EXTINF:0 group-title="ballsod" tvg-logo="https://we-play.live/uploads/posters/tlc-hd-poster1602705866.jpeg" ,tlc-hd
 https://www.we-play.live/watching/tv/tlc-hd
 #EXTINF:0 group-title="ballsod" tvg-logo="https://static-dfb-2021.b-cdn.net/web/doofootball_logo.png" ,doofootball.com
@@ -37,14 +33,12 @@ http://www.warpballsod.tv/play-channel/
 https://ball365.co/channel/
 #EXTINF:-1 group-title="ballsod" tvg-logo="https://www.doonung1234.com/asset/web/img/logo.png" ,doonung1234
 https://www.doonung1234.com/match
-#EXTINF:-1 group-title="ballsod" tvg-logo="https://fo1iptv.com/images/logo2.png" ,fo1iptv.com
-https://fo1iptv.com/live-tv
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.lineballsod.com/chanel/icon/beIN1Thai.png" ,bein1
 https://www.lineballsod.com/doball/live-ch7a/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.lineballsod.com/chanel/icon/beIN2Thai.png" ,bein2
 https://www.lineballsod.com/doball/live-ch8/
-#EXTINF:0 group-title="ballsod" tvg-logo="https://www.lineballsod.com/chanel/icon/FOX1HD.png" ,fox1
-https://www.lineballsod.com/doball/live-ch41/
+#EXTINF:0 group-title="ballsod" tvg-logo="https://www.lineballsod.com/chanel/icon/FOX1HD.png" ,pl1
+https://www.doonung1234.com/match/view/19810/epl1
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.lineballsod.com/chanel/icon/FOX2HD.png" ,fox2
 https://www.lineballsod.com/doball/live-ch39/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.lineballsod.com/chanel/icon/FOX3HD.png" ,fox3
@@ -61,42 +55,30 @@ https://www.lineballsod.com/doball/live-ch27/
 https://www.fifa5t.com/doballlive/ch026b/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.lineballsod.com/chanel/icon/beIN2Thai.png" ,bein2
 https://www.fifa5t.com/doballlive/ch027/
-#EXTINF:0 group-title="ballsod" tvg-logo="https://www.lineballsod.com/chanel/icon/FOX1HD.png" ,fox1
-https://www.lineballsod.com/doball/live-ch41/
-#EXTINF:0 group-title="ballsod" tvg-logo="https://www.lineballsod.com/chanel/icon/FOX2HD.png" ,fox2
-https://www.fifa5t.com/doballlive/ch046/
-#EXTINF:0 group-title="ballsod" tvg-logo="https://www.lineballsod.com/chanel/icon/FOX3HD.png" ,fox3
-https://www.fifa5t.com/doballlive/ch047/
+#EXTINF:0 group-title="ballsod" tvg-logo="https://www.lineballsod.com/chanel/icon/FOX1HD.png" ,epl1
+https://www.doonung1234.com/match/view/19827/epl1
+#EXTINF:0 group-title="ballsod" tvg-logo="https://www.lineballsod.com/chanel/icon/FOX2HD.png" ,bein1
+https://www.doonung1234.com/match/view/19825/bein1
+#EXTINF:0 group-title="ballsod" tvg-logo="https://www.lineballsod.com/chanel/icon/FOX3HD.png" ,beinsports1au
+https://www.doonung1234.com/match/view/19807/beinsports1au
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.lineballsod.com/chanel/icon/truesporthd.png" ,hd1
-https://www.fifa5t.com/doballlive/ch032/
+https://fifa5t.com/doballlive/ch032/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.lineballsod.com/chanel/icon/truesporthd2.png" ,hd2
-https://www.fifa5t.com/doballlive/ch033/
+http://www.fifa5t.com/doballlive/ch033/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.lineballsod.com/chanel/icon/truesporthd3.png" ,hd3
-https://www.fifa5t.com/doballlive/ch034/
+https://fifa5t.com/doballlive/ch034/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.fifa5t.com/api/table/icon/GolfChannel.png" ,golf
 https://www.fifa5t.com/doballlive/ch044/
-#EXTINF:0 group-title="ballsod" tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport2.png" ,TrueSport2
-https://www.fifa5t.com/doballlive/ch037/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport5.png" ,TrueSport5
-https://www.fifa5t.com/doballlive/ch039/
-#EXTINF:0 group-title="ballsod" tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport6.png" ,TrueSport6
-https://www.fifa5t.com/doballlive/ch040/
+http://www.fifa5t.com/doballlive/ch039/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport7.png" ,TrueSport7
-https://www.fifa5t.com/doballlive/ch041/
-#EXTINF:0 group-title="ballsod" tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport2.png" ,TrueSport2
-https://www.liveballsod.com/tv-online/ch037/
+http://www.fifa5t.com/doballlive/ch041/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport5.png" ,TrueSport5
-https://www.liveballsod.com/tv-online/ch039/
-#EXTINF:0 group-title="ballsod" tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport6.png" ,TrueSport6
-https://www.liveballsod.com/tv-online/ch040/
+https://liveballsod.com/tv-online/ch039/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport7.png" ,TrueSport7
-https://www.liveballsod.com/tv-online/ch041/
-#EXTINF:0 group-title="ballsod" tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport2.png" ,TrueSport2
-https://www.we-play.live/watching/tv/true-sports-2
+https://liveballsod.com/tv-online/ch041/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport5.png" ,TrueSport5
 https://www.we-play.live/watching/tv/true-sports-5
-#EXTINF:0 group-title="ballsod" tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport6.png" ,TrueSport6
-https://www.we-play.live/watching/tv/true-sports-6
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.fifa5t.com/api/table/icon/TrueSport7.png" ,TrueSport7
 https://www.we-play.live/watching/tv/true-sports-7
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.lineballsod.com/chanel/icon/beIN1Thai.png" ,bein1
@@ -2270,61 +2252,61 @@ http://fe7.yunini.club:8880/ni14m6037/wHVVWnkWsR/58757
 #EXTINF:-1 group-title="สารคดี" ,LA169:UniMas West
 http://fe7.yunini.club:8880/ni14m6037/wHVVWnkWsR/58668 
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/3hd.png" ,ch3
-https://www.warpfootball.games/live/?ch=3hd
+https://www.ball24.tv/allchannel/?id=3hd
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/5hd.png" ,ch5
-https://www.warpfootball.games/live/?ch=5hd
+https://www.ball24.tv/allchannel/?id=5hd
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/7hd.png" ,ch7
-https://www.warpfootball.games/live/?ch=7hd
+https://www.ball24.tv/allchannel/?id=7hd
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/ch8.png" ,ch8
-https://www.warpfootball.games/live/?ch=ch8
+https://www.ball24.tv/allchannel/?id=ch8
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/mcot.png" ,ch9
-https://www.warpfootball.games/live/?ch=mcot
+https://www.ball24.tv/allchannel/?id=mcot
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/nbt.png" ,ch11
-https://www.warpfootball.games/live/?ch=nbt
+https://www.ball24.tv/allchannel/?id=nbt
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/thaipbs.png" ,thaipbs
-https://www.warpfootball.games/live/?ch=thaipbs
+https://www.ball24.tv/allchannel/?id=thaipbs
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/thairath.png" ,thairath
-https://www.warpfootball.games/live/?ch=thairath
+https://www.ball24.tv/allchannel/?id=thairath
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/pptv.png" ,pptv
-https://www.warpfootball.games/live/?ch=pptv
+https://www.ball24.tv/allchannel/?id=pptv
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/amarin.png" ,amarin
-https://www.warpfootball.games/live/?ch=amarin
+https://www.ball24.tv/allchannel/?id=amarin
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/mono29.png" ,mono29
-https://www.warpfootball.games/live/?ch=mono29
+https://www.ball24.tv/allchannel/?id=mono29
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/true4u.png" ,true4u
-https://www.warpfootball.games/live/?ch=true4u
+https://www.ball24.tv/allchannel/?id=true4u
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/tnn.png" ,tnn
-https://www.warpfootball.games/live/?ch=tnn
+https://www.ball24.tv/allchannel/?id=tnn
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/voicetv.png" ,voicetv
 https://www.warpfootball.games/live/?ch=voicetv
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/nation.png" ,nation
-https://www.warpfootball.games/live/?ch=nation
+https://www.ball24.tv/allchannel/?id=nation
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/workpoint.png" ,workpoint
-https://www.warpfootball.games/live/?ch=workpoint
+https://www.ball24.tv/allchannel/?id=workpoint
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/newtv.png" ,newtv
-https://www.warpfootball.games/live/?ch=newtv
+https://www.ball24.tv/allchannel/?id=newtv
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-gmmone.png" ,one
-https://www.we-play.tv/watching/tv/one-hd
+https://www.ball24.tv/allchannel/?id=onehd
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/gmm25.png" ,gmm25
-https://www.we-play.tv/watching/tv/gmm25
+https://www.ball24.tv/allchannel/?id=gmm25
 #EXTINF:0 group-title="ball24" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4509.png" ,pl1
-https://www.ball24.tv/allchannel/?id=epl1backup
-#EXTINF:0 group-title="ball24" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--4509.png" ,pl1
-https://www.warpfootball.games/live/?ch=epl1backup
-#EXTINF:0 group-title="ball24" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1818.png" ,pl1
 https://www.ball24.tv/allchannel/?id=epl1
-#EXTINF:0 group-title="ball24" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1819.png" ,pl2
+#EXTINF:0 group-title="ball24" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl2.png" ,pl2
 https://www.ball24.tv/allchannel/?id=epl2
-#EXTINF:0 group-title="ball24" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1820.png" ,pl3
-https://www.warpfootball.games/live/?ch=epl3
+#EXTINF:0 group-title="ball24" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl3.png" ,pl3
+https://www.ball24.tv/allchannel/?id=epl3
+#EXTINF:0 group-title="ball24" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl4.png" ,pl4
+https://www.ball24.tv/allchannel/?id=epl4
+#EXTINF:0 group-title="ball24" tvg-logo="https://www.warpballsod.tv/wp-content/themes/ballsod/logo/epl5.png" ,pl5
+https://www.ball24.tv/allchannel/?id=epl4
 #EXTINF:0 group-title="ball24" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--254.png" ,astrosupersport1
-https://www.warpfootball.games/live/?ch=astrosupersport
+https://www.ball24.tv/allchannel/?id=astrosupersport
 #EXTINF:0 group-title="ball24" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--254.png" ,astrosupersport2
-https://www.warpfootball.games/live/?ch=astrosupersport2
+https://www.ball24.tv/allchannel/?id=astrosupersport2
 #EXTINF:0 group-title="ball24" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--254.png" ,astrosupersport3
-https://www.warpfootball.games/live/?ch=astrosupersport3
+https://www.ball24.tv/allchannel/?id=astrosupersport3
 #EXTINF:0 group-title="ball24" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--254.png" ,astrosupersport4
-https://www.warpfootball.games/live/?ch=astrosupersport4
+https://www.ball24.tv/allchannel/?id=astrosupersport4
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsporthd.png" ,skynetsporthd
 https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsport1.png" ,skynetsport1
@@ -2919,8 +2901,6 @@ https://ustvgo.tv/fox-hd-live-streaming/
 https://ustvgo.tv/fox-business-live-streaming-free/
 #EXTINF:0 group-title="usa" ,freeform
 https://ustvgo.tv/freeform-channel-live-free/
-#EXTINF:0 group-title="usa" ,fox-sports-1
-https://h1.ustvgo.la/FS1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMTo1Nzo0MSBBTSZoYXNoX3ZhbHVlPTBlL1IyVDB4RmxjazhiQ05XZHFXdFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:0 group-title="usa" ,fox-sports-2
 https://ustvgo.tv/fox-sports-2/
 #EXTINF:0 group-title="usa" ,fx
@@ -2929,22 +2909,8 @@ https://ustvgo.tv/fx-channel-live/
 https://ustvgo.tv/fxm/
 #EXTINF:0 group-title="usa" ,fxx
 https://ustvgo.tv/fxx/
-#EXTINF:0 group-title="usa" ,HBO
-https://h1.ustvgo.la/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMTo1Nzo0MSBBTSZoYXNoX3ZhbHVlPTBlL1IyVDB4RmxjazhiQ05XZHFXdFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:0 group-title="usa" ,hg
 https://ustvgo.tv/hgtv-live-streaming-free/
-#EXTINF:0 group-title="usa" ,history
-https://h4.ustvgo.la/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMToyNjozOSBBTSZoYXNoX3ZhbHVlPStUaU5CcGtiSmUycUxRTFZFemVleVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
-#EXTINF:0 group-title="usa" ,natwlid
-https://h1.ustvgo.la/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMTozODoxNSBBTSZoYXNoX3ZhbHVlPVB4dTFmbjFxMitFeHFwL29BZGg0U0E9PSZ2YWxpZG1pbnV0ZXM9MjQw
-#EXTINF:0 group-title="usa" ,Disco
-https://h4.ustvgo.la/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMToyNjozOSBBTSZoYXNoX3ZhbHVlPStUaU5CcGtiSmUycUxRTFZFemVleVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
-#EXTINF:0 group-title="usa" ,tlc
-https://h4.ustvgo.la/TLC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMToyNjozOSBBTSZoYXNoX3ZhbHVlPStUaU5CcGtiSmUycUxRTFZFemVleVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
-#EXTINF:0 group-title="usa" ,wwe
-https://h3.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMTo0OTowNCBBTSZoYXNoX3ZhbHVlPXNwZ2svaWRsVHJ0dW9wQ09xK0FDT1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
-#EXTINF:0 group-title="usa" ,usnetwork
-https://h4.ustvgo.la/USANetwork/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMToyNjozOSBBTSZoYXNoX3ZhbHVlPStUaU5CcGtiSmUycUxRTFZFemVleVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:0 group-title="usa" ,lifetime-movies
 https://ustvgo.tv/lifetime-movies/
 #EXTINF:0 group-title="usa" ,lifetime
@@ -2957,26 +2923,14 @@ https://ustvgo.tv/mtv/
 https://ustvgo.tv/nickelodeon-live-streaming-free/
 #EXTINF:0 group-title="usa" ,nicktoon
 https://ustvgo.tv/nicktoons/
-#EXTINF:0 group-title="usa" ,paramount
-https://h1.ustvgo.la/Paramount/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMTo1Nzo0MSBBTSZoYXNoX3ZhbHVlPTBlL1IyVDB4RmxjazhiQ05XZHFXdFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
-#EXTINF:0 group-title="usa" ,showtime
-https://h1.ustvgo.la/Showtime/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMTo1Nzo0MSBBTSZoYXNoX3ZhbHVlPTBlL1IyVDB4RmxjazhiQ05XZHFXdFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:0 group-title="usa" ,starz
 https://ustvgo.tv/starz-channel-live/
 #EXTINF:0 group-title="usa" ,sundance-tv
 https://ustvgo.tv/sundance-tv/
 #EXTINF:0 group-title="usa" ,syfy
 https://ustvgo.tv/syfy-channel-live/
-#EXTINF:0 group-title="usa" ,TCM
-https://h1.ustvgo.la/TCM/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMTo1Nzo0MSBBTSZoYXNoX3ZhbHVlPTBlL1IyVDB4RmxjazhiQ05XZHFXdFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
-#EXTINF:0 group-title="usa" ,tennis
-https://h1.ustvgo.la/Tennis/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMTo1Nzo0MSBBTSZoYXNoX3ZhbHVlPTBlL1IyVDB4RmxjazhiQ05XZHFXdFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:0 group-title="usa" ,travel
 https://ustvgo.tv/travel-channel-live-free/
-#EXTINF:0 group-title="usa" ,VH1
-https://h1.ustvgo.la/VH1/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjEgMTo1Nzo0MSBBTSZoYXNoX3ZhbHVlPTBlL1IyVDB4RmxjazhiQ05XZHFXdFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:0 group-title="usa" ,yes-network
-https://ustvgo.tv/yes-network/
-#EXTINF:0 group-title="usa" ,files
-http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd
+https://ustvgo.tv/yes-network/ 
 
