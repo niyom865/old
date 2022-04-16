@@ -25,7 +25,7 @@ https://www.we-play.live/watching/tv/national-geographic
 https://www.we-play.live/watching/tv/tlc-hd
 #EXTINF:0 group-title="ballsod" tvg-logo="https://we-play.live/images/logo.png" ,we-play.live/tv
 https://we-play.live/tv
-#EXTINF:0 group-title="ballsod" tvg-logo="https://dooball66.com/wp-content/uploads/2020/07/cropped-logo-1536x369.png" ,discovery
+#EXTINF:0 group-title="ballsod" tvg-logo="https://dooball66.com/wp-content/uploads/2020/07/cropped-logo-1536x369.png" ,dooball66.com
 https://dooball66.com/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/image/menu.png" ,ball24.tv
 https://www.ball24.tv/allchannel/
@@ -33,226 +33,20 @@ https://www.ball24.tv/allchannel/
 https://www.ball24.tv/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.warpfootball.games/wp-content/uploads/Logo-warp-game-01-e1580715356367.png" ,.warpfootball.games
 https://www.warpfootball.games/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/
+#EXTINF:0 group-title="ballsod" tvg-logo="https://www.warpfootball.games/wp-content/uploads/Logo-warp-game-01-e1580715356367.png" ,.warpfootball.games
+https://www.warpfootball.games/
 #EXTINF:-1 group-title="ballsod" tvg-logo="http://www.warpballsod.tv/wp-content/themes/ballsod/img/logo-b.png" ,warpballsod
 http://www.warpballsod.tv/play-channel/
-#EXTINF:-1 group-title="ballsod" tvg-logo="https://ball365.co/wp-content/themes/ball365/image/logo365.png" ,ball365.co
+#EXTINF:-1 group-title="ballsod" tvg-logo="http://www.warpballsod.tv/wp-content/themes/ballsod/img/logo-b.png" ,warpballsod.tv
+https://www.warpballsod.tv/
+#EXTINF:-1 group-title="ballsod" tvg-logo="https://ball365.co/wp-content/themes/ball365/image/logo365.png" ,ball365.co/channel
 https://ball365.co/channel/
-#EXTINF:-1 group-title="ballsod" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/01/logoheader2.png" ,andaman888th
-https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/
+#EXTINF:-1 group-title="ballsod" tvg-logo="https://ball365.co/wp-content/themes/ball365/image/logo365.png" ,ball365.co
+https://ball365.co/
 #EXTINF:-1 group-title="ballsod" tvg-logo="https://www.doonung1234.com/asset/web/img/logo.png" ,doonung1234
 https://www.doonung1234.com/match
-#EXTINF:-1 group-title="ballsod" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png" ,99football.com/
-https://www.99football.com/
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.andaman888th.com/wp-content/uploads/2019/08/tpf1.jpg" ,epl1
-https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truepremierfootballhd1/
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/Y28OhM0EcKyWHkSJgbPiVfLjgSUj7Sp6OGAqAJ9l.png" ,bein-sports-1
-https://www.ball24.tv/allchannel/?id=btsport1
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/Y28OhM0EcKyWHkSJgbPiVfLjgSUj7Sp6OGAqAJ9l.png" ,bein-sports-1
-https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/ZNqp3mHYvSlFccLluO0Fa3I8A2duej5tHerrKhlN.png" ,bein-sports-2
-https://www.ball24.tv/allchannel/?id=btsport2
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/ZNqp3mHYvSlFccLluO0Fa3I8A2duej5tHerrKhlN.png" ,bein-sports-2
-https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/1N4egOHdQMVsguQ8cL71mBaAretIq6x7si4Ij134.png" ,sport-hd-1
-https://www.warpfootball.games/live/?ch=truesporthd
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/1N4egOHdQMVsguQ8cL71mBaAretIq6x7si4Ij134.png" ,sport-hd-1
-https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/1N4egOHdQMVsguQ8cL71mBaAretIq6x7si4Ij134.png" ,sport-hd-1
-https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/aR6co494MMddSe7BDmsv20oT8NYGvhXN6RcCgW6S.png" ,sport-hd-2
-https://www.warpfootball.games/live/?ch=truesporthd2
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/aR6co494MMddSe7BDmsv20oT8NYGvhXN6RcCgW6S.png" ,sport-hd-2
-https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd2
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/cTPAhptOIi9yB7Lhrh55Y6C47AL1ShWUu6LBgoom.png" ,sport-hd-3
-https://www.warpfootball.games/live/?ch=truesporthd3
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/cTPAhptOIi9yB7Lhrh55Y6C47AL1ShWUu6LBgoom.png" ,sport-hd-3
-https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd3
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/4uzhoi4RaAoLfifFJ4iV4h3zkwiyeq4Ky6HeiCID.png" ,sport-hd-4
-https://www.doomovie-hd.com/?r=tv_view&id=116
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/4uzhoi4RaAoLfifFJ4iV4h3zkwiyeq4Ky6HeiCID.png" ,sport-hd-4
-https://www.andaman888th.com/%E0%B8%94%E0%B8%B9%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/truesporthd4
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/e2U4mF0ZIdBINuCCpZTusOIJokMq7dfw7jTgLi3U.png" ,nba-tv
-https://www.doomovie-hd.com/?r=tv_view&id=25
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/e2U4mF0ZIdBINuCCpZTusOIJokMq7dfw7jTgLi3U.png" ,nba-tv
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/Mh0duRKDuQG2UgxxUOEtS5v5xLr4BqlgULALLtJO.png" ,tennis-hd
-https://www.doomovie-hd.com/?r=tv_view&id=26
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/Mh0duRKDuQG2UgxxUOEtS5v5xLr4BqlgULALLtJO.png" ,tennis-hd
-https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/PLr4ZHAXOi2QKBBGJbPBsCy8KOcd2jO6qRY0d7z0.png" ,golf-channel
-https://www.doomovie-hd.com/?r=tv_view&id=27
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/PLr4ZHAXOi2QKBBGJbPBsCy8KOcd2jO6qRY0d7z0.png" ,golf-channel
-https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/1pKXzOFzNjaZkJgEjGLba9k51SnUJbEUf3fvHupQ.png" ,fox-sports-1
-https://www.doomovie-hd.com/?r=tv_view&id=28
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/1pKXzOFzNjaZkJgEjGLba9k51SnUJbEUf3fvHupQ.png" ,fox-sports-1
-https://www.andaman888th.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/foxsporthd
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/V8VTTTLHFV18RiKg3TsjJqEVZZcw2MJ6OEhXTVkG.png" ,fox-sports-2
-https://www.doomovie-hd.com/?r=tv_view&id=29
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/V8VTTTLHFV18RiKg3TsjJqEVZZcw2MJ6OEhXTVkG.png" ,fox-sports-2
-https://www.andaman888th.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/foxsport2
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/hleznW9ESp7nR5hk9S7oDk0xzW8L1GYLCV8IWLKI.png" ,fox-sports-3
-https://www.doomovie-hd.com/?r=tv_view&id=30
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/hleznW9ESp7nR5hk9S7oDk0xzW8L1GYLCV8IWLKI.png" ,fox-sports-3
-https://www.andaman888th.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/foxsport3
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/gqKzi64ZKhMxsjUzXzSFUO0AXAFTPoMsekndisZ6.png" ,sport-2
-https://www.doomovie-hd.com/?r=tv_view&id=31
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/gqKzi64ZKhMxsjUzXzSFUO0AXAFTPoMsekndisZ6.png" ,sport-2
-https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/lPB8X3Ib9Ty7s5kuxn4b9ZSDhP7x84qKYinxdO4j.png" ,sport-5
-https://www.doomovie-hd.com/?r=tv_view&id=32
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/lPB8X3Ib9Ty7s5kuxn4b9ZSDhP7x84qKYinxdO4j.png" ,sport-5
-https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/n3ke2CU0YHdnMFRPwf5N5lT4ebQ7W43dncgIahDZ.png" ,sport-6
-https://www.doomovie-hd.com/?r=tv_view&id=33
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/n3ke2CU0YHdnMFRPwf5N5lT4ebQ7W43dncgIahDZ.png" ,sport-6
-https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/m7B6xwNTlvbHLhSjGCdETasrb0dAzV55DBs5aUEv.png" ,sport-7
-https://www.doomovie-hd.com/?r=tv_view&id=60
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/m7B6xwNTlvbHLhSjGCdETasrb0dAzV55DBs5aUEv.png" ,sport-7
-https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/EHym8OtlAt9b7pqIhetdRkgYC3GgkT0nPpwLJIFP.jpg" ,eurosport
-https://www.doomovie-hd.com/?r=tv_view&id=231
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/feZtADfMONGDhlFUR9I4wTtSYTP33ZSG53bGI4YQ.jpg" ,eurosport-2
-https://www.doomovie-hd.com/?r=tv_view&id=232
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/tcFjtuFGMEJnFpRzhKRdGWy3OXORgeZrPO6js01Z.png" ,football-hd-1
-https://www.doomovie-hd.com/?r=tv_view&id=151
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/tcFjtuFGMEJnFpRzhKRdGWy3OXORgeZrPO6js01Z.png" ,football-hd-1
-https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/tcFjtuFGMEJnFpRzhKRdGWy3OXORgeZrPO6js01Z.png" ,football-hd-1
-https://www.doomovie-hd.com/?r=tv_view&id=152
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/caDu5bH8oCfnbQ1wehx0cjY4H72UdJ933Xgvhnhu.png" ,football-hd-2
-https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/caDu5bH8oCfnbQ1wehx0cjY4H72UdJ933Xgvhnhu.png" ,football-hd-2
-https://www.doomovie-hd.com/?r=tv_view&id=153
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/8JZPsfdSZUVEBr6s8ozWXBMwcM8FbBmB6CZQ7Qv8.png" ,football-hd-3
-https://www.doomovie-hd.com/?r=tv_view&id=153
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/8JZPsfdSZUVEBr6s8ozWXBMwcM8FbBmB6CZQ7Qv8.png" ,football-hd-3
-https://www.livedoomovie3.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/4FA2Hn6saxyPGUQaUcnIQBVf3tjsJslWONShGlRw.png" ,football-hd-4
-https://www.doomovie-hd.com/?r=tv_view&id=154
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/4FA2Hn6saxyPGUQaUcnIQBVf3tjsJslWONShGlRw.png" ,football-hd-4
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/qWkXJbEdataqS2ddVuLtupbKyCkUSDadJnbblqXU.png" ,football-hd-5
-https://www.doomovie-hd.com/?r=tv_view&id=155
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/qWkXJbEdataqS2ddVuLtupbKyCkUSDadJnbblqXU.png" ,football-hd-5
-https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/E1kgO5NpJeOLOwLynUSYWzuD2E47PxzYZm8dEl6d.jpg" ,bt-sport-1-hd
-https://www.doomovie-hd.com/?r=tv_view&id=156
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/Mmu3T1Z0Qy9TSa4gmxLjF0rzBrsLX8tsw8IBKsE3.jpg" ,bt-sport-1-hd
-https://www.doomovie-hd.com/?r=tv_view&id=157
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/A8j6ff3ezi8uGsRKcDIGmGZtG3IQtRTFjNzmct8K.jpg" ,premier-league
-https://www.warpfootball.games/live/?ch=skysportpremiere
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportmainevent.png" ,skysportmainevent
-https://www.warpfootball.games/live/?ch=skysportmainevent
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/pN6Sr6nIa0yohbtgngbP2IwNsx0pB9g1UYVE9kW7.jpg" ,sports-mix
-https://www.warpfootball.games/live/?ch=skysportmix
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/K5FeAFThAFVNrteG23I5te2un4FaMgcuWzlu0o6k.jpg" ,sports-golf
-https://www.warpfootball.games/live/?ch=skysportgolf
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/XkrMWtBQmH7mDb4uCBV8D8GVtNA63PeKAefBVa0U.jpg" ,sports-football
-https://www.warpfootball.games/live/?ch=skysportfootball
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/8Szd1BNfaiLdkcWNR0ATyhjwmC1CnNQ0bu3CEjsX.png" ,bbc-earth
-https://www.doofree88.com/live/bbc-earth
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/9yb9Ng4uhP1goO0FVrIO9ETyOAkKrV3lzBcbPy6R.png" ,bbc-lifestyle
-https://www.doofree88.com/live/bbc-lifestyle
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/U84m9B0Nwx2YvL7Gjc7nMFGxdK4B5I0tmJJ9SdE0.jpg" ,nat-geo-wild
-https://www.we-play.tv/watching/tv/nat-geo-wild
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/lJBXFhwbz6WPLehk1WFBZDX7bqBRIM0XWs0Mm8LN.png" ,discovery-channel
-https://www.we-play.tv/watching/tv/discovery-channel
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/G9EgG7nmfnml7kV2GXiYenGyGZm19bfPDwnfhnm0.png" ,history
-https://www.we-play.tv/watching/tv/history-hd
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/G9EgG7nmfnml7kV2GXiYenGyGZm19bfPDwnfhnm0.png" ,history
-https://www.we-play.tv/watching/tv/history-hd
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/JDWsk9v20OtNZPSUiZ1PVCNj5hc8wRNwHGEKbcF4.png" ,H2HD
-https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/JDWsk9v20OtNZPSUiZ1PVCNj5hc8wRNwHGEKbcF4.png" ,H2HD
-https://ilike.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/fbbOeGTPrQc10JNtcq4i2RxNTd1E8LSnTB1VvDTv.png" ,national-geographic
-https://www.we-play.tv/watching/tv/national-geographic
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.ilike-movie.com/uploads/png/sd-animalplanet.png" ,AnimalPlanet
-https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.ilike-movie.com/uploads/png/sd-animalplanet.png" ,AnimalPlanet
-https://www.we-play.tv/watching/tv/animal-planet
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png" ,discovery-asia
-https://www.doofree88.com/live/discovery-asia
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png" ,discovery-asia
-https://www.we-play.tv/watching/tv/discovery-asia
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png" ,discovery-asia
-https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/m6F2xzRBaop5A3KghhplPow6YODiMY7jzku0Wm47.png" ,dooball66.com
-https://dooball66.com/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/channel-3-hd.png" ,3-hd
-https://www.ball24.tv/allchannel/?id=3hd
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/channel-3-hd.png" ,3-hd
-https://www.we-play.tv/watching/tv/ch3-hd
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/channel-5-hd.png" ,5-hd
-https://www.we-play.tv/watching/tv/ch5-hd
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/channel-5-hd.png" ,5-hd
-https://www.ball24.tv/allchannel/?id=5hd
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/channel-7-hd.png" ,7-hd
-https://www.ball24.tv/allchannel/?id=7hd
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/channel-7-hd.png" ,7-hd
-https://www.we-play.tv/watching/tv/ch7-hd
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/channel-8.png" ,8
-https://www.warpfootball.games/live/?ch=ch8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/channel-8.png" ,8
-https://www.ball24.tv/allchannel/?id=ch8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/mcot-hd.png" ,9
-https://www.ball24.tv/allchannel/?id=mcot
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/mcot-hd.png" ,9
-https://www.warpfootball.games/live/?ch=mcot
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/nbt.png" ,11
-https://www.warpfootball.games/live/?ch=nbt
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/nbt.png" ,11
-https://www.we-play.tv/watching/tv/11-nbt
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/thai-pbs.png" ,thai-pbs
-https://www.we-play.tv/watching/tv/thai-pbs
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/thai-pbs.png" ,thai-pbs
-https://www.warpfootball.games/live/?ch=thaipbs
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/YyVGrhG8aguH1FMmTRcLiw1FXBkKizwCIefHyENr.png" ,thairart
-https://www.warpfootball.games/live/?ch=thairath
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/YyVGrhG8aguH1FMmTRcLiw1FXBkKizwCIefHyENr.png" ,thairart
-https://www.we-play.tv/watching/tv/thairath-tv
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/VdCdA3o6UEO6LwuSU4WAMSjtViqxhi2BR6Krpw9x.png" ,pptv
-https://www.we-play.tv/watching/tv/pptv-hd
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/VdCdA3o6UEO6LwuSU4WAMSjtViqxhi2BR6Krpw9x.png" ,pptv
-https://www.warpfootball.games/live/?ch=pptv
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/63PyzJIPJGbZTNprkXm0TcrccXtDRoMUibFvFtpJ.png" ,gmm-one
-https://www.we-play.tv/watching/tv/one-hd
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/63PyzJIPJGbZTNprkXm0TcrccXtDRoMUibFvFtpJ.png" ,gmm-one
-https://www.livedoomovie.com/02_GMMONE_720p/chunklist.m3u8
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/jhgUygXRQHVPR6tw6dAzvqX7d2h1nyabBJWqTPXh.png" ,gmm-channel
-https://www.warpfootball.games/live/?ch=gmm25
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/jhgUygXRQHVPR6tw6dAzvqX7d2h1nyabBJWqTPXh.png" ,gmm-channel
-https://www.we-play.tv/watching/tv/gmm25
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/qLrCoDW0bWCFmRh2Iea3ezDhESYET1fL4NYb9wbS.png" ,workpoint
-https://www.warpfootball.games/live/?ch=workpoint
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/qLrCoDW0bWCFmRh2Iea3ezDhESYET1fL4NYb9wbS.png" ,workpoint
-https://www.we-play.tv/watching/tv/workpoint
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/QltWolbnY9MOvm64aL4PVMonVCTX6AEhEcrzkOMk.png" ,mono29
-https://www.we-play.tv/watching/tv/mono29
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/QltWolbnY9MOvm64aL4PVMonVCTX6AEhEcrzkOMk.png" ,mono29
-https://www.warpfootball.games/live/?ch=mono29
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/oREFd10o7poRVJoZTMUSxmznVBr8Jx5C5ScEJJDB.png" ,amarin-hd
-https://www.warpfootball.games/live/?ch=amarin
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/oREFd10o7poRVJoZTMUSxmznVBr8Jx5C5ScEJJDB.png" ,amarin-hd
-https://www.we-play.tv/watching/tv/amarin-tv
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/cntnH93eQYP8NQv90miuU4bx3URmvwx0HLX1WLGs.png" ,tnn24
-https://www.warpfootball.games/live/?ch=tnn
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/cntnH93eQYP8NQv90miuU4bx3URmvwx0HLX1WLGs.png" ,tnn24
-https://www.ball24.tv/allchannel/?id=tnn
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/T80UjOlcnu52ikcZ05G40W5kPDQt5dGahCUK2F2S.png" ,nation-tv
-https://www.ball24.tv/allchannel/?id=nation
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/T80UjOlcnu52ikcZ05G40W5kPDQt5dGahCUK2F2S.png" ,nation-tv
-https://www.we-play.tv/watching/tv/nationtv
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/dJlQRm6umF7vK7YcFvj8w5T28jI2feWnaA9u9HNk.png" ,true4u
-https://www.we-play.tv/watching/tv/true4u
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.moviemocha.com/wp-content/uploads/2020/01/sd-new-2.png" ,newtv
-https://www.warpfootball.games/live/?ch=true4u
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/live/Oi7Bugg9OQD3v8ScXo4adYgYL0gm5gOEqSZvVt3R.png" ,parliament-tv
-http://tpchannel.org/tv/live.php
-#EXTINF:0 group-title="doofree88" tvg-logo="https://www.doofree88.com/storage/images/2021/1/vyzoDnFGjOeIIXNmImO6A0ItvtPWjWM9dgAUjMjR.jpg" ,ฝรั่ง
-https://www.doofree88.com/category/%e0%b8%9d%e0%b8%a3%e0%b8%b1%e0%b9%88%e0%b8%87
+#EXTINF:-1 group-title="ballsod" tvg-logo="http://cdn.livetv532.me/img/logo_en.jpg" ,livetv.sx
+http://livetv.sx/enx/
 #EXTINF:-1 group-title="XXX" tvg-logo="http://adultiptv.net/lists/logo.png" ,AST TV 1
 https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="http://adultiptv.net/lists/logo.png" ,AST TV 2
@@ -551,22 +345,6 @@ https://www.ball24.tv/allchannel/?id=astrosupersport2
 https://www.ball24.tv/allchannel/?id=astrosupersport3
 #EXTINF:0 group-title="ball24" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--254.png" ,astrosupersport4
 https://www.ball24.tv/allchannel/?id=astrosupersport4
-#EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsporthd.png" ,skynetsporthd
-https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsport1.png" ,skynetsport1
-https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsport2.png" ,skynetsport2
-https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsport3.png" ,skynetsport3
-https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsport5.png" ,skynetsport5
-https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsport6.png" ,skynetsport4
-https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skynetsport6.png" ,skynetsport1
-https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:0 group-title="ball24" tvg-logo="https://www.doofootball.com/assets/933bda2/img/dfb_channel_icon.png" ,skynetsport1
-https://www.doofootball.com/live/streaming/doofootball1/681370
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-sporttv1.jpg" ,SPORTTV_1
 https://www.warpfootball.games/live/?ch=sporttv1
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-sporttv2.jpg" ,SPORTTV_2
@@ -576,19 +354,15 @@ https://www.warpfootball.games/live/?ch=sporttv3
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-sporttv4.jpg" ,SPORTTV_4
 https://www.warpfootball.games/live/?ch=sporttv4
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-sporttv5.jpg" ,SPORTTV_5
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+https://www.ilike-movie.com/player/c/143/Sport-TV-5-143/37935.html
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/btsport1.png" ,BTSPORTHD_1
-https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+https://www.ball24.tv/allchannel/?id=btsport1
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/btsport2.png" ,BTSPORTHD_2
-https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+https://www.ball24.tv/allchannel/?id=btsport2
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/btsport3.png" ,BTSPORTHD_3
 https://www.ball24.tv/allchannel/?id=btsport3
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/btsportespn.png" ,BTSPORTHD_espn
 https://www.ball24.tv/allchannel/?id=btsportespn
-#EXTINF:0 group-title="ball24" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/uk-eurosport1.jpg" ,EUROHD1
-https://www.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
-#EXTINF:0 group-title="ball24" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/uk-eurosport2.jpg" ,EUROHD2
-https://www.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub1slovenia.png" ,sportklub1
 https://www.warpfootball.games/live/?ch=sportklub1slovenia
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub2slovenia.png" ,sportklub2
@@ -648,25 +422,25 @@ https://www.warpfootball.games/live/?ch=beinsport1fr
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/beinsport2fr.png" ,beinsport2fr
 https://www.warpfootball.games/live/?ch=beinsport2fr
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein1.png" ,beinsport1th
-https://www.doofootball.com/live/streaming/bein1/680766
+https://www.ilike-movie.com/player/c/18/BEIN-SPORT-HD-1-18/37821.html
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/bein2.png" ,beinsport2th
-https://www.doofootball.com/live/streaming/bein2/680766
+https://www.ilike-movie.com/player/c/19/BEIN-SPORT-HD-2-19/37823.html
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png" ,truesporthd
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/61332
+https://www.ball24.tv/allchannel/?id=truesporthd
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd.png" ,truesporthd
 https://www.warpfootball.games/live/?ch=truesporthd
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd2.png" ,truesporthd2
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/61333
+https://www.ball24.tv/allchannel/?id=truesporthd2
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd2.png" ,truesporthd2
 https://www.warpfootball.games/live/?ch=truesporthd2
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd3.png" ,truesporthd3
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/61334
+https://www.ball24.tv/allchannel/?id=truesporthd2
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesporthd3.png" ,truesporthd3
 https://www.warpfootball.games/live/?ch=truesporthd3
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-tsport4.png" ,truesporthd4
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/61335
+https://www.ilike-movie.com/player/c/116/TRUE-SPORT-HD4-116/37907.html
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-tsport4.png" ,truesporthd4
-https:\/\/www.livedoomovie.com\/02_2sporthd4_720p\/chunklist.m3u8
+https://www.doomovie-hd.com/?r=tv_view&id=116
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesport2.png" ,truespor2
 https://www.warpfootball.games/live/?ch=truesport2
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesport5.png" ,truespor5
@@ -675,48 +449,182 @@ https://www.warpfootball.games/live/?ch=truesport5
 https://www.warpfootball.games/live/?ch=truesport6
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/truesport7.png" ,truespor7
 https://www.warpfootball.games/live/?ch=truesport7
-#EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxsporthd.png" ,foxsporthd
-https://www.warpfootball.games/live/?ch=foxsporthd
-#EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport1.png" ,foxsport1
-https://www.warpfootball.games/live/?ch=foxsport1
-#EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport2.png" ,foxsport2
-https://www.warpfootball.games/live/?ch=foxsport2
-#EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/foxsport3.png" ,foxsport3
-https://www.warpfootball.games/live/?ch=foxsport3
+#EXTINF:0 group-title="ball24" tvg-logo="https://www.ilike-movie.com/uploads/png/8772071077bb750b90541e9a09c14999.png" ,foxsporthd
+https://www.ilike-movie.com/player/c/28/spottv-hd1/37834.html
+#EXTINF:0 group-title="ball24" tvg-logo="https://www.ilike-movie.com/uploads/png/73ef98503ed40dd5377a0722c5ab70df.png" ,foxsport1
+https://www.ilike-movie.com/player/c/29/spottv-hd2/37835.html
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skysportmainevent.png" ,skysportmainevent
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/2881
+https://www.warpfootball.games/live/?ch=skysportmainevent
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skysportmainevent.png" ,skysportmainevent
 https://www.ball24.tv/allchannel/?id=skysportmainevent
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skysportpremiere.png" ,skysportpremiere
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/2877
+https://www.warpfootball.games/live/?ch=skysportpremiere
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skysportpremiere.png" ,skysportpremiere
 https://www.ball24.tv/allchannel/?id=skysportpremiere
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skysportfootball.png" ,skysportfootball
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/2870
+https://www.warpfootball.games/live/?ch=skysportfootball
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skysportfootball.png" ,skysportfootball
 https://www.ball24.tv/allchannel/?id=skysportfootball
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skysportaction.png" ,skysportaction
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/2880
+https://www.warpfootball.games/live/?ch=skysportaction
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skysportaction.png" ,skysportaction
 https://www.ball24.tv/allchannel/?id=skysportaction
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skysportmix.png" ,skysportmix
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/2882
+https://www.warpfootball.games/live/?ch=skysportmix
 #EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skysportmix.png" ,skysportmix
 https://www.ball24.tv/allchannel/?id=skysportmix
 #EXTINF:0 group-title="ball24" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20in/SkySportsArena.png" ,skysport arena
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/2902
-#EXTINF:0 group-title="ball24" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20in/SkySportsGolf.png" ,skysport glof
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/2878
-#EXTINF:0 group-title="ball24" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20in/SkySportsCricket.png" ,skysport ticket
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/2879
-#EXTINF:0 group-title="ball24" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20in/SkySportsCricket.png" ,skysport ticket
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/2879
-#EXTINF:0 group-title="ball24" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20in/SkySportsRacing.png" ,skysport racing
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/28741
+https://www.ball24.tv/allchannel/?id=skysportarena
+#EXTINF:0 group-title="ball24" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skysportgolf.png" ,skysport glof
+https://www.ball24.tv/allchannel/?id=skysportgolf
+#EXTINF:0 group-title="ball24" tvg-logo="https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportclicket.png" ,skysport ticket
+https://www.warpfootball.games/live/?ch=skysportclicket
 #EXTINF:0 group-title="ball24" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20in/SkySportsF1.png" ,skysport f1
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/2876
-#EXTINF:0 group-title="ball24" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20in/SkySportsF1.png" ,skysport f1
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/2876
-#EXTINF:0 group-title="ball24" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20in/Skysport%20NFL.jpg" ,skysport nfl
-http://mu03ye.wanicelife.com:8880/YALM4262/360547880/2872
+https://www.ball24.tv/allchannel/?id=skysportf1
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMn32k.png" ,NBT HD
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/2/2.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://doo2you.com/icon/tpbs.png" ,TPBS
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/3/3.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://bit.ly/34rddx4" ,ALTV
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/4/4.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://bit.ly/375FOsI" ,TPTV
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/10/10.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMntTE.png" ,5HD
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/5/5.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6yra.png" ,TNN16
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/16/16.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://doo2you.com/icon/JKNDramax.png" ,JKN18
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/18/18.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6v9D.png" ,T Sport7
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6I0q.png" ,NationsHD
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/22/22.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMn9yv.png" ,Workpiont HD
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/23/23.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnB8t.png" ,True4You
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/24.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6Gj9.png" ,Gmm25 HD
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/25/25.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnNUP.png" ,ch8 HD
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/27/27.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnh0e.png" ,Mono29 HD
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/29/29.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMn4NI.png" ,Mcot HD
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/30/30.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnYvZ.png" ,ONE31 HD
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/31/31.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnSju.png" ,ไทยรัฐ ทีวี
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/32/32.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMndyR.png" ,3HD
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/33/33.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6Mcz.png" ,Amarin
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/34/34.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnWs8.png" ,7HD
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/35/35.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6JpJ.png" ,PPTV HD
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/36/36.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://bit.ly/3K2GUnu" ,VoiceTV
+https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="3bb" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18136436_ico.png" ,TOPNEWs
+https://live.topnews.co.th/hls/topnews_720.m3u8
+#EXTINF:-1 group-title="3bb" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18136456_ico.png" ,News
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/33
+#EXTINF:-1 group-title="3bb" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18136461_ico.png" ,ฟ้าวันใหม่
+https://5ca295a97d887.streamlock.net/blueskychannel/blueskychannel/chunklist_w1503630340.m3u8
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/03/01/rOmchu.png" ,NICK JR
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/304/304.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://www.img.in.th/images/60403245640f517a38c54bf2a5387e6e.jpg" ,BOOMERANG
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/306/306.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://bit.ly/3soQATg" ,OUTDOOR
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/601/601.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/21/rZfdFy.png" ,MONO29 Plus
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/109/109.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKyLnS.png" ,มังกร
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/121/121.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17130849_ico.png" ,3BB ASIAN
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SbNfk.png" ,HBO HD
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/103/103.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17706273_ico.png" ,HBO HITS
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMvRma.png" ,HBO SIGNATURE
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMvisf.png" ,HBO FAMILY
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SbKJW.png" ,CINEMAX
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgK9e.png" ,RUSH Stories
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/203/203.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgZjl.png" ,A'lure Channel
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/204/204.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgu2b.png" ,MONO29 Music
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/202/202.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgCcJ.jpg" ,BBC lifestyle
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/205/205.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgP8D.jpg" ,LOVENATURE
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://www.img.in.th/images/c82524d69eb891f833be4654636361f8.jpg" ,BBC EARTH
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/603/603.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rK9UqI.png" ,3BB SPORT 1
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rK9UqI.png" ,3BB SPORT 2
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/403/403.mpd
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl1.png" ,tp1
+https://www.ดูหนังอิอิ.com/player/c/151/Premier-Football-HD-1-151/37937.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl2.png" ,tp2
+https://www.ดูหนังอิอิ.com/player/c/152/Premier-Football-HD-2-152/37939.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl3.png" ,tp3
+https://www.ดูหนังอิอิ.com/player/c/153/Premier-Football-HD-3-153/37941.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl4.png" ,tp4
+https://www.ดูหนังอิอิ.com/player/c/154/Premier-Football-HD-4-154/37943.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl5.png" ,tp5
+https://www.ดูหนังอิอิ.com/player/c/155/Premier-Football-HD-5-155/37945.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-tsport1.png" ,THD1
+https://www.ดูหนังอิอิ.com/player/c/22/TRUE-SPORT-HD1-22/37825.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-tsport2.png" ,THD2
+https://www.ดูหนังอิอิ.com/player/c/23/TRUE-SPORT-HD2-23/37829.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-tsport3.png" ,THD3
+https://www.ดูหนังอิอิ.com/player/c/24/TRUE-SPORT-HD3-24/37830.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-tsport4.png" ,THD4
+https://www.ดูหนังอิอิ.com/player/c/116/TRUE-SPORT-HD4-116/37907.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/epl-bein1.png" ,b1
+https://www.ดูหนังอิอิ.com/player/c/18/BEIN-SPORT-HD-1-18/37821.htmll
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/epl-bein2.png" ,b2
+https://www.ดูหนังอิอิ.com/player/c/19/BEIN-SPORT-HD-2-19/37823.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/sd-tsport5.png" ,t5
+https://www.ดูหนังอิอิ.com/player/c/32/TRUE-SPORT-5-32/37838.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/sd-tsport7.png" ,t7
+https://www.ดูหนังอิอิ.com/player/c/60/TRUE-SPORT-7-60/37866.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-nba.png" ,nba
+https://www.ดูหนังอิอิ.com/player/c/25/NBA-HD-25/37831.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-tennis.png" ,tenis
+https://www.ดูหนังอิอิ.com/player/c/26/TENNIS-HD-26/37832.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-golf.png" ,golf
+https://www.ดูหนังอิอิ.com/player/c/27/GOLF-CHANNEL-HD-27/37833.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/8a5fbfc79a4f27dc0bb99c5559549435.png" ,sp1
+https://www.ดูหนังอิอิ.com/player/c/28/spottv-hd1/37834.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/60a723a716c3b7b458b9ed09bb80ec76.png" ,sp2
+https://www.ดูหนังอิอิ.com/player/c/29/spottv-hd2/37835.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/nfl-network.png" ,nfl
+https://www.ดูหนังอิอิ.com/player/c/159/NFL-Network-159/37950.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/jpg/uk-btsport1.jpg" ,b1
+https://www.ดูหนังอิอิ.com/player/c/156/BT-SPORT-HD1-156/37946.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/jpg/uk-btsport2.jpg" ,b2
+https://www.ดูหนังอิอิ.com/player/c/157/BT-SPORT-HD2-157/37948.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/jpg/hd-sporttv1.jpg" ,p1
+https://www.ดูหนังอิอิ.com/player/c/139/Sport-TV-1-139/37927.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/jpg/hd-sporttv2.jpg" ,p2
+https://www.ดูหนังอิอิ.com/player/c/140/Sport-TV-2-140/37929.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/jpg/hd-sporttv3.jpg" ,p3
+https://www.ดูหนังอิอิ.com/player/c/141/Sport-TV-3-141/37931.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/jpg/hd-sporttv4.jpg" ,p4
+https://www.ดูหนังอิอิ.com/player/c/142/Sport-TV-4-142/37933.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/jpg/hd-sporttv5.jpg" ,p5
+https://www.ดูหนังอิอิ.com/player/c/143/Sport-TV-5-143/37935.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/sd-animalplanet.png" ,animal
+https://www.ดูหนังอิอิ.com/player/c/55/ANIMALPLANET-55/37861.html
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-discovery.png" ,D
+https://www.ดูหนังอิอิ.com/player/c/57/DISCOVERY-HD-WORLD-57/37653.html
+
+
 
