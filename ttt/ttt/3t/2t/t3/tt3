@@ -502,7 +502,7 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/22/22.mpd
 #EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMn9yv.png" ,Workpiont HD
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/23/23.mpd
 #EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnB8t.png" ,True4You
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/24.mpd
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/24/24.mpd
 #EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6Gj9.png" ,Gmm25 HD
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/25/25.mpd
 #EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnNUP.png" ,ch8 HD
@@ -528,7 +528,7 @@ https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist.m3u8
 #EXTINF:-1 group-title="3bb" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18136436_ico.png" ,TOPNEWs
 https://live.topnews.co.th/hls/topnews_720.m3u8
 #EXTINF:-1 group-title="3bb" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18136456_ico.png" ,News
-http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/33
+https://server1.streamssl.com/stream/news1_hi.m3u8
 #EXTINF:-1 group-title="3bb" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18136461_ico.png" ,ฟ้าวันใหม่
 https://5ca295a97d887.streamlock.net/blueskychannel/blueskychannel/chunklist_w1503630340.m3u8
 #EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/03/01/rOmchu.png" ,NICK JR
@@ -553,6 +553,8 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
 #EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SbKJW.png" ,CINEMAX
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://fiber.3bb.co.th/wp-content/uploads/2022/02/3BB-GIGATV-Premium-Subscribtion-channel.jpg" ,ROCK
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/206/206.mpd
 #EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgK9e.png" ,RUSH Stories
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/203/203.mpd
 #EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgZjl.png" ,A'lure Channel
@@ -564,11 +566,19 @@ http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/205/205.mpd
 #EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgP8D.jpg" ,LOVENATURE
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd
 #EXTINF:-1 group-title="3bb" tvg-logo="https://www.img.in.th/images/c82524d69eb891f833be4654636361f8.jpg" ,BBC EARTH
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/503/503.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://www.img.in.th/images/c82524d69eb891f833be4654636361f8.jpg" ,BBC EARTH
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/603/603.mpd
 #EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rK9UqI.png" ,3BB SPORT 1
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
 #EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rK9UqI.png" ,3BB SPORT 2
 http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/403/403.mpd
+#EXTINF:-1 group-title="3bb" tvg-logo="https://thaitvstream.com/streaming/gochannel/gochannel.png" ,GOLIVE
+https://live1.thaitvstream.com/play/gochannel/index.m3u8
+#EXTINF:-1 group-title="3bb" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png" ,Thainews
+https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1 group-title="3bb" tvg-logo="https://fiber.3bb.co.th/wp-content/uploads/2022/02/3BB-GIGATV-Premium-Subscribtion-channel.jpg" ,golf
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/411/411.mpd
 #EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl1.png" ,tp1
 https://www.ดูหนังอิอิ.com/player/c/151/Premier-Football-HD-1-151/37937.html
 #EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl2.png" ,tp2
