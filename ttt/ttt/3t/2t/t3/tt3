@@ -25,6 +25,8 @@ https://www.we-play.live/watching/tv/national-geographic
 https://www.we-play.live/watching/tv/tlc-hd
 #EXTINF:0 group-title="ballsod" tvg-logo="https://we-play.live/images/logo.png" ,we-play.live/tv
 https://we-play.live/tv
+#EXTINF:0 group-title="ballsod" tvg-logo="https://static-dfb-2021.b-cdn.net/web/doofootball_logo.png" ,doofootball
+https://www.doofootball.com/dootv 
 #EXTINF:0 group-title="ballsod" tvg-logo="https://dooball66.com/wp-content/uploads/2020/07/cropped-logo-1536x369.png" ,dooball66.com
 https://dooball66.com/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/image/menu.png" ,ball24.tv
@@ -45,6 +47,10 @@ https://ball365.co/channel/
 https://ball365.co/
 #EXTINF:-1 group-title="ballsod" tvg-logo="https://www.doonung1234.com/asset/web/img/logo.png" ,doonung1234
 https://www.doonung1234.com/match
+#EXTINF:-1 group-title="ballsod" tvg-logo="https://livescorethai.net/assets/images/logo-new.png?v=4" ,livescorethai.net
+https://livescorethai.net/ดูบอลสดLST
+#EXTINF:-1 group-title="ballsod" tvg-logo="https://livescorethai.tv/_next/image?url=%2Fimages%2Flogo.png&w=128&q=75" ,livescorethai.net
+https://livescorethai.tv/
 #EXTINF:-1 group-title="ballsod" tvg-logo="http://cdn.livetv532.me/img/logo_en.jpg" ,livetv.sx
 http://livetv.sx/enx/
 #EXTINF:-1 group-title="XXX" tvg-logo="http://adultiptv.net/lists/logo.png" ,AST TV 1
