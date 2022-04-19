@@ -796,6 +796,26 @@ https://www.doofootball.com/dootv/live/sportklub2slovenia
 https://www.doofootball.com/dootv/live/sportklub3slovenia
 #EXTINF:0 group-title="Dootv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub4slovenia.png" ,sportklub4slovenia
 https://www.doofootball.com/dootv/live/sportklub4slovenia
+#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032248-tv-station_Sky-sport-1-(DE).png" ,skysport1de
+https://www.doofootball.com/dootv/live/skysport1de
+#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032335-tv-station_Sky-Sports-Main-Event-(UK).png" ,skysportmainevent
+https://www.doofootball.com/dootv/live/skysportmainevent
+#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032420-tv-station_Sky-Sports-Action-(UK).png" ,skysportaction
+https://www.doofootball.com/dootv/live/skysportaction
+#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032511-tv-station_Sky-Sports-Football-(UK).png" ,skysportfootball
+https://www.doofootball.com/dootv/live/skysportfootball
+#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032537-tv-station_Sky-Sports-Premier-(UK).png" ,skysportpremiere
+https://www.doofootball.com/dootv/live/skysportpremiere
+#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032620-tv-station_Sky-Sports-Areana-(UK).png" ,skysportarena
+https://www.doofootball.com/dootv/live/skysportarena
+#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032708-tv-station_Sky-Sports-F1-(UK).png" ,skysportf1
+https://www.doofootball.com/dootv/live/skysportf1
+#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032806-tv-station_Sky-Sports-Mix-(UK).png" ,skysportmix
+https://www.doofootball.com/dootv/live/skysportmix
+#EXTINF:0 group-title="Dootv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skysportgolf.png" ,skysportgolf
+https://www.doofootball.com/dootv/live/skysportgolf
+#EXTINF:0 group-title="Dootv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skysportclicket.png" ,skysportclicket
+https://www.doofootball.com/dootv/live/skysportclicket
 #EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051731-HBO-HD.png" ,hbohd
 https://www.doofootball.com/dootv/live/hbohd
 #EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051750-HBO-family.png" ,hbofamily
