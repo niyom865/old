@@ -788,6 +788,14 @@ https://www.doofootball.com/dootv/live/ziggosportvoetbal
 https://www.doofootball.com/dootv/live/cmorelivehd
 #EXTINF:0 group-title="Dootv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/cmorefootball.png" ,cmorefootball
 https://www.doofootball.com/dootv/live/cmorefootball
+#EXTINF:0 group-title="Dootv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub1slovenia.png" ,sportklub1slovenia
+https://www.doofootball.com/dootv/live/sportklub1slovenia
+#EXTINF:0 group-title="Dootv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub2slovenia.png" ,sportklub2slovenia
+https://www.doofootball.com/dootv/live/sportklub2slovenia
+#EXTINF:0 group-title="Dootv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub3slovenia.png" ,sportklub3slovenia
+https://www.doofootball.com/dootv/live/sportklub3slovenia
+#EXTINF:0 group-title="Dootv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub4slovenia.png" ,sportklub4slovenia
+https://www.doofootball.com/dootv/live/sportklub4slovenia
 #EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051731-HBO-HD.png" ,hbohd
 https://www.doofootball.com/dootv/live/hbohd
 #EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051750-HBO-family.png" ,hbofamily
