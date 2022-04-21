@@ -27,6 +27,8 @@ https://www.we-play.live/watching/tv/tlc-hd
 https://we-play.live/tv
 #EXTINF:0 group-title="ballsod" tvg-logo="https://static-dfb-2021.b-cdn.net/web/doofootball_logo.png" ,doofootball
 https://www.doofootball.com/dootv 
+#EXTINF:0 group-title="ballsod" tvg-logo="https://static-dfb-2021.b-cdn.net/web/doofootball_logo.png" ,doofootball live
+https://www.doofootball.com/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://dooball66.com/wp-content/uploads/2020/07/cropped-logo-1536x369.png" ,dooball66.com
 https://dooball66.com/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/image/menu.png" ,ball24.tv
@@ -831,7 +833,7 @@ https://www.doofootball.com/dootv/live/trueseries
 #EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051938-true-asianseries.png" ,asianseries
 https://www.doofootball.com/dootv/live/asianseries
 #EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051945-true-movie-hits.png" ,moviehit
-https://www.doofootball.com/dootv/live/moviehit
+https://www.doofootball.com/dootv/live/moviehit/
 #EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052226-AXN.png" ,axn
 https://www.doofootball.com/dootv/live/axn
 #EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051654-paramount.png" ,paramount
@@ -855,8 +857,8 @@ https://www.doofootball.com/dootv/live/animalplanet
 #EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051634-CLONE.png" ,history
 https://www.doofootball.com/dootv/live/history
 #EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051712-true-explore-sci.png" ,truesci
-https://www.doofootball.com/dootv/live/truesci
+https://www.doofootball.com/dootv/live/truesci/
 #EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051712-true-explore-sci.png" ,truelife
-https://www.doofootball.com/dootv/live/truelife
+https://www.doofootball.com/dootv/live/truelife/
 
 
