@@ -1,28 +1,38 @@
-#EXTM3U
-#EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-earth.png" ,hd-discovery66
+ #EXTM3U
+#EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-earth.png" ,BBC
 https://freetvdd.com/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94%E0%B8%B5/bbc-earth/#
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-discovery.png" ,hd-discovery
-https://www.we-play.live/watching/tv/discovery-asia
+https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-asia-en/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-discovery.png" ,hd-discovery
 https://www.ilike-movie.com/player/c/57/DISCOVERY-HD-WORLD-57/37653.html
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/sd-discovery.png" ,discovery
-https://www.we-play.live/watching/tv/discovery-channel
+https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-channel-en/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://we-play.live/uploads/posters/animal-planet-poster1602705496.jpeg" ,animalplanet
-https://www.we-play.live/watching/tv/animal-planet
+https://www.doofootball.com/dootv/live/animalplanet#main_dootv
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/cache/channel_thumb/uploads/png/sd-animalplanet.png" ,animalplanet
 https://www.ilike-movie.com/player/c/55/ANIMALPLANET-55/37861.html
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-history2.png" ,history2
-https://www.we-play.live/watching/tv/history-h2
+https://www.livedoomovies.com:4431/02_H2HD_720p/chunklist.m3u8
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-history2.png" ,history2
 https://www.ilike-movie.com/player/c/58/HISTORY2-HD-58/37654.html
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-history.png" ,history
-https://www.we-play.live/watching/tv/history-hd
+https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/history-en/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-history.png" ,history
 https://www.ilike-movie.com/player/c/59/HISTORY-HD-59/37655.html
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-natgeo.png" ,natgeo
-https://www.we-play.live/watching/tv/national-geographic
+https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/national-geographic-en/
+#EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nat-geo-wild.png" ,natgeo wild
+https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/national-geographic-wild/
+#EXTINF:0 group-title="ballsod" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051712-true-explore-sci.png" ,sci
+https://www.doofootball.com/dootv/live/truesci#main_dootv
+#EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-life.png" ,life
+https://www.doofootball.com/dootv/live/truelife#main_dootv
+#EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-wild.png" ,wild
+https://www.doofootball.com/dootv/live/truewild#main_dootv
+#EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/dmax.png" ,demax
+https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/dmax-en/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://we-play.live/uploads/posters/tlc-hd-poster1602705866.jpeg" ,tlc-hd
-https://www.we-play.live/watching/tv/tlc-hd
+https://www.doofootball.com/dootv/live/tlc#main_dootv
 #EXTINF:0 group-title="ballsod" tvg-logo="https://we-play.live/images/logo.png" ,we-play.live/tv
 https://we-play.live/tv
 #EXTINF:0 group-title="ballsod" tvg-logo="https://static-dfb-2021.b-cdn.net/web/doofootball_logo.png" ,doofootball
