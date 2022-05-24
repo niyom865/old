@@ -885,8 +885,70 @@ https://www.doofootball.com/dootv/live/animalplanet
 #EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051634-CLONE.png" ,history
 https://www.doofootball.com/dootv/live/history
 #EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051712-true-explore-sci.png" ,truesci
-https://www.doofootball.com/dootv/live/truesci/
+https://www.doofootball.com/dootv/live/truesci#main_dootv
 #EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051712-true-explore-sci.png" ,truelife
-https://www.doofootball.com/dootv/live/truelife/
+https://www.doofootball.com/dootv/live/truelife#main_dootv
+
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/202002080013505%20HD.jpg" ,5
+http://tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1_e.php
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001644tnn24.jpg" ,tnn
+https://www.tnnthailand.com/live/
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001753true4u.jpg" ,24u
+https://www.true4u.com/
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001455thai%20pbs.jpg" ,tpbs
+https://program.thaipbs.or.th/live
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001411nbt.jpg" ,nbt
+https://www.inwiptv.com/player_demo.php?channel=27189
+#EXTINF:0 group-title="3bb" audio-track="https://img.inwiptv.net/postor/2021042201435420201204002025TPTV.jpg" ,tp
+https://www.inwiptv.com/player_demo.php?channel=27186
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001956mono29.jpg" ,mono
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/playlist.m3u8
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/202002080029087%20HD.jpg" ,7
+https://live-cdn-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002945pptvhd.jpg" ,pptv
+https://www.pptvhd36.com/live
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002945pptvhd.jpg" ,pptv
+https://pptv36-1tsjfj.cdn.byteark.com/live/pl_1080p/index.m3u8?x_ark_access_id=fleet-963&x_ark_auth_type=ark-v2&x_ark_path_prefix=%2Flive%2F&x_ark_signature=R8xkJtWIsgjwUmOfEgugmw
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/202002080022223%20HD.jpg" ,3
+https://s.ch3plus.com/live
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001739workkpoint.jpg" ,wp
+https://www.workpointtv.com/live-stream-page/
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001739workkpoint.jpg" ,wp
+https://www.dailymotion.com/embed/video/x6g9qjj?api=postMessage&autoplay=false&id=player&origin=https:%2F%2Fwww.workpointtv.com
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20141012134807ch8.jpg" ,8
+https://www.thaich8.com/live
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20141012134807ch8.jpg" ,8
+https://geo.dailymotion.com/player.html?video=x84ukk7&GK_PV5_PHOTON=0
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002141one.jpg" ,one
+https://oned.net/live
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002141one.jpg" ,one
+https://oned.net/live
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001804gmm%2025.jpg" ,gmm25
+https://www.dailymotion.com/embed/video/k4jJqAW0V5pVYnrJq1J?autoplay=1
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001721nation.jpg" ,nation
+https://www.dailymotion.com/embed/video/x6eoldf?autoplay=1&mute=1&queue-enable=false&controls=true&sharing-enable=false
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001721nation.jpg" ,nation
+https://www.nationtv.tv/category/nationtv/live
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002015mcot.jpg" ,mcot
+https://tv.mcot.net/mcothd
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002015mcot.jpg" ,mcot
+https://www.dailymotion.com/embed/video/x74wlgj?api=postMessage&autoplay=false&id=player&origin=https:%2F%2Ftv.mcot.net
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002253amarin%20tv.jpg" ,amarin
+https://www.amarintv.com/live
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002253amarin%20tv.jpg" ,amarin
+https://www.amarintv.com/live
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002208thairath.jpg" ,thairath
+https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+#EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002208thairath.jpg" ,thairath
+https://www.thairath.co.th/tv/live
+#EXTINF:0 group-title="3bb" tvg-logo="https://images.topnews.co.th/2022/03/cropped-Logo-TOP-NEWS-100x100-1.jpg" ,topnews
+https://geo.dailymotion.com/player/x8pg3.html?video=x8aopdx&GK_PV5_PHOTON=0
+#EXTINF:0 group-title="3bb" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/news1.jpg" ,news
+https://news1live.com/
+#EXTINF:0 group-title="3bb" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/news1.jpg" ,news
+https://server1.streamssl.com/stream/news1_hi.m3u8
+#EXTINF:0 group-title="3bb" tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png" ,news
+https://www.newtv.co.th/live/
+
 
 
