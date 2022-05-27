@@ -889,6 +889,7 @@ https://www.doofootball.com/dootv/live/truesci#main_dootv
 #EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051712-true-explore-sci.png" ,truelife
 https://www.doofootball.com/dootv/live/truelife#main_dootv
 
+
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/202002080013505%20HD.jpg" ,5
 http://tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1_e.php
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001644tnn24.jpg" ,tnn
@@ -899,7 +900,7 @@ https://www.ilike-movie.com/player/c/68/TRUE4U-68/37872.html
 https://www.ilike-movie.com/player/c/7/THAI-PBS-HD-7/37810.html
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001411nbt.jpg" ,nbt
 https://www.ilike-movie.com/player/c/6/NBT-HD-6/37809.html
-#EXTINF:0 group-title="3bb" audio-track="https://img.inwiptv.net/postor/2021042201435420201204002025TPTV.jpg" ,tp
+#EXTINF:0 group-title="3bb" audio-track="https://overseer.blackboxsys.net/images/png/sd-tptv.png" ,tp
 https://www.inwiptv.com/player_demo.php?channel=27186
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001956mono29.jpg" ,mono
 https://www.ilike-movie.com/player/c/63/MONO29-HD-63/37868.html
@@ -914,11 +915,11 @@ https://www.ilike-movie.com/player/c/15/WORK-POINT-HD-15/37819.html
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20141012134807ch8.jpg" ,8
 https://www.ilike-movie.com/player/c/4/CH8-HD-4/37807.html
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002141one.jpg" ,one
-https://www.dailymotion.com/cdn/live/video/x6824x8.m3u8?sec=0D6we_a9436ACqrRcboGJoR_PFK3GV5mLXOtdoJPebNO3CwJclsZsxjMKDuvRRgTtAVM715f1LihBVoxXAyAMw&dmTs=747679&dmV1st=369920535A0765E0EE77477FFCDF4B3B
+https://playerembed-lb.blackboxsys.net/player.php?channel=hd-gmmone.mpd
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001804gmm%2025.jpg" ,gmm25
-https://www.ilike-movie.com/player/c/11/GMM-CHANNEL-HD-11/37817.html
+https://playerembed-lb.blackboxsys.net/player.php?channel=sd-gmmchannel.mpd
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001721nation.jpg" ,nation
-https://www.dailymotion.com/cdn/live/video/x6eoldf.m3u8?sec=dyy-gOC4n37E9-Qk7xVE0N8cAr8kOuaYdV3y8QXGJuZcZZCUFd5DUkjrFxjbEQzUi5x8iTmELK0K2kacfkbxRA&dmTs=747679&dmV1st=369920535A0765E0EE77477FFCDF4B3B
+https://playerembed-lb.blackboxsys.net/player.php?channel=sd-nation.mpd
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002015mcot.jpg" ,mcot
 https://www.ilike-movie.com/player/c/6/NBT-HD-6/37809.html
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002253amarin%20tv.jpg" ,amarin
