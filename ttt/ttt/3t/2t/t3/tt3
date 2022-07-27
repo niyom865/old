@@ -821,4 +821,52 @@ https://server1.streamssl.com/stream/news1_low.m3u8
 https://server1.streamssl.com/stream/news1_hi.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/newtv.png" ,news
 https://www.ball24.tv/allchannel/?id=newtv
+
+
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/202002080022223%20HD.jpg" ,3
+https://www.inwiptv.com/player_demo.php?channel=27137
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/202002080013505%20HD.jpg" ,5
+https://www.inwiptv.com/player_demo.php?channel=27190
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/202002080029087%20HD.jpg" ,7
+https://www.inwiptv.com/player_demo.php?channel=27132
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20200208001820ch%208.jpg" ,8
+https://www.inwiptv.com/player_demo.php?channel=27147
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20200208001411nbt.jpg" ,nbt
+https://www.inwiptv.com/player_demo.php?channel=27189
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20200208001455thai%20pbs.jpg" ,tpbs
+https://www.inwiptv.com/player_demo.php?channel=27188
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/2021042201435420201204002025TPTV.jpg" ,tptv
+https://www.inwiptv.com/player_demo.php?channel=27186
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20200208001644tnn24.jpg" ,tnn
+https://www.inwiptv.com/player_demo.php?channel=27179
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20200208001711newtv.jpg" ,newtv
+https://www.inwiptv.com/player_demo.php?channel=27174
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20200208001721nation.jpg" ,nation
+https://www.inwiptv.com/player_demo.php?channel=27162
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20200208001739workkpoint.jpg" ,workkpoint
+https://www.inwiptv.com/player_demo.php?channel=27159
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20200208001753true4u.jpg" ,true4u
+https://www.inwiptv.com/player_demo.php?channel=27156
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20200208001804gmm%2025.jpg" ,gmm25
+https://www.inwiptv.com/player_demo.php?channel=27153
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20200208001956mono29.jpg" ,mono
+https://www.inwiptv.com/player_demo.php?channel=27144
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20200208002015mcot.jpg" ,9
+https://www.inwiptv.com/player_demo.php?channel=27141
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20200208002208thairath.jpg" ,thairath
+https://www.inwiptv.com/player_demo.php?channel=27137
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20200208002253amarin%20tv.jpg" ,amarin
+https://www.inwiptv.com/player_demo.php?channel=27135
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20141012134807ch8.jpg" ,ch8
+https://www.inwiptv.com/player_demo.php?channel=6614
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20200512164154fwmov.jpg" ,fw1
+https://www.inwiptv.com/player_demo.php?channel=89782
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20200512165346fwsov.jpg" ,fw2
+https://www.inwiptv.com/player_demo.php?channel=89781
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20200512162950fw%20teletoon(1).jpg" ,fw3
+https://www.inwiptv.com/player_demo.php?channel=89780
+#EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20200208001241%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg" ,ถิ่นใต้
+https://www.inwiptv.com/player_demo.php?channel=61235
+
+ 
  
