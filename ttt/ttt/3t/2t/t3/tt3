@@ -81,6 +81,8 @@ https://livescorethai.net/ดูบอลสดLST
 https://livescorethai.tv/
 #EXTINF:-1 group-title="ballsod" tvg-logo="http://cdn.livetv532.me/img/logo_en.jpg" ,livetv.sx
 http://livetv.sx/enx/
+#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/jasmin.png" ,oxax.tv
+http://oxax.tv/
 #EXTINF:-1 group-title="XXX" tvg-logo="http://adultiptv.net/lists/logo.png" ,AST TV 1
 https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="http://adultiptv.net/lists/logo.png" ,AST TV 2
@@ -515,162 +517,46 @@ https://www.ball24.tv/allchannel/?id=skysportgolf
 https://www.warpfootball.games/live/?ch=skysportclicket
 #EXTINF:0 group-title="ball24" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20in/SkySportsF1.png" ,skysport f1
 https://www.ball24.tv/allchannel/?id=skysportf1
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMn32k.png" ,NBT HD
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/2/2.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://doo2you.com/icon/tpbs.png" ,TPBS
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/3/3.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://bit.ly/34rddx4" ,ALTV
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/4/4.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://bit.ly/375FOsI" ,TPTV
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/10/10.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMntTE.png" ,5HD
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/5/5.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6yra.png" ,TNN16
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/16/16.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://doo2you.com/icon/JKNDramax.png" ,JKN18
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/18/18.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6v9D.png" ,T Sport7
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6I0q.png" ,NationsHD
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/22/22.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMn9yv.png" ,Workpiont HD
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/23/23.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnB8t.png" ,True4You
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/24/24.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6Gj9.png" ,Gmm25 HD
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/25/25.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnNUP.png" ,ch8 HD
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/27/27.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnh0e.png" ,Mono29 HD
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/29/29.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMn4NI.png" ,Mcot HD
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/30/30.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnYvZ.png" ,ONE31 HD
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/31/31.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnSju.png" ,ไทยรัฐ ทีวี
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/32/32.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMndyR.png" ,3HD
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/33/33.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6Mcz.png" ,Amarin
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/34/34.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMnWs8.png" ,7HD
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/35/35.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nM6JpJ.png" ,PPTV HD
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/36/36.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://bit.ly/3K2GUnu" ,VoiceTV
+
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" group-title="ดิจิตอล",  3HD
+https://freelive.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsEfI.png" group-title="ดิจิตอล",  5HD
+https://freelive.inwstream.com:1936/freelive-edge/ch5hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOs6hQ.png" group-title="ดิจิตอล", 7HD
+https://freelive.inwstream.com:1936/freelive-edge/7hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsHYg.png" group-title="ดิจิตอล", MCOT HD
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsVRW.png" group-title="ดิจิตอล", NBT HD
+https://freelive.inwstream.com:1936/freelive-edge/nbt/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsvwy.png" group-title="ดิจิตอล", THAI TPBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2SA0.png" group-title="ดิจิตอล", ONE HD
+https://freelive2.inwstream.com:1936/freelive-edge/onehd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO271R.png" group-title="ดิจิตอล", THAIRATH TV
+https://freelive2.inwstream.com:1936/freelive-edge/thairahttvhd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png" group-title="ดิจิตอล", AMARIN TV
+https://freelive2.inwstream.com:1936/freelive-edge/amarinhd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2TWk.png" group-title="ดิจิตอล", PPTV
+https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2qW2.png" group-title="ดิจิตอล", WORKPOINT
+http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/02/O8obZR.jpg" group-title="ดิจิตอล", CH8
+https://freelive2.inwstream.com:1936/freelive-edge/ch8/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2QnW.png" group-title="ดิจิตอล", MONO 29
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7Z4E2.png" group-title="ดิจิตอล", VOICE TV
 https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist.m3u8
-#EXTINF:-1 group-title="3bb" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18136436_ico.png" ,TOPNEWs
-https://live.topnews.co.th/hls/topnews_720.m3u8
-#EXTINF:-1 group-title="3bb" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18136456_ico.png" ,News
-https://server1.streamssl.com/stream/news1_hi.m3u8
-#EXTINF:-1 group-title="3bb" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18136461_ico.png" ,ฟ้าวันใหม่
-https://5ca295a97d887.streamlock.net/blueskychannel/blueskychannel/chunklist_w1503630340.m3u8
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/03/01/rOmchu.png" ,NICK JR
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/304/304.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://www.img.in.th/images/60403245640f517a38c54bf2a5387e6e.jpg" ,BOOMERANG
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/306/306.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://bit.ly/3soQATg" ,OUTDOOR
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/601/601.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/21/rZfdFy.png" ,MONO29 Plus
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/109/109.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKyLnS.png" ,มังกร
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/121/121.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17130849_ico.png" ,3BB ASIAN
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/101/101.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SbNfk.png" ,HBO HD
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/103/103.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17706273_ico.png" ,HBO HITS
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/105/105.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMvRma.png" ,HBO SIGNATURE
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/104/104.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/07/nMvisf.png" ,HBO FAMILY
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/106/106.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2021/11/18/6SbKJW.png" ,CINEMAX
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/107/107.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://fiber.3bb.co.th/wp-content/uploads/2022/02/3BB-GIGATV-Premium-Subscribtion-channel.jpg" ,ROCK
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/206/206.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgK9e.png" ,RUSH Stories
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/203/203.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgZjl.png" ,A'lure Channel
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/204/204.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgu2b.png" ,MONO29 Music
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/202/202.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgCcJ.jpg" ,BBC lifestyle
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/205/205.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgP8D.jpg" ,LOVENATURE
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/501/501.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://www.img.in.th/images/c82524d69eb891f833be4654636361f8.jpg" ,BBC EARTH
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/503/503.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://www.img.in.th/images/c82524d69eb891f833be4654636361f8.jpg" ,BBC EARTH
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/603/603.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rK9UqI.png" ,3BB SPORT 1
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/401/401.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rK9UqI.png" ,3BB SPORT 2
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/403/403.mpd
-#EXTINF:-1 group-title="3bb" tvg-logo="https://thaitvstream.com/streaming/gochannel/gochannel.png" ,GOLIVE
-https://live1.thaitvstream.com/play/gochannel/index.m3u8
-#EXTINF:-1 group-title="3bb" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png" ,Thainews
-https://live.thaitvstream.com/play/thainews/index.m3u8
-#EXTINF:-1 group-title="3bb" tvg-logo="https://fiber.3bb.co.th/wp-content/uploads/2022/02/3BB-GIGATV-Premium-Subscribtion-channel.jpg" ,golf
-http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/411/411.mpd
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl1.png" ,tp1
-https://www.xn--72czp5emaz0ab6b.com/player/c/151/Premier-Football-HD-1-151/37937.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl2.png" ,tp2
-https://www.xn--72czp5emaz0ab6b.com/player/c/152/Premier-Football-HD-2-152/37939.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl3.png" ,tp3
-https://www.xn--72czp5emaz0ab6b.com/player/c/153/Premier-Football-HD-3-153/37941.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl4.png" ,tp4
-https://www.xn--72czp5emaz0ab6b.com/player/c/154/Premier-Football-HD-4-154/37943.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/doomovie-epl5.png" ,tp5
-https://www.xn--72czp5emaz0ab6b.com/player/c/155/Premier-Football-HD-5-155/37945.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-tsport1.png" ,THD1
-https://www.xn--72czp5emaz0ab6b.com/player/c/22/TRUE-SPORT-HD1-22/37825.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-tsport2.png" ,THD2
-https://www.xn--72czp5emaz0ab6b.com/player/c/23/TRUE-SPORT-HD2-23/37829.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-tsport3.png" ,THD3
-https://www.ดูหนังอิอิ.com/player/c/24/TRUE-SPORT-HD3-24/37830.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-tsport4.png" ,THD4
-https://www.xn--72czp5emaz0ab6b.com/player/c/116/TRUE-SPORT-HD4-116/37907.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/epl-bein1.png" ,b1
-https://www.xn--72czp5emaz0ab6b.com/player/c/18/BEIN-SPORT-HD-1-18/37821.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/epl-bein2.png" ,b2
-https://www.xn--72czp5emaz0ab6b.com/player/c/19/BEIN-SPORT-HD-2-19/37823.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/sd-tsport5.png" ,t5
-https://www.xn--72czp5emaz0ab6b.com/player/c/32/TRUE-SPORT-5-32/37838.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/sd-tsport7.png" ,t7
-https://www.xn--72czp5emaz0ab6b.com/player/c/60/TRUE-SPORT-7-60/37866.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-nba.png" ,nba
-https://www.xn--72czp5emaz0ab6b.com/player/c/25/NBA-HD-25/37831.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-tennis.png" ,tenis
-https://www.xn--72czp5emaz0ab6b.com/player/c/26/TENNIS-HD-26/37832.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-golf.png" ,golf
-https://www.xn--72czp5emaz0ab6b.com/player/c/27/GOLF-CHANNEL-HD-27/37833.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/8a5fbfc79a4f27dc0bb99c5559549435.png" ,sp1
-https://www.xn--72czp5emaz0ab6b.com/player/c/28/spottv-hd1/37834.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/60a723a716c3b7b458b9ed09bb80ec76.png" ,sp2
-https://www.xn--72czp5emaz0ab6b.com/player/c/29/spottv-hd2/37835.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/jpg/uk-btsport1.jpg" ,b1
-https://www.xn--72czp5emaz0ab6b.com/player/c/18/BEIN-SPORT-HD-1-18/37821.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/jpg/uk-btsport2.jpg" ,b2
-https://www.xn--72czp5emaz0ab6b.com/player/c/19/BEIN-SPORT-HD-2-19/37823.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/jpg/hd-sporttv1.jpg" ,p1
-https://www.xn--72czp5emaz0ab6b.com/player/c/139/Sport-TV-1-139/37927.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/jpg/hd-sporttv2.jpg" ,p2
-https://www.xn--72czp5emaz0ab6b.com/player/c/140/Sport-TV-2-140/37929.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/jpg/hd-sporttv3.jpg" ,p3
-https://www.xn--72czp5emaz0ab6b.com/player/c/141/Sport-TV-3-141/37931.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/jpg/hd-sporttv4.jpg" ,p4
-https://www.xn--72czp5emaz0ab6b.com/player/c/142/Sport-TV-4-142/37933.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/jpg/hd-sporttv5.jpg" ,p5
-https://www.xn--72czp5emaz0ab6b.com/player/c/143/Sport-TV-5-143/37935.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/sd-animalplanet.png" ,animal
-https://www.xn--72czp5emaz0ab6b.com/player/c/55/ANIMALPLANET-55/37861.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-discovery.png" ,D
-https://www.xn--72czp5emaz0ab6b.com/player/c/57/DISCOVERY-HD-WORLD-57/37653.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-history.png" ,history
-https://www.xn--72czp5emaz0ab6b.com/player/c/59/HISTORY-HD-59/37655.html
-#EXTINF:0 group-title="3bb" tvg-logo="https://www.ดูหนังอิอิ.com/uploads/png/hd-history2.png" ,history2
-https://www.xn--72czp5emaz0ab6b.com/player/c/58/HISTORY2-HD-58/37654.html 
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7Z4E2.png" group-title="ดิจิตอล", VOICE TV
+https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7ZAxE.jpg" group-title="ดิจิตอล", GMM25
+https://freelive2.inwstream.com:1936/freelive-edge/gmmchannel/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2Jdl.png" group-title="ดิจิตอล", NATION TV
+https://freelive2.inwstream.com:1936/freelive-edge/nation/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO283u.png" group-title="ดิจิตอล", TNN24
+https://freelive2.inwstream.com:1936/freelive-edge/tnn24/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO26PR.png" group-title="ดิจิตอล", TRUE4U
+https://freelive2.inwstream.com:1936/freelive-edge/true4u/chunks.m3u8
 
 #EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052036-gmm25.png" ,gmm25
 https://www.doofootball.com/dootv/live/gmm25
