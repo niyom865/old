@@ -79,6 +79,13 @@
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
     		"deskpop": "true"	   	   
              },
+	     {
+              "name": "bein3",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein3.png",
+                "url": "https://www.warpfootball.games/live/?ch=bein3","referer": " ", 
+   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
+    		"deskpop": "true"	   	   
+             },
 	{
               "name": "truesport hd",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd.png",
@@ -628,23 +635,23 @@
              },
 	 { 
 	   "name": "MONO29",
-                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/mono29.png",
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/mono-29.png",
                 "url": "https://www.warpfootball.games/live/?ch=mono29","referer": " ", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
     		"deskpop": "true"	   	   
              },
 	     {                
       "name": "mono-29",
-      "image": "https://wacth.officebk.co/uploads/tv_image/mono-29.png",
-      "url": "https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/playlist.m3u8" ,"referer": "https://mono29.com/livetv", 
+      "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/mono-29.png",
+      "url": "https://liveball99.com/live/live/921021/mono29" ,"referer": "https://mono29.com/livetv", 
    "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-    "playInNatPlayer": "true"},
+    "embed": "true"},
 {                
       "name": "mono-29",
-      "image": "https://wacth.officebk.co/uploads/tv_image/mono-29.png",
-      "url": "https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8" ,"referer": "https://mono29.com/livetv", 
+      "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/mono-29.png",
+      "url": "https://www.livestream88.com/digital/mono29/" ,"referer": "https://mono29.com/livetv", 
    "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-    "playInNatPlayer": "true"},
+    "embed": "true"},
 	     
 	     
 	{ 
@@ -656,8 +663,8 @@
              },
 		{ 
 	   "name": "one-hd",
-                "image": "https://we-play.live/uploads/posters/one-hd-poster1602705076.jpeg",
-                "url": "https://www.we-play.live/watching/tv/one-hd","referer": " ", 
+                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/one-hd.png",
+                "url": "https://www.warpfootball.games/live/?ch=onehd","referer": " ", 
    		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
     		"deskpop": "true"	   	   
              },
