@@ -620,13 +620,13 @@
 	     {                
       "name": "mono-29",
       "image": "https://rentapi.blackboxsys.net/images/png/hd-mono.png",
-      "url": "https://www.ball24.tv/allchannel/?id=mono29" ,"referer": 
-      "https://www.ball24.tv/","embed": "true"
+      "url": "https://www.ball24.tv/allchannel/?id=mono29" , 
+      "referer":"https://www.ball24.tv/","embed": "true"
       },
 {                
       "name": "mono-29",
       "image": "https://rentapi.blackboxsys.net/images/png/hd-mono.png",
-      "url": "https://www.warpfootball.games/live/?ch=mono29"
+      "url": "https://www.warpfootball.games/live/?ch=mono29",
       "referer": "https://www.ball24.tv/","embed": "true"
       },
     
@@ -695,7 +695,7 @@
 		{ 
 	   "name": "tptv",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",
-                "url": "http://tpchannel.org/tv/live.php",
+                "url": "https://live.parliament.go.th/Home/View/5",
 		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 		{ 
