@@ -19,443 +19,526 @@
                   "webviewType": "chrome", "embed": true },
 	    {name:"liveballsod",
                   image:"https://www.liveballsod.com/wp-content/uploads/2018/08/logo250.png",
-                    url:"https://www.liveballsod.com/",
+                    url:"https://www.warpballsod.tv/play-channel/",
                   "webviewType": "chrome", "embed": true },
 	   {
               "name": "epl1",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl1.png",
-                "url": "https://www.warpfootball.games/live/?ch=epl1","user-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 " 
+                "url": "https://www.warpfootball.games/live/?ch=epl1",
+		"referer": "https://www.warpfootball.games/",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
       },   
              {
               "name": "epl2",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl2.png",
-                "url": "https://www.warpfootball.games/live/?ch=epl2","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.warpfootball.games/live/?ch=epl2",
+		"referer": "https://www.warpfootball.games/","embed": "true"
       },   
 	     
             {
               "name": "epl3",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",
-                "url": "https://www.warpfootball.games/live/?ch=epl1","user-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" 
+                "url": "https://www.warpfootball.games/live/?ch=epl3",
+		"referer": "https://www.warpfootball.games/","embed": "true" 
       },   
             {
               "name": "epl1",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",
-                "url": "https://www.ball24.tv/allchannel/?id=epl1","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" 
+                "url": "https://www.ball24.tv/allchannel/?id=epl1",
+		"referer": "https://www.ball24.tv/","embed": "true"  
       },   
        
             {
               "name": "epl2",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",
-                "url": "https://www.ball24.tv/allchannel/?id=epl2","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" 
+                "url": "https://www.ball24.tv/allchannel/?id=epl2",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
       
       
             {
               "name": "epl3",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl3.png",
-                "url": "https://www.ball24.tv/allchannel/?id=epl3","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" 
+                "url": "https://www.ball24.tv/allchannel/?id=epl3",
+		"referer": "https://www.ball24.tv/","embed": "true"  
       },   
       
 	{
               "name": "epl4",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl4.png",
-                "url": "https://www.ball24.tv/allchannel/?id=epl4","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" 
+                "url": "https://www.ball24.tv/allchannel/?id=epl4",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "epl5",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/epl5.png",
-                "url": "https://www.ball24.tv/allchannel/?id=epl5","userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" 
+                "url": "https://www.ball24.tv/allchannel/?id=epl5",
+		"referer": "https://www.ball24.tv/","embed": "true"  
       },   
 	     
 	     {
               "name": "astrosupersport",
                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport1.png",
-                "url": "https://www.ball24.tv/?id=astrosupersport","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/?id=astrosupersport",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	     
 	     {
               "name": "astrosupersport2",
                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport2.png",
-                "url": "https://www.ball24.tvl/?id=astrosupersport2","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tvl/?id=astrosupersport2",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	      {
               "name": "astrosupersport3",
                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport3.png",
-                "url": "https://www.ball24.tv/?id=astrosupersport3","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/?id=astrosupersport3",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	     
 	      {
               "name": "astrosupersport4",
                "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/sp/s/astrosupersport4.png",
-                "url": "https://www.ball24.tv/?id=astrosupersport4","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/?id=astrosupersport4",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	     
 	     
 	{
               "name": "bein1",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein1.png",
-                "url": "https://www.ball24.tv/allchannel/?id=bein1","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=bein1",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "bein2",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein2.png",
-                "url": "https://www.ball24.tv/allchannel/?id=bein2","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=bein2",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
       {
               "name": "bein2",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/bein3.png",
-                "url": "https://www.ball24.tv/allchannel/?id=bein3","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=bein3",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
       
 	{
               "name": "truesport hd",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd.png",
-                "url": "https://www.ball24.tv/allchannel/?id=truesporthd","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=truesporthd",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "truespor thd2",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd2.png",
-                "url": "https://www.ball24.tv/allchannel/?id=truesporthd2","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=truesporthd2",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "truespor thd3",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesporthd3.png",
-                "url": "https://www.ball24.tv/allchannel/?id=truesporthd3","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=truesporthd3",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
               
 	{
               "name": "truespor 5",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesport5.png",
-                "url": "https://www.ball24.tv/allchannel/?id=truesport5","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=truesport5",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "truespor 7",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truesport7.png",
-                "url": "https://www.ball24.tv/allchannel/?id=truesport7","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=truesport7",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "foxsport hd",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsporthd.png",
-                "url": "https://www.ball24.tv/allchannel/?id=foxsporthd","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=foxsporthd",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "foxsport 1",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport1.png",
-                "url": "https://www.ball24.tv/allchannel/?id=oxsport1","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=oxsport1",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "foxsport 2",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport2.png",
-                "url": "https://www.ball24.tv/allchannel/?id=foxsport2","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=foxsport2",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "foxsport 3",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport3.png",
-                "url": "https://www.ball24.tv/allchannel/?id=foxsport3","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=foxsport3",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
       
 	{
               "name": "golf channel",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/golfchannel.png",
-                "url": "https://www.ball24.tv/allchannel/?id=golfchannel","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=golfchannel",
+		"referer": "https://www.ball24.tv/","embed": "true"  
       },   
 	{
               "name": "true tennis",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truetennis.png",
-                "url": "https://www.ball24.tv/allchannel/?id=truetennis","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=truetennis",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "true nba",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/truenba.png",
-                "url": "https://www.ball24.tv/allchannel/?id=truenba","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=truenba",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "bein sport laliga",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsportlaliga.png",
                 "url": "https://www.ball24.tv/allchannel/?id=beinsportlaliga", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "embed": "true",
-    		"deskpop": "true"	   	   
+   		"referer": "https://www.ball24.tv/","embed": "true" 	   	   
              },
 	{
               "name": "bein sport laliga",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsportlaliga.png",
-                "url": "https://www.ball24.tv/allchannel/?id=beinsportlaliga","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=beinsportlaliga",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 		{
               "name": "mainevent",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportmainevent.png",
-                "url": "https://www.ball24.tv/allchannel/?id=skysportmainevent","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=skysportmainevent",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 		{
               "name": "skysportarena",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportmainevent.png",
-                "url": "https://www.ball24.tv/allchannel/?id=skysportarena","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=skysportarena",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 		{
               "name": "premiere",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportpremiere.png",
-                "url": "https://www.ball24.tv/allchannel/?id=skysportpremiere","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=skysportpremiere",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 		{
               "name": "football",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportfootball.png",
-                "url": "https://www.ball24.tv/allchannel/?id=skysportfootball","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=skysportfootball",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 		{
               "name": "mix",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportmix.png",
-                "url": "https://www.ball24.tv/allchannel/?id=skysportmix","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=skysportmix",
+		"referer": "https://www.ball24.tv/","embed": "true"  
       },   
 		{
               "name": "action",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportaction.png",
-                "url": "https://www.ball24.tv/allchannel/?id=skysportaction"	,"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=skysportaction",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 		{
               "name": "golf",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportgolf.png",
-                "url": "https://www.ball24.tv/allchannel/?id=skysportgolf","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=skysportgolf",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 		{
               "name": "clicket",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportclicket.png",
-                "url": "https://www.ball24.tv/allchannel/?id=skysportclicket","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=skysportclicket",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "MUTV",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/mutv.png",
-                "url": "https://www.ball24.tv/allchannel/?id=mutv","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=mutv",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "LFCTV",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/lfctv.png",
-                "url": "https://www.ball24.tv/allchannel/?id=lfctv","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=lfctv",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "btsport 1",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/btsport1.png",
-                "url": "https://www.ball24.tv/allchannel/?id=btsport1","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
-      },   
+                "url": "https://www.ball24.tv/allchannel/?id=btsport1",
+		"referer": "https://www.ball24.tv/","embed": "true" 
 	{
               "name": "btsport 2",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/btsport2.png",
-                "url": "https://www.ball24.tv/allchannel/?id=btsport2","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=btsport2",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 		{
               "name": "btsport 3",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/btsport3.png",
-                "url": "https://www.ball24.tv/allchannel/?id=btsport3","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=btsport3",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 		{
               "name": "btsport espn",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/btsportespn.png",
-                "url": "https://www.ball24.tv/allchannel/?id=btsportespn","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=btsportespn",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "tv3 sport 1",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/tv3sport1.png",
-                "url": "https://www.ball24.tv/allchannel/?id=tv3sport1","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=tv3sport1",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "tv3 max",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/tv3max.png",
-                "url": "https://www.ball24.tv/allchannel/?id=tv3max","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=tv3max",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 		{
               "name": "fox1 nl",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport1nl.png",
-                "url": "https://www.ball24.tv/allchannel/?id=foxsport1nl","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=foxsport1nl",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 		{
               "name": "fox2 nl",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport2nl.png",
-                "url": "https://www.ball24.tv/allchannel/?id=foxsport2nl","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=foxsport2nl",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 		{
               "name": "fox3 nl",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport3nl.png",
-                "url": "https://www.ball24.tv/allchannel/?id=foxsport3nl","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
-      },   
+                "url": "https://www.ball24.tv/allchannel/?id=foxsport3nl",
+		"referer": "https://www.ball24.tv/","embed": "true" 
+	   },  
 		{
               "name": "fox4 nl",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport4nl.png",
-                "url": "https://www.ball24.tv/allchannel/?id=foxsport4nl","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=foxsport4nl",
+		 "referer": "https://www.ball24.tv/","embed": "true"    
       },   
 		{
               "name": "fox5 nl",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport4nl.png",
-                "url": "https://www.ball24.tv/allchannel/?id=foxsport5nl","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=foxsport5nl",
+		  "referer": "https://www.ball24.tv/","embed": "true"    
       },   
 	{
               "name": "sport tv1",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sporttv1.png",
-                "url": "https://www.ball24.tv/allchannel/?id=sporttv1","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=sporttv1",
+		 "referer": "https://www.ball24.tv/","embed": "true"    
       },   
 	{
               "name": "sport tv2",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sporttv2.png",
-                "url": "https://www.ball24.tv/allchannel/?id=sporttv2","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
-      },   
+                "url": "https://www.ball24.tv/allchannel/?id=sporttv2",
+		"referer": "https://www.ball24.tv/","embed": "true" 
+		    
+      },  
 	{
               "name": "sport tv3",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sporttv3.png",
-                "url": "https://www.ball24.tv/allchannel/?id=sporttv3","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=sporttv3",
+		 "referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "sport tv4",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sporttv4.png",
-                "url": "https://www.ball24.tv/allchannel/?id=sporttv4","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=sporttv4",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "skysport bundesliga1",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/skysportbundesliga1.png",
-                "url": "https://www.ball24.tv/allchannel/?id=skysportbundesliga1","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=skysportbundesliga1",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
          
 	{
               "name": "sportv",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sportv.png",
-                "url": "https://www.ball24.tv/allchannel/?id=sportv","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=sportv",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "beinsports arabia 1",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsportsarabia1hd.png",
-                "url": "https://www.ball24.tv/allchannel/?id=beinsportsarabia1hd","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=beinsportsarabia1hd",
+		"referer": "https://www.ball24.tv/","embed": "true"   
       },   
 	{
               "name": "beinsports arabia2",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsportsarabia2hd.png",
-                "url": "https://www.ball24.tv/allchannel/?id=beinsportsarabia2hd","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=beinsportsarabia2hd",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "beinsports arabia3",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsportsarabia3hd.png",
-                "url": "https://www.ball24.tv/allchannel/?id=beinsportsarabia3hd","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=beinsportsarabia3hd",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "sport digital",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sportdigital.png",
-                "url": "https://www.ball24.tv/allchannel/?id=sportdigital","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=sportdigital",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "cmore football",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/cmorelivehd.png",
-                "url": "https://www.ball24.tv/allchannel/?id=cmorefootball","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=cmorefootball",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 		{
               "name": "cmorelivehd",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/cmorefootball.png",
-                "url": "https://www.ball24.tv/allchannel/?id=cmorelivehd","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
-      },   
+                "url": "https://www.ball24.tv/allchannel/?id=cmorelivehd",
+		"referer": "https://www.ball24.tv/","embed": "true" 
+	  }, 	
 	{
               "name": "digisport1 romania",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/digisport1romania.png",
-                "url": "https://www.ball24.tv/allchannel/?id=digisport1romania","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=digisport1romania",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 		{
               "name": "digisport2 romania",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/digisport2romania.png",
-	       "url": "https://www.ball24.tv/allchannel/?id=digisport2romania","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+	       "url": "https://www.ball24.tv/allchannel/?id=digisport2romania",
+	      "referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "digisport3 romania",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/digisport3romania.png",
-                "url": "https://www.ball24.tv/allchannel/?id=digisport3romania","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=digisport3romania",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "digisport4 romania",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/digisport4romania.png",
-                "url": "https://www.ball24.tv/allchannel/?id=digisport4romania","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=digisport4romania",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "arenasport1 serbia",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/arenasport1serbia.png",
-                "url": "https://www.ball24.tv/allchannel/?id=arenasport1serbia","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=arenasport1serbia",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "arenasport2 serbia",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/arenasport2serbia.png",
-                "url": "https://www.ball24.tv/allchannel/?id=arenasport2serbia","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=arenasport2serbia",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "arenasport3 serbia",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/arenasport3serbia.png",
-                "url": "https://www.ball24.tv/allchannel/?id=arenasport3serbia","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=arenasport3serbia",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "arenasport4 serbia",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/arenasport4serbia.png",
-                "url": "https://www.ball24.tv/allchannel/?id=arenasport4serbia","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=arenasport4serbia",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "sportklub1 slovenia",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sportklub1slovenia.png",
-                "url": "https://www.ball24.tv/allchannel/?id=sportklub1slovenia","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=sportklub1slovenia",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "sportklub2 slovenia",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sportklub2slovenia.png",
-                "url": "https://www.ball24.tv/allchannel/?id=sportklub2slovenia","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=sportklub2slovenia",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "sportklub3 slovenia",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sportklub3slovenia.png",
-                "url": "https://www.ball24.tv/allchannel/?id=sportklub3slovenia","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=sportklub3slovenia",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "sportklub4 slovenia",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/sportklub4slovenia.png",
-                "url": "https://www.ball24.tv/allchannel/?id=sportklub4slovenia","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=sportklub4slovenia",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "ziggosport select",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/ziggosportselect.png",
-                "url": "https://www.ball24.tv/allchannel/?id=ziggosportselect","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=ziggosportselect",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "ziggosport voetbal",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/ziggosportvoetbal.png",
-                "url": "https://www.ball24.tv/allchannel/?id=ziggosportvoetbal","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=ziggosportvoetbal",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 		{
               "name": "beinsport1fr",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsport1fr.png",
-                "url": "https://www.ball24.tv/allchannel/?id=beinsport1fr","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=beinsport1fr",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 		{
               "name": "beinsport2fr",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/beinsport2fr.png",
-                "url": "https://www.ball24.tv/allchannel/?id=beinsport2fr","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=beinsport2fr",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 		{
               "name": "fox1us",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport1.png",
-                "url": "https://www.ball24.tv/allchannel/?id=foxsports1usa","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=foxsports1usa",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 		{
               "name": "fox2us",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/foxsport2.png",
-                "url": "https://www.ball24.tv/allchannel/?id=foxsports2usa","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=foxsports2usa",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	{
               "name": "espn brazil",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/espnbrazil.png",
-                "url": "https://www.ball24.tv/allchannel/?id=espnbrazil","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
-      },   
+                "url": "https://www.ball24.tv/allchannel/?id=espnbrazil",
+		"referer": "https://www.ball24.tv/","embed": "true" 
+	  },
 	{
               "name": "espn us",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/espnus.png",
-                "url": "https://www.ball24.tv/allchannel/?id=espnus","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=espnus",
+		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 	{
               "name": "pfc",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/pfc.png",
-                "url": "https://www.ball24.tv/allchannel/?id=espnus","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=espnus",
+		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 	{
               "name": "gol",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/gol.png",
-                "url": "https://www.ball24.tv/allchannel/?id=gol","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=gol",
+		"referer": "https://www.ball24.tv/","embed": "true"
   
               }
              ]
@@ -467,127 +550,152 @@
              { 
 	   "name": "3HD",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/3hd.png",
-                "url": "https://www.ball24.tv/allchannel/?id=3hd","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=3hd",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" 
+      },   
+       { 
+	   "name": "3HD",
+               "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/3hd.png",
+                "url": "https://www.warpfootball.games/live/?ch=3hd",
+		"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" 
       },   
 	 { 
 	   "name": "7HD",
                "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/7hd.png",
-                "url": "https://www.ball24.tv/allchannel/?id=7hd","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=7hd",
+		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 	 { 
 	   "name": "Thairath",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/thairath.png",
-                "url": "https://www.ball24.tv/allchannel/?id=thairath","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=thairath",
+		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 	{ 
 	   "name": "5HD",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/5hd.png",
-                "url": "https://www.ball24.tv/allchannel/?id=5hd","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=5hd",
+		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 	     { 
 	   "name": "5HD",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/5hd.png",
-                "url": "http://tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1.php","referer": " ", 
-   		"userAgent": "Muser-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",  "": "true",
-    		"deskpop": "true"	   	   
+                "url": "https://www.warpfootball.games/live/?ch=5hd",
+   		"referer": "https://www.ball24.tv/","embed": "true"	   	   
              },
 	     
 	     
 	{ 
 	   "name": "MCOT HD",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/mcot.png",
-                "url": "https://www.ball24.tv/allchannel/?id=mcot","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=mcot",
+		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 	  { 
 	   "name": "PPTV",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/pptv.png",
-                "url": "https://www.ball24.tv/allchannel/?id=pptv","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=pptv",
+		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 	 { 
 	   "name": "AMARIN",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/amarin.png",
-                "url": "https://www.ball24.tv/allchannel/?id=amarin","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=amarin",
+		"referer": "https://www.ball24.tv/","embed": "true"  
       },   
 { 
 	   "name": "workpoint",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/workpoint.png",
-                "url": "https://www.ball24.tv/allchannel/?id=workpoint","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=workpoint",
+		"referer": "https://www.ball24.tv/","embed": "true" 
       },   
 	 { 
 	   "name": "MONO29",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/mono29.png",
-                "url": "https://www.ball24.tv/allchannel/?id=mono29","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=mono29",
+		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 	     
 	     {                
       "name": "mono-29",
       "image": "https://rentapi.blackboxsys.net/images/png/hd-mono.png",
-      "url": "https://www.ball24.tv/allchannel/?id=mono29" ,"referer": "https://www.ball24.tv/", 
-   "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-    "playInNatPlayer": "true"},
+      "url": "https://www.ball24.tv/allchannel/?id=mono29" ,"referer": 
+      "https://www.ball24.tv/","embed": "true"
+      },
 {                
       "name": "mono-29",
       "image": "https://rentapi.blackboxsys.net/images/png/hd-mono.png",
-      "url": "https://www.warpfootball.games/live/?ch=mono29" ,"referer": "https://www.warpfootball.games/", 
-   "userAgent": "Mozilla/5.0 (iPad; CPU OS 14_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
-    "playInNatPlayer": "true"},
+      "url": "https://www.warpfootball.games/live/?ch=mono29"
+      "referer": "https://www.ball24.tv/","embed": "true"
+      },
     
 	     
 	{ 
 	   "name": "TPBS",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/thaipbs.png",
-                "url": "https://www.ball24.tv/allchannel/?id=thaipbs","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=thaipbs",
+		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 		{ 
 	   "name": "one-hd",
                 "image": "https://rentapi.blackboxsys.net/images/png/hd-gmmone.png",
-                "url": "https://www.warpfootball.games/live/?ch=onehd","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.warpfootball.games/live/?ch=onehd",
+		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 	     
 	     { 
 	   "name": "one-hd",
                 "image": "https://rentapi.blackboxsys.net/images/png/hd-gmmone.png",
-                "url": "https://www.ball24.tv/allchannel/?id=onehd","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=onehd",
+		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 	{ 
 	   "name": "gmm25",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/gmm25.png",
-                "url": "https://www.ball24.tv/allchannel/?id=gmm25","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=gmm25",
+		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 		{ 
 	   "name": "ch8",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/ch8.png",
-                "url": "https://www.ball24.tv/allchannel/?id=ch8","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=ch8",
+		"referer": "https://www.ball24.tv/","embed": "true"" 
       },   
 	{ 
 	   "name": "true4u",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/true4u.png",
-                "url": "https://www.ball24.tv/allchannel/?id=true4u","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=true4u",
+		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 		{ 
 	   "name": "tnn",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/tnn.png",
-                "url": "https://www.ball24.tv/allchannel/?id=","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=",
+		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 		{ 
 	   "name": "nation",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/nation.png",
-                "url": "https://www.ball24.tv/allchannel/?id=nation","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=nation",
+		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 		{ 
 	   "name": "jkn18",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/newtv.png",
-                "url": "https://www.ball24.tv/allchannel/?id=newtv","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=newtv",
+		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 		{ 
 	   "name": "voicetv",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/voicetv.png",
-                "url": "https://www.ball24.tv/allchannel/?id=voicetv","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=voicetv",
+		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 		{ 
 	   "name": "tptv",
                 "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg",
-                "url": "http://tpchannel.org/tv/live.php","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "http://tpchannel.org/tv/live.php",
+		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 		{ 
 	   "name": "topnews",
@@ -597,7 +705,8 @@
 	{ 
 	   "name": "NBT",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/nbt.png",
-                "url": "https://www.ball24.tv/allchannel/?id=nbt","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000 ,ExoPlayer/2.9.3.135 (AISPlaybox) ExoPlayerLib/2.6.0 " 
+                "url": "https://www.ball24.tv/allchannel/?id=nbt",
+		"referer": "https://www.ball24.tv/","embed": "true"
    
             
               }	
