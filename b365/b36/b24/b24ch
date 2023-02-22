@@ -660,7 +660,7 @@
 	   "name": "ch8",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/ch8.png",
                 "url": "https://www.ball24.tv/allchannel/?id=ch8",
-		"referer": "https://www.ball24.tv/","embed": "true"" 
+		"referer": "https://www.ball24.tv/","embed": "true"  
       },   
 	{ 
 	   "name": "true4u",
@@ -671,7 +671,7 @@
 		{ 
 	   "name": "tnn",
                 "image": "https://www.warpfootball.games/wp-content/themes/colormag/logo/tnn.png",
-                "url": "https://www.ball24.tv/allchannel/?id=",
+                "url": "https://www.ball24.tv/allchannel/?id=tnn",
 		"referer": "https://www.ball24.tv/","embed": "true"
       },   
 		{ 
