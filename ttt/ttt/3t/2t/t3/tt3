@@ -517,264 +517,44 @@ https://www.ball24.tv/allchannel/?id=skysportgolf
 https://www.warpfootball.games/live/?ch=skysportclicket
 #EXTINF:0 group-title="ball24" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/tv%20in/SkySportsF1.png" ,skysport f1
 https://www.ball24.tv/allchannel/?id=skysportf1
-
-
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" group-title="ดิจิตอล",  3HD
-https://freelive.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsEfI.png" group-title="ดิจิตอล",  5HD
-https://freelive.inwstream.com:1936/freelive-edge/ch5hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOs6hQ.png" group-title="ดิจิตอล", 7HD
-https://freelive.inwstream.com:1936/freelive-edge/7hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsHYg.png" group-title="ดิจิตอล", MCOT HD
-http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsVRW.png" group-title="ดิจิตอล", NBT HD
-https://freelive.inwstream.com:1936/freelive-edge/nbt/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsvwy.png" group-title="ดิจิตอล", THAI TPBS
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2SA0.png" group-title="ดิจิตอล", ONE HD
-https://freelive2.inwstream.com:1936/freelive-edge/onehd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO271R.png" group-title="ดิจิตอล", THAIRATH TV
-https://freelive2.inwstream.com:1936/freelive-edge/thairahttvhd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png" group-title="ดิจิตอล", AMARIN TV
-https://freelive2.inwstream.com:1936/freelive-edge/amarinhd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2TWk.png" group-title="ดิจิตอล", PPTV
-https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2qW2.png" group-title="ดิจิตอล", WORKPOINT
-http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/02/O8obZR.jpg" group-title="ดิจิตอล", CH8
-https://freelive2.inwstream.com:1936/freelive-edge/ch8/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2QnW.png" group-title="ดิจิตอล", MONO 29
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7Z4E2.png" group-title="ดิจิตอล", VOICE TV
-https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7Z4E2.png" group-title="ดิจิตอล", VOICE TV
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsqJZ.png" ,3HD
+https://www.warpfootball.games/live/?ch=3hd
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsEfI.png" ,5HD
+https://www.warpfootball.games/live/?ch=5hd
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOs6hQ.png" ,7HD
+https://www.warpfootball.games/live/?ch=7hd
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsHYg.png" ,MCOT HD
+https://www.warpfootball.games/live/?ch=mcot
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsVRW.png" ,NBT HD
+https://www.warpfootball.games/wp-content/themes/colormag/logo/nbt.png
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OOsvwy.png" ,THAI TPBS
+https://www.warpfootball.games/live/?ch=thaipbs
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2SA0.png" ,ONE HD
+https://www.warpfootball.games/live/?ch=onehd
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO271R.png" ,THAIRATH TV
+https://www.warpfootball.games/live/?ch=thairath
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2kRe.png" ,AMARIN TV
+https://www.warpfootball.games/live/?ch=amarin
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2TWk.png" ,PPTV
+https://www.warpfootball.games/live/?ch=pptv
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2qW2.png" ,WORKPOINT
+https://www.warpfootball.games/live/?ch=workpoint
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/10/02/O8obZR.jpg" ,CH8
+https://www.warpfootball.games/live/?ch=ch8
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2QnW.png" ,MONO 29
+https://www.warpfootball.games/live/?ch=mono29
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7Z4E2.png" ,VOICE TV
+https://www.warpfootball.games/live/?ch=voicetv
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7Z4E2.png" ,VOICE TV
 https://player.twitch.tv/?channel=voicetv&parent=www.voicetv.co.th&parent=voicetv.co.th
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7ZAxE.jpg" group-title="ดิจิตอล", GMM25
-https://freelive2.inwstream.com:1936/freelive-edge/gmmchannel/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2Jdl.png" group-title="ดิจิตอล", NATION TV
-https://freelive2.inwstream.com:1936/freelive-edge/nation/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO283u.png" group-title="ดิจิตอล", TNN24
-https://freelive2.inwstream.com:1936/freelive-edge/tnn24/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO26PR.png" group-title="ดิจิตอล", TRUE4U
-https://freelive2.inwstream.com:1936/freelive-edge/true4u/chunks.m3u8
-
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052036-gmm25.png" ,gmm25
-https://www.doofootball.com/dootv/live/gmm25
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-121431-tv-station_CH-3-HD.png" ,3hd
-https://www.doofootball.com/dootv/live/3hd
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-121444-tv-station_CH-5-HD-(TH).png" ,5hd
-https://www.doofootball.com/dootv/live/5hd
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-120639-tv-station_Thai-PBS.png" ,thaipbs
-https://www.doofootball.com/dootv/live/thaipbs
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-121456-tv-station_CH7-HD.png" ,7hd
-https://www.doofootball.com/dootv/live/7hd
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-121449-tv-station_PPTV-HD.png" ,pptv
-https://www.doofootball.com/dootv/live/pptv
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-030527-tv-station_MCOT.png" ,mcot
-https://www.doofootball.com/dootv/live/mcot
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210730-015859-JKN18%20logo.png" ,newtv
-https://www.doofootball.com/dootv/live/newtv
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-011834-tv-station_True-4-U.png" ,true4u
-https://www.doofootball.com/dootv/live/true4u
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-123646-tv-station_NBT-TH.png" ,nbt
-https://www.doofootball.com/dootv/live/nbt
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-020821-tv-station_Channel-8-(TH).png" ,ch8
-https://www.doofootball.com/dootv/live/ch8
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-022954-tv-station_Amarin-HD.png" ,amarin
-https://www.doofootball.com/dootv/live/amarin
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-125911-tv-station_thairath-tv.png" ,thairath
-https://www.doofootball.com/dootv/live/thairath
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-021209-tv-station_Nation-Channel.png" ,nation
-https://www.doofootball.com/dootv/live/nation
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-011402-tv-station_Workpoint.png" ,workpoint
-https://www.doofootball.com/dootv/live/workpoint
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-022129-tv-station_TNN16.png" ,tnn
-https://www.doofootball.com/dootv/live/tnn
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052055-one31.png" ,onehd
-https://www.doofootball.com/dootv/live/onehd
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-124029-tv-station_Mono29.png" ,mono29
-https://www.doofootball.com/dootv/live/mono29
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-022827-tv-station_Voice-(TH).png" ,voicetv
-https://www.doofootball.com/dootv/live/voicetv
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-095650-tv-station_True-Sport-HD.png" ,truesporthd
-https://www.doofootball.com/dootv/live/truesporthd
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-010714-tv-station_True-Sport-HD2.png" ,truesporthd2
-https://www.doofootball.com/dootv/live/truesporthd2
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-090950-tv-station_True-Sport-HD3.png" ,truesporthd3
-https://www.doofootball.com/dootv/live/truesporthd3
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-011054-tv-station_True-sport-5.png" ,truesport5
-https://www.doofootball.com/dootv/live/truesport5
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-011125-tv-station_True-sport-7.png" ,truesport7
-https://www.doofootball.com/dootv/live/truesport7
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210726-105042-true-tennis-hd.png" ,truetennis
-https://www.doofootball.com/dootv/live/truetennis
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210726-075143-tv-station_NBA.png" ,truenba
-https://www.doofootball.com/dootv/live/truenba
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210726-105107-golf-channel.png" ,golfchannel
-https://www.doofootball.com/dootv/live/golfchannel
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012819-tv-station_True-Premier-HD-1.png" ,epl1
-https://www.doofootball.com/dootv/live/epl1
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012910-tv-station_True-Premier-HD-2.png" ,epl2
-https://www.doofootball.com/dootv/live/epl2
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012934-tv-station_True-Premier-HD-3.png" ,epl3
-https://www.doofootball.com/dootv/live/epl3
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012934-tv-station_True-Premier-HD-3.png" ,epl4
-https://www.doofootball.com/dootv/live/epl4
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-012934-tv-station_True-Premier-HD-3.png" ,epl5
-https://www.doofootball.com/dootv/live/epl5
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-024243-tv-station_Astro-Supersport--(MY).png" ,astrosupersport
-https://www.doofootball.com/dootv/live/astrosupersport
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-024323-tv-station_Astro-Supersport-2-(MY).png" ,astrosupersport2
-https://www.doofootball.com/dootv/live/astrosupersport2
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-024323-tv-station_Astro-Supersport-2-(MY).png" ,astrosupersport3
-https://www.doofootball.com/dootv/live/astrosupersport3
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-024323-tv-station_Astro-Supersport-2-(MY).png" ,astrosupersport4
-https://www.doofootball.com/dootv/live/astrosupersport4
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094629-tv-station_beIN-Sports-2-(TH).png" ,bein1
-https://www.doofootball.com/dootv/live/bein1
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094629-tv-station_beIN-Sports-2-(TH).png" ,bein2
-https://www.doofootball.com/dootv/live/bein2
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-091023-tv-station_beIN-Sports-1-(FR).png" ,beinsport1fr
-https://www.doofootball.com/dootv/live/beinsport1fr
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-120733-tv-station_beIN-Sports-2-(FR).png" ,beinsport2fr
-https://www.doofootball.com/dootv/live/beinsport2fr
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-094456-tv-station_BT-Sport-1-(UK).png" ,btsport1
-https://www.doofootball.com/dootv/live/btsport1
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-121224-tv-station_BT-Sport-2-(UK).png" ,btsport2
-https://www.doofootball.com/dootv/live/btsport2
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-095225-tv-station_BT-Sport-3-(UK).png" ,btsport3
-https://www.doofootball.com/dootv/live/btsport3
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210617-121213-tv-station_BT-Sport-ESPN-(UK).png" ,btsportespn
-https://www.doofootball.com/dootv/live/btsportespn
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-024708-tv-station_beIN-Sports-1-(AR).png" ,beinsportsarabia1hd
-https://www.doofootball.com/dootv/live/beinsportsarabia1hd
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-024708-tv-station_beIN-Sports-1-(AR).png" ,beinsportsarabia2hd
-https://www.doofootball.com/dootv/live/beinsportsarabia2hd
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-024708-tv-station_beIN-Sports-1-(AR).png" ,beinsportsarabia3hd
-https://www.doofootball.com/dootv/live/beinsportsarabia3hd
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-025708-tv-station_bEin-Sports-1-(AU).png" ,beinsports1au
-https://www.doofootball.com/dootv/live/beinsports1au
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-025708-tv-station_bEin-Sports-1-(AU).png" ,beinsports2au
-https://www.doofootball.com/dootv/live/beinsports2au
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-025748-tv-station_bEin-Sports-1-(TU).png" ,beinsports1tu
-https://www.doofootball.com/dootv/live/beinsports1tu
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-025748-tv-station_bEin-Sports-1-(TU).png" ,beinsports2tu
-https://www.doofootball.com/dootv/live/beinsports2tu
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-023242-tv-station_Areana-Sport-1-(SR).png" ,arenasport1serbia
-https://www.doofootball.com/dootv/live/arenasport1serbia
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-023242-tv-station_Areana-Sport-1-(SR).png" ,arenasport2serbia
-https://www.doofootball.com/dootv/live/arenasport2serbia
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-023242-tv-station_Areana-Sport-1-(SR).png" ,arenasport3serbia
-https://www.doofootball.com/dootv/live/arenasport3serbia
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-023242-tv-station_Areana-Sport-1-(SR).png" ,arenasport4serbia
-https://www.doofootball.com/dootv/live/arenasport4serbia
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030001-tv-station_Digi-Sport-1-(RM).png" ,digisport1romania
-https://www.doofootball.com/dootv/live/digisport1romania
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030001-tv-station_Digi-Sport-1-(RM).png" ,digisport2romania
-https://www.doofootball.com/dootv/live/digisport2romania
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030001-tv-station_Digi-Sport-1-(RM).png" ,digisport3romania
-https://www.doofootball.com/dootv/live/digisport3romania
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030001-tv-station_Digi-Sport-1-(RM).png" ,digisport4romania
-https://www.doofootball.com/dootv/live/digisport4romania
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030402-tv-station_Fox-Sports-1-(US).png" ,foxsports1usa
-https://www.doofootball.com/dootv/live/foxsports1usa
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030402-tv-station_Fox-Sports-1-(US).png" ,foxsports2usa
-https://www.doofootball.com/dootv/live/foxsports2usa
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030739-tv-station_Fox-Sports-1-(NL).png" ,foxsport1nl
-https://www.doofootball.com/dootv/live/foxsport1nl
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030739-tv-station_Fox-Sports-1-(NL).png" ,foxsport2nl
-https://www.doofootball.com/dootv/live/foxsport2nl
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030739-tv-station_Fox-Sports-1-(NL).png" ,foxsport3nl
-https://www.doofootball.com/dootv/live/foxsport3nl
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-030739-tv-station_Fox-Sports-1-(NL).png" ,foxsport4nl
-https://www.doofootball.com/dootv/live/foxsport4nl
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-050551-tv-station_Sport-TV-1-(PT).png" ,sporttv1
-https://www.doofootball.com/dootv/live/sporttv1
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-050551-tv-station_Sport-TV-1-(PT).png" ,sporttv2
-https://www.doofootball.com/dootv/live/sporttv2
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-050551-tv-station_Sport-TV-1-(PT).png" ,sporttv3
-https://www.doofootball.com/dootv/live/sporttv3
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-050551-tv-station_Sport-TV-1-(PT).png" ,sporttv4
-https://www.doofootball.com/dootv/live/sporttv4
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-010551-tv-station_ZIGGO-Sport-Select-(NL).png" ,ziggosportselect
-https://www.doofootball.com/dootv/live/ziggosportselect
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-010629-tv-station_ZIGGO-Sport-Voetbal-(NL).png" ,ziggosportvoetbal
-https://www.doofootball.com/dootv/live/ziggosportvoetbal
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/cmorelivehd.png" ,cmorelivehd
-https://www.doofootball.com/dootv/live/cmorelivehd
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/cmorefootball.png" ,cmorefootball
-https://www.doofootball.com/dootv/live/cmorefootball
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub1slovenia.png" ,sportklub1slovenia
-https://www.doofootball.com/dootv/live/sportklub1slovenia
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub2slovenia.png" ,sportklub2slovenia
-https://www.doofootball.com/dootv/live/sportklub2slovenia
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub3slovenia.png" ,sportklub3slovenia
-https://www.doofootball.com/dootv/live/sportklub3slovenia
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/sportklub4slovenia.png" ,sportklub4slovenia
-https://www.doofootball.com/dootv/live/sportklub4slovenia
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032248-tv-station_Sky-sport-1-(DE).png" ,skysport1de
-https://www.doofootball.com/dootv/live/skysport1de
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032335-tv-station_Sky-Sports-Main-Event-(UK).png" ,skysportmainevent
-https://www.doofootball.com/dootv/live/skysportmainevent
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032420-tv-station_Sky-Sports-Action-(UK).png" ,skysportaction
-https://www.doofootball.com/dootv/live/skysportaction
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032511-tv-station_Sky-Sports-Football-(UK).png" ,skysportfootball
-https://www.doofootball.com/dootv/live/skysportfootball
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032537-tv-station_Sky-Sports-Premier-(UK).png" ,skysportpremiere
-https://www.doofootball.com/dootv/live/skysportpremiere
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032620-tv-station_Sky-Sports-Areana-(UK).png" ,skysportarena
-https://www.doofootball.com/dootv/live/skysportarena
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032708-tv-station_Sky-Sports-F1-(UK).png" ,skysportf1
-https://www.doofootball.com/dootv/live/skysportf1
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210723-032806-tv-station_Sky-Sports-Mix-(UK).png" ,skysportmix
-https://www.doofootball.com/dootv/live/skysportmix
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skysportgolf.png" ,skysportgolf
-https://www.doofootball.com/dootv/live/skysportgolf
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/skysportclicket.png" ,skysportclicket
-https://www.doofootball.com/dootv/live/skysportclicket
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051731-HBO-HD.png" ,hbohd
-https://www.doofootball.com/dootv/live/hbohd
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051750-HBO-family.png" ,hbofamily
-https://www.doofootball.com/dootv/live/hbofamily
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051803-HBO-hits.png" ,hbohit
-https://www.doofootball.com/dootv/live/hbohit
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051810-HBO-signature.png" ,hbosignature
-https://www.doofootball.com/dootv/live/hbosignature
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051823-cine-max.png" ,cinemax
-https://www.doofootball.com/dootv/live/cinemax
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051931-true-series.png" ,trueseries
-https://www.doofootball.com/dootv/live/trueseries
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051938-true-asianseries.png" ,asianseries
-https://www.doofootball.com/dootv/live/asianseries
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051945-true-movie-hits.png" ,moviehit
-https://www.doofootball.com/dootv/live/moviehit/
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052226-AXN.png" ,axn
-https://www.doofootball.com/dootv/live/axn
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051654-paramount.png" ,paramount
-https://www.doofootball.com/dootv/live/paramount
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052213-blue-ant-MEDIA.png" ,blueant
-https://www.doofootball.com/dootv/live/blueant
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-052218-blueant-extreme.png" ,blueantextream
-https://www.doofootball.com/dootv/live/blueantextream
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210730-043303-fashiontv.png" ,fashiontv
-https://www.doofootball.com/dootv/live/fashiontv
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051509-discovery-channel.png" ,discovery
-https://www.doofootball.com/dootv/live/discovery
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051526-Discovery-asia.png" ,discoveryasia
-https://www.doofootball.com/dootv/live/discoveryasia
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051547-national-geographic.png" ,natgeo
-https://www.doofootball.com/dootv/live/natgeo
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051608-national-geo-WILD.png" ,natgeowild
-https://www.doofootball.com/dootv/live/natgeowild
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051622-animalplanet.png" ,animalplanet
-https://www.doofootball.com/dootv/live/animalplanet
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051634-CLONE.png" ,history
-https://www.doofootball.com/dootv/live/history
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051712-true-explore-sci.png" ,truesci
-https://www.doofootball.com/dootv/live/truesci#main_dootv
-#EXTINF:0 group-title="Dootv" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051712-true-explore-sci.png" ,truelife
-https://www.doofootball.com/dootv/live/truelife#main_dootv
-
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/10/17/b7ZAxE.jpg" ,GMM25
+https://www.warpfootball.games/live/?ch=gmm25
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO2Jdl.png" ,NATION TV
+https://www.warpfootball.games/live/?ch=nation
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO283u.png" ,TNN24
+https://www.warpfootball.games/live/?ch=tnn
+#EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO26PR.png" ,TRUE4U
+https://www.warpfootball.games/live/?ch=true4u
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/202002080013505%20HD.jpg" ,5
 http://tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1_e.php
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001644tnn24.jpg" ,tnn
@@ -821,8 +601,6 @@ https://server1.streamssl.com/stream/news1_low.m3u8
 https://server1.streamssl.com/stream/news1_hi.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/newtv.png" ,news
 https://www.ball24.tv/allchannel/?id=newtv
-
-
 #EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/202002080022223%20HD.jpg" ,3
 https://www.inwiptv.com/player_demo.php?channel=27137
 #EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/202002080013505%20HD.jpg" ,5
@@ -867,9 +645,7 @@ https://www.inwiptv.com/player_demo.php?channel=89781
 https://www.inwiptv.com/player_demo.php?channel=89780
 #EXTINF:0 group-title="inwiptv" tvg-logo="https://img.inwiptv.net/postor/20200208001241%E0%B8%96%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B9%83%E0%B8%95%E0%B9%89.jpg" ,ถิ่นใต้
 https://www.inwiptv.com/player_demo.php?channel=61235
-
- 
- #EXTINF:0 group-title="123" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1593.png" ,pptv
+#EXTINF:0 group-title="123" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1593.png" ,pptv
 https://www.doonung1234.com/match/view/15242/pptv
 #EXTINF:0 group-title="123" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--1354.png" ,5hd
 https://www.doonung1234.com/match/view/15242/5hd
