@@ -17,7 +17,8 @@
       "image": "http://totv.org/img/tara/18.png",
       "url": "http://totv.org/tv/18/" ,
       "webviewType": "chrome", "embed": true
-      },   
+      }, 
+       { 
       "name": "oh-ah",
       "image": "https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/ox-ha.png",
       "url": "http://oxax.tv/oh-ah.html" ,
