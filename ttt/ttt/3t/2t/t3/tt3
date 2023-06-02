@@ -1183,4 +1183,50 @@ https://ufa77.tv/channel?ch=astrosupersport4
 #EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220901002656_astrosupersport5_ufa77.png" ,astrosupersport5
 https://ufa77.tv/channel?ch=astrosupersport5
 
+#EXTINF:0 group-title="looktv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/3hd.png" ,ch3
+https://www.adintrend.tv/hd/ch3?t=live
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/ch/ch_1.png" ,ch5
+https://www.adintrend.tv/hd/ch5?t=live
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/chbig/big_25_20220817095652.png" ,ch9
+https://www.adintrend.tv/hd/ch9?t=live
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/chbig/big_3_20220517043544.png" ,ch11
+https://www.adintrend.tv/hd/ch11?t=live
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/chbig/big_14_20211217071952.png" ,nation
+https://www.adintrend.tv/hd/ch37?t=live
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_19.png" ,8
+https://www.adintrend.tv/hd/ch33?t=live
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/chbig/big_213_20201222073338.png" ,pptv
+https://www.adintrend.tv/hd/ch25?t=live
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_17.png" ,gmm25
+https://www.adintrend.tv/hd/ch0?t=live
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_29.png" ,amarintv
+https://www.adintrend.tv/hd/ch26?t=live
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_4.png" ,tpbs
+https://www.adintrend.tv/hd/ch1?t=live
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_27.png" ,thairath
+https://www.adintrend.tv/hd/ch39?t=live
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_21.png" ,mono29
+https://www.adintrend.tv/hd/ch38?t=live
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_34.png" ,gatoon
+https://www.adintrend.tv/hd/ch31?t=live
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/chbig/big_256_20211117083349.png" ,top
+https://www.adintrend.tv/hd/ch40?t=live
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/chbig/big_231_20210615034321.png" ,JKN18
+https://looxtv.tv/JKN18
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_53.png" ,Parliament
+https://looxtv.tv/Parliament
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_41.png" ,News1
+https://looxtv.tv/News1
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_60.png" ,mongon
+https://looxtv.tv/%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_8.png" ,TNN
+https://looxtv.tv/TNN%2024
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_16.png" ,True4U
+https://looxtv.tv/True4U
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_15.png" ,Workpoint
+https://looxtv.tv/Workpoint%20TV
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_26.png" ,ONE
+https://looxtv.tv/ONE%20HD
+#EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_30.png" ,CH7
+https://looxtv.tv/BBTV%20CH7
 
