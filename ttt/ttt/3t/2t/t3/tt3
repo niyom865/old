@@ -1,58 +1,54 @@
 #EXTM3U
 #EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-earth.png" ,BBC
 https://freetvdd.com/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94%E0%B8%B5/bbc-earth/#
+#EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-earth.png" ,BBC
+http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115622&extension=ts&play_token
+#EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-earth.png" ,BBC LIFESTYLE
+http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115625&extension=ts&play_token
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-discovery.png" ,hd-discovery
 https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-asia-en/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-discovery.png" ,hd-discovery
-https://www.doofootball.com/dootv/live/discoveryasia#main_dootv
-#EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-discovery.png" ,hd-discovery
-https://www.ilike-movie.com/player/c/57/DISCOVERY-HD-WORLD-57/37653.html
-#EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-discovery.png" ,hd-discovery
-https://www.xn--72czp5emaz0ab6b.com/player/c/57/DISCOVERY-HD-WORLD-57/37653.html
+https://www.ballnaja.com/television/live/Discovery_Asia
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/sd-discovery.png" ,discovery
 https://www.doofootball.com/dootv/live/discovery#main_dootv
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/sd-discovery.png" ,discovery
 https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-channel-en/
-#EXTINF:0 group-title="ballsod" tvg-logo="https://we-play.live/uploads/posters/animal-planet-poster1602705496.jpeg" ,animalplanet
-https://www.doofootball.com/dootv/live/animalplanet#main_dootv
+#EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/sd-discovery.png" ,discovery
+http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115399&extension=ts&play_token
+#EXTINF:0 group-title="ballsod" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/aNIMAL_PLANET.webp" ,animalplanet
+http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115610&extension=ts&play_token
+#EXTINF:0 group-title="ballsod" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/aNIMAL_PLANET.webp" ,animalplanet
+https://www.ballnaja.com/television/live/ANIMAL_PLANET
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/cache/channel_thumb/uploads/png/sd-animalplanet.png" ,animalplanet
-https://www.ilike-movie.com/player/c/55/ANIMALPLANET-55/37861.html
-#EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/cache/channel_thumb/uploads/png/sd-animalplanet.png" ,animalplanet
-https://www.xn--72czp5emaz0ab6b.com/player/c/55/ANIMALPLANET-55/37861.html
-#EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-history2.png" ,history2
-https://www.xn--72czp5emaz0ab6b.com/player/c/58/HISTORY2-HD-58/37654.html
-#EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-history2.png" ,history2
-https://www.ilike-movie.com/player/c/58/HISTORY2-HD-58/37654.html
-#EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-history2.png" ,history2
-https://www.xn--72czp5emaz0ab6b.com/player/c/58/HISTORY2-HD-58/37654.html
+https://www.ballnaja.com/television/live/ANIMALPLANET
+#EXTINF:0 group-title="ballsod" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/Love_Nature.webp" ,Love_Nature
+https://www.ballnaja.com/television/live/Love_Nature
+#EXTINF:0 group-title="ballsod" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/LIFETIME.png" ,LIFETIME
+http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115631&extension=ts&play_token
+#EXTINF:0 group-title="ballsod" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/FOODNETWORK.webp" ,FOOD NETWORK
+http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115672&extension=ts&play_token
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-history.png" ,history
 https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/history-en/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-history.png" ,history
-https://www.xn--72czp5emaz0ab6b.com/player/c/59/HISTORY-HD-59/37655.html
+https://www.ballnaja.com/television/live/HISTORY
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-history.png" ,history
-https://www.ilike-movie.com/player/c/59/HISTORY-HD-59/37655.html
+http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115715&extension=ts&play_token
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-natgeo.png" ,natgeo
-https://www.doofootball.com/dootv/live/natgeo#main_dootv
+https://www.ballnaja.com/television/live/National_Geographic
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-natgeo.png" ,natgeo
 https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/national-geographic-en/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nat-geo-wild.png" ,natgeo wild
 https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/national-geographic-wild/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051712-true-explore-sci.png" ,sci
-https://www.doofootball.com/dootv/live/truesci#main_dootv
+http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115660&extension=ts&play_token
 #EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-life.png" ,life
-https://www.doofootball.com/dootv/live/truelife#main_dootv
+http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115659&extension=ts&play_token
 #EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-wild.png" ,wild
-https://www.doofootball.com/dootv/live/truewild#main_dootv
+http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115408&extension=ts&play_token
 #EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/dmax.png" ,demax
 https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/dmax-en/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://we-play.live/uploads/posters/tlc-hd-poster1602705866.jpeg" ,tlc-hd
-https://www.doofootball.com/dootv/live/tlc#main_dootv 
-#EXTINF:0 group-title="ballsod" tvg-logo="https://we-play.live/images/logo.png" ,we-play.live/tv
-https://we-play.live/tv
-#EXTINF:0 group-title="ballsod" tvg-logo="https://static-dfb-2021.b-cdn.net/web/doofootball_logo.png" ,doofootball
-https://www.doofootball.com/dootv 
-#EXTINF:0 group-title="ballsod" tvg-logo="https://static-dfb-2021.b-cdn.net/web/doofootball_logo.png" ,doofootball live
-https://www.doofootball.com/
+http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115402&extension=ts&play_token
 #EXTINF:0 group-title="ballsod" tvg-logo="https://dooball66.com/wp-content/uploads/2020/07/cropped-logo-1536x369.png" ,dooball66.com
 https://dooball66.com/%e0%b8%94%e0%b8%b9%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/image/menu.png" ,ball24.tv
@@ -556,43 +552,45 @@ https://www.warpfootball.games/live/?ch=tnn
 #EXTINF:-1 group-title="ดิจิตอล" tvg-logo="https://sv1.picz.in.th/images/2020/09/21/OO26PR.png" ,TRUE4U
 https://www.warpfootball.games/live/?ch=true4u
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/202002080013505%20HD.jpg" ,5
-http://tv5.co.th/tv5hd1-web/page-live_streaming_tv5hd1_e.php
+https://cdn6.goprimetime.info/feed/202306140918/ch5hd/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001644tnn24.jpg" ,tnn
-https://www.ilike-movie.com/player/c/61/TNN-24-61/37867.html
+https://cdn6.goprimetime.info/feed/202306140918/chtnn/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001753true4u.jpg" ,24u
-https://www.ilike-movie.com/player/c/68/TRUE4U-68/37872.html
+https://cdn6.goprimetime.info/feed/202306140918/chtrue4u/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001455thai%20pbs.jpg" ,tpbs
-https://www.ilike-movie.com/player/c/7/THAI-PBS-HD-7/37810.html
+https://cdn6.goprimetime.info/feed/202306140918/chthaipbs/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001411nbt.jpg" ,nbt
-https://www.ilike-movie.com/player/c/6/NBT-HD-6/37809.html
+https://cdn6.goprimetime.info/feed/202306140918/chnbt/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://overseer.blackboxsys.net/images/png/sd-tptv.png" ,tp
 https://www.inwiptv.com/player_demo.php?channel=27186
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001956mono29.jpg" ,mono
-https://www.ilike-movie.com/player/c/63/MONO29-HD-63/37868.html
+https://cdn6.goprimetime.info/feed/202306140918/chmono29/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/202002080029087%20HD.jpg" ,7
-https://www.ilike-movie.com/player/c/3/CH7-HD-3/37806.html
+https://cdn6.goprimetime.info/feed/202306140918/ch7hd/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002945pptvhd.jpg" ,pptv
-https://www.ilike-movie.com/player/c/9/PPTV-HD-9/37812.html
+https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/202002080022223%20HD.jpg" ,3
-https://www.ilike-movie.com/player/c/1/CH3-HD-1/37804.html
+https://cdn6.goprimetime.info/feed/202306140918/ch3hd/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001739workkpoint.jpg" ,wp
-https://www.ilike-movie.com/player/c/15/WORK-POINT-HD-15/37819.html
+https://cdn6.goprimetime.info/feed/202306140918/chworkpoint/index.m3u8
+#EXTINF:0 group-title="3bb" tvg-logo="https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_original.png" ,jkn
+https://cdn6.goprimetime.info/feed/202306140918/newtv/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20141012134807ch8.jpg" ,8
-https://www.ilike-movie.com/player/c/4/CH8-HD-4/37807.html
+https://cdn6.goprimetime.info/feed/202306140918/ch8/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002141one.jpg" ,one
-https://www.inwiptv.com/player_demo.php?channel=27140
+https://cdn6.goprimetime.info/feed/202306140918/chonehd/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001804gmm%2025.jpg" ,gmm25
-https://www.inwiptv.com/player_demo.php?channel=27153
+https://cdn6.goprimetime.info/feed/202306140918/chgmm/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208001721nation.jpg" ,nation
-https://www.inwiptv.com/player_demo.php?channel=27162
+https://cdn6.goprimetime.info/feed/202306140918/chnation/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002015mcot.jpg" ,mcot
-https://www.ilike-movie.com/player/c/6/NBT-HD-6/37809.html
+https://cdn6.goprimetime.info/feed/202306140918/chmcothd/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002253amarin%20tv.jpg" ,amarin
-https://www.ilike-movie.com/player/c/10/AMARIN-HD-10/37816.html
+https://cdn6.goprimetime.info/feed/202306140918/chamarin/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002208thairath.jpg" ,thairath
 https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002208thairath.jpg" ,thairath
-https://www.ilike-movie.com/player/c/8/Thairath-TV-HD-8/37811.html
+https://cdn6.goprimetime.info/feed/202306140918/chthairath/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://images.topnews.co.th/2022/03/cropped-Logo-TOP-NEWS-100x100-1.jpg" ,topnews
 https://www.topnews.co.th/
 #EXTINF:0 group-title="3bb" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/news1.jpg" ,news
@@ -863,7 +861,6 @@ https://www.doonung1234.com/match/view/26864/foxsport3nl
 https://www.doonung1234.com/match/view/26864/foxsport4nl
 #EXTINF:0 group-title="123" tvg-logo="https://ball365.co/wp-content/themes/ball365/image/icon_ch/foxsport4.png" ,foxsport5nl
 https://www.doonung1234.com/match/view/26864/foxsport5nl
-
 #EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210218214002_3hd.jpg" ,3hd
 https://ufa77.tv/channel?ch=3hd
 #EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20200923165229_7hd.jpg" ,7hd
@@ -1182,7 +1179,6 @@ https://ufa77.tv/channel?ch=astrosupersport3
 https://ufa77.tv/channel?ch=astrosupersport4
 #EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220901002656_astrosupersport5_ufa77.png" ,astrosupersport5
 https://ufa77.tv/channel?ch=astrosupersport5
-
 #EXTINF:0 group-title="looktv" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/3hd.png" ,ch3
 https://www.adintrend.tv/hd/ch3?t=live
 #EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/ch/ch_1.png" ,ch5
@@ -1230,21 +1226,3 @@ https://looxtv.tv/ONE%20HD
 #EXTINF:0 group-title="looktv" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_30.png" ,CH7
 https://looxtv.tv/BBTV%20CH7
 
-#EXTINF:0 group-title="looktv" tvg-logo="https://cdn.livetv665.me/img/logo_en.jpg" ,21
-https://qm2.livemodo.click/NuOqa-ffIpObuFpRUgHY-g/1686044668/3137312e39362e3233322e313536/ff14/playlist.m3u8
-#EXTINF:0 group-title="looktv" tvg-logo="https://cdn.livetv665.me/img/logo_en.jpg" ,22
-https://qm2.livemodo.click/YUTipgVeQvLTU06oDAttGA/1686044736/3137312e39362e3233322e313536/ff109/playlist.m3u8
-#EXTINF:0 group-title="looktv" tvg-logo="https://cdn.livetv665.me/img/logo_en.jpg" ,23
-https://qm2.livemodo.click/jQ9C9iDUMNekcDSkxP0vEw/1686044287/3137312e39362e3233322e313536/ff110/playlist.m3u8
-#EXTINF:0 group-title="looktv" tvg-logo="https://cdn.livetv665.me/img/logo_en.jpg" ,24
-https://qm2.livemodo.click/AFNf27v9lSr67vsqx2zy4w/1686044200/3137312e39362e3233322e313536/ff131/playlist.m3u8
-#EXTINF:0 group-title="looktv" tvg-logo="https://cdn.livetv665.me/img/logo_en.jpg" ,25
-https://qm2.livemodo.click/i1Vew6LD2Q7AzagMyC0w-A/1686044491/3137312e39362e3233322e313536/ff173/playlist.m3u8
-#EXTINF:0 group-title="looktv" tvg-logo="https://cdn.livetv665.me/img/logo_en.jpg" ,26
-https://qm1.livemodo.click/6TewdEPpMTuBfL5u1KDrOA/1686044543/3137312e39362e3233322e313536/ff171/playlist.m3u8
-#EXTINF:0 group-title="looktv" tvg-logo="https://cdn.livetv665.me/img/logo_en.jpg" ,27
-https://qm2.livemodo.click/i7TL4JNfI6wf0MHKG1hYzg/1686044577/3137312e39362e3233322e313536/ff172/playlist.m3u8
-#EXTINF:0 group-title="looktv" tvg-logo="https://cdn.livetv665.me/img/logo_en.jpg" ,28
-https://qm1.livemodo.click/HV4_8lLEsCeIgmToIorvbg/1686044608/3137312e39362e3233322e313536/ff174/playlist.m3u8
-#EXTINF:0 group-title="looktv" tvg-logo="https://cdn.livetv665.me/img/logo_en.jpg" ,29
-https://wiki.cdnhks.lol/wiki/wiki105/tracks-v1a1/mono.m3u8
