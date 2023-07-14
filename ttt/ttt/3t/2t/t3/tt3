@@ -2014,5 +2014,47 @@ https://www.ballnaja.com/television/live/TVBJ
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-tvb.png" ,TVB_XING_HE
 https://www.ballnaja.com/television/live/TVB_XING_HE
 
-
+############################################################## TVV
+#EXTINF:0 group-title="tvv" ,3
+https://ch3plus.com/live
+#EXTINF:0 group-title="tvv" ,5
+https://www.thaitv5hd.com/live/
+#EXTINF:0 group-title="tvv" ,7
+https://wwww.ch7.com/
+#EXTINF:0 group-title="tvv" ,8
+https://www.thaich8.com/live?var_link=720p
+#EXTINF:0 group-title="tvv" ,mcothd
+https://tv.mcot.net/mcothd
+#EXTINF:0 group-title="tvv" ,one
+https://oned.net/live?channel=17260
+#EXTINF:0 group-title="tvv" ,gmm25
+https://oned.net/live?channel=17263
+#EXTINF:0 group-title="tvv" ,nationtv
+https://www.nationtv.tv/category/nationtv/live
+#EXTINF:0 group-title="tvv" ,amarintv
+https://www.amarintv.com/live
+#EXTINF:0 group-title="tvv" ,pptvhd36
+https://www.pptvhd36.com/live
+#EXTINF:0 group-title="tvv" ,workpointtv
+https://www.workpointtv.com/live-stream-page/
+#EXTINF:0 group-title="tvv" ,tnnthailand
+https://www.tnnthailand.com/live/
+#EXTINF:0 group-title="tvv" ,true4u
+https://true4u.com/live/
+#EXTINF:0 group-title="tvv" ,thaipbs
+https://www.thaipbs.or.th/live
+#EXTINF:0 group-title="tvv" ,nbt2
+https://nbt2hd.prd.go.th/th/tv/info/index
+#EXTINF:0 group-title="tvv" ,thairath
+https://www.thairath.co.th/tv/live
+#EXTINF:0 group-title="tvv" ,mono29
+https://mono29.com/livetv
+#EXTINF:0 group-title="tvv" ,ch3-hd
+https://tv.trueid.net/embed/ch3-hd
+#EXTINF:0 group-title="tvv" ,ch5
+https://tv.trueid.net/embed/ch5
+#EXTINF:0 group-title="tvv" ,ch7-hd
+https://tv.trueid.net/embed/ch7-hd
+#EXTINF:0 group-title="tvv" ,jkn18
+https://tv.trueid.net/embed/jkn18
 
