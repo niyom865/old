@@ -2041,48 +2041,66 @@ https://www.ballnaja.com/television/live/TVBJ
 https://www.ballnaja.com/television/live/TVB_XING_HE
 
 ############################################################## TVV
-#EXTINF:0 group-title="tvv" ,3
-https://ch3plus.com/live
-#EXTINF:0 group-title="tvv" ,5
-https://www.thaitv5hd.com/live/
-#EXTINF:0 group-title="tvv" ,7
-https://wwww.ch7.com/
-#EXTINF:0 group-title="tvv" ,8
-https://www.thaich8.com/live?var_link=720p
-#EXTINF:0 group-title="tvv" ,mcothd
-https://tv.mcot.net/mcothd
-#EXTINF:0 group-title="tvv" ,one
-https://oned.net/live?channel=17260
-#EXTINF:0 group-title="tvv" ,gmm25
-https://oned.net/live?channel=17263
-#EXTINF:0 group-title="tvv" ,nationtv
-https://www.nationtv.tv/category/nationtv/live
-#EXTINF:0 group-title="tvv" ,amarintv
-https://www.amarintv.com/live
-#EXTINF:0 group-title="tvv" ,pptvhd36
-https://www.pptvhd36.com/live
-#EXTINF:0 group-title="tvv" ,workpointtv
-https://www.workpointtv.com/live-stream-page/
-#EXTINF:0 group-title="tvv" ,tnnthailand
-https://www.tnnthailand.com/live/
-#EXTINF:0 group-title="tvv" ,true4u
-https://true4u.com/live/
-#EXTINF:0 group-title="tvv" ,thaipbs
-https://www.thaipbs.or.th/live
-#EXTINF:0 group-title="tvv" ,nbt2
-https://nbt2hd.prd.go.th/th/tv/info/index
-#EXTINF:0 group-title="tvv" ,thairath
-https://www.thairath.co.th/tv/live
-#EXTINF:0 group-title="tvv" ,mono29
-https://mono29.com/livetv
-#EXTINF:0 group-title="tvv" ,ch3-hd
+
+#EXTINF:0 group-title="true" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-mcot.png" ,9mcot-hd
+https://tv.trueid.net/embed/9mcot-hd
+#EXTINF:0 group-title="true" tvg-logo="https://cms.dmpcdn.com/livetv/2020/07/14/72c22620-c5aa-11ea-a8d3-2b56c8ce453d_320.png" ,altv
+https://tv.trueid.net/embed/altv
+#EXTINF:0 group-title="true" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-amarin.png" ,amarintv-hd
+https://tv.trueid.net/embed/amarintv-hd
+#EXTINF:0 group-title="true" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-ch3.png" ,ch3-hd
 https://tv.trueid.net/embed/ch3-hd
-#EXTINF:0 group-title="tvv" ,ch5
+#EXTINF:0 group-title="true" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-ch5.png" ,ch5
 https://tv.trueid.net/embed/ch5
-#EXTINF:0 group-title="tvv" ,ch7-hd
+#EXTINF:0 group-title="true" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-ch7.png" ,ch7-hd
 https://tv.trueid.net/embed/ch7-hd
-#EXTINF:0 group-title="tvv" ,jkn18
+#EXTINF:0 group-title="true" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-ch8.png" ,ch8
+https://tv.trueid.net/embed/ch8
+#EXTINF:0 group-title="true" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/cool-ch.png" ,cool-ch
+https://tv.trueid.net/embed/cool-ch
+#EXTINF:0 group-title="true" tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-gmmchannel.png" ,gmm25
+https://tv.trueid.net/embed/gmm25
+#EXTINF:0 group-title="true" tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-new.png" ,jkn18
 https://tv.trueid.net/embed/jkn18
-#EXTINF:0 group-title="tvv" ,3hd
-https://playerembed-lb.blackboxsys.net/player.php?channel=hd-ch3&api_key=hmcb4rf66f&ref=https://dooball66s.com/
+#EXTINF:0 group-title="true" tvg-logo="https://www.img10.xyz/assets/img/ch_logo/MANGORN.png" ,Mangorn
+https://tv.trueid.net/embed/Mangorn
+#EXTINF:0 group-title="true" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-mono.png" ,mono29
+https://tv.trueid.net/embed/mono29
+#EXTINF:0 group-title="true" tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-nation.png" ,nationtv
+https://tv.trueid.net/embed/nationtv
+#EXTINF:0 group-title="true" tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-nbt.png" ,nbt
+https://tv.trueid.net/embed/nbt
+#EXTINF:0 group-title="true" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/news1.jpg" ,news1
+https://server1.streamssl.com/stream/news1_mid.m3u8
+#EXTINF:0 group-title="true" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-gmmone.png" ,one-hd
+https://tv.trueid.net/embed/one-hd
+#EXTINF:0 group-title="true" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-pptv.png" ,pptv-hd
+https://tv.trueid.net/embed/pptv-hd
+#EXTINF:0 group-title="true" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/rama.png" ,rama-channel
+https://tv.trueid.net/embed/rama-channel
+#EXTINF:0 group-title="true" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/t%20sport%20.png" ,t-sports-7-sd
+https://tv.trueid.net/embed/t-sports-7-sd
+#EXTINF:0 group-title="true" tvg-logo="https://www.img06.xyz/assets/img/ch_logo/hd-tpbs.png" ,thaipbs
+https://tv.trueid.net/embed/thaipbs
+#EXTINF:0 group-title="true" tvg-logo="https://www.img08.xyz/assets/img/ch_logo/hd-thairath.png" ,thairathtv-hd
+https://tv.trueid.net/embed/thairathtv-hd
+#EXTINF:0 group-title="true" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/tnn2.png" ,tnn-2
+https://tv.trueid.net/embed/tnn-2
+#EXTINF:0 group-title="true" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/tnn16.png" ,tnn16
+https://tv.trueid.net/embed/tnn16
+#EXTINF:0 group-title="true" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/topnews-logo.png" ,topnews
+https://live3.topnews.co.th/hls/topnews_a_360.m3u8
+#EXTINF:0 group-title="true" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/tptv.png" ,tptv
+https://tv.trueid.net/embed/tptv
+#EXTINF:0 group-title="true" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/tptv.jpg" ,tptv
+https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/TV_720p.m3u8
+#EXTINF:0 group-title="true" tvg-logo="https://www.img03.xyz/assets/img/ch_logo/sd-24u.png" ,true4u
+https://tv.trueid.net/embed/true4u
+#EXTINF:0 group-title="true" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-workpoint.png" ,workpointtv
+https://tv.trueid.net/embed/workpointtv
+#EXTINF:0 group-title="true" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/16689820-8a46-11ec-8573-9fd52c482da3_webp_320.webp" ,zee-anmol-sd
+https://tv.trueid.net/embed/zee-anmol-sd
+#EXTINF:0 group-title="true" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/zing.png" ,zing
+https://tv.trueid.net/embed/zing
+
 
