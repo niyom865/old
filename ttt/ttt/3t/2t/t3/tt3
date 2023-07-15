@@ -603,7 +603,7 @@ https://cdn6.goprimetime.info/feed/202306140918/chmcothd/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/chamarin/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://img.inwiptv.net/postor/20200208002208thairath.jpg" ,thairath
 https://cdn6.goprimetime.info/feed/202306140918/chthairath/index.m3u8
-#EXTINF:0 group-title="ดิจิตอล" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg" ,TPTV
+#EXTINF:0 group-title="3bb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg" ,TPTV
 https://cdn6.goprimetime.info/feed/202306140918/TPTV/index.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://images.topnews.co.th/2022/03/cropped-Logo-TOP-NEWS-100x100-1.jpg" ,topnews
 https://www.topnews.co.th/
@@ -613,8 +613,10 @@ https://server1.streamssl.com/stream/news1_low.m3u8
 https://server1.streamssl.com/stream/news1_hi.m3u8
 #EXTINF:0 group-title="3bb" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/newtv.png" ,news
 https://www.ball24.tv/allchannel/?id=newtv
-
-
+#EXTINF:0 group-title="3bb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg" ,TPTV
+https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/TV_720p.m3u8
+#EXTINF:0 group-title="3bb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg" ,TPTV
+https://www.tpchannel.org/broadcasts/tv
 
 ################################################################################### 3bb
 #EXTINF:-1 group-title="3bb" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/Channel8.png" ,Channel8
@@ -978,6 +980,11 @@ https://www.doonung1234.com/match/view/15242/nation
 https://www.doonung1234.com/match/view/15242/tnn
 #EXTINF:0 group-title="123" tvg-logo="https://ball365.co/wp-content/themes/ball365/image/icon_ch/mcot.png" ,mcot
 https://www.doonung1234.com/match/view/15242/mcot
+#EXTINF:0 group-title="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg" ,TPTV
+https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/TV_720p.m3u8
+#EXTINF:0 group-title="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg" ,TPTV
+https://www.tpchannel.org/broadcasts/tv
+
 #EXTINF:0 group-title="123" tvg-logo="https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl1.png" ,epl1
 https://www.doonung1234.com/match/view/26824/epl1
 #EXTINF:0 group-title="123" tvg-logo="https://ball365.co/wp-content/themes/ball365/image/icon_ch/epl2.png" ,epl2
@@ -1036,6 +1043,11 @@ https://www.doonung1234.com/match/view/26851/sportklub2slovenia
 https://www.doonung1234.com/match/view/26851/sportklub3slovenia
 #EXTINF:0 group-title="123" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--336.png" ,sportklub4
 https://www.doonung1234.com/match/view/26851/sportklub4slovenia
+#EXTINF:0 group-title="123" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--335.png" ,sportklub5
+https://www.doonung1234.com/match/view/26851/sportklub5 
+#EXTINF:0 group-title="123" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--336.png" ,sportklub6
+https://www.doonung1234.com/match/view/26851/sportklub6 
+
 #EXTINF:0 group-title="123" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/ziggosportvoetbal.png" ,ziggosportvoetbal
 https://www.doonung1234.com/match/view/26816/ziggosportvoetbal
 #EXTINF:0 group-title="123" tvg-logo="https://www.ball24.tv/wp-content/themes/ball24/logo/ziggosportselect.png" ,ziggosportselect
@@ -1203,6 +1215,11 @@ https://ufa77.tv/channel?ch=tsports
 https://ufa77.tv/channel?ch=gmm25
 #EXTINF:0 group-title="Ufa" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/tv/tptv.png" ,tptv
 https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/TV_720p.m3u8
+#EXTINF:0 group-title="Ufa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg" ,TPTV
+https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/TV_720p.m3u8
+#EXTINF:0 group-title="Ufa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg" ,TPTV
+https://www.tpchannel.org/broadcasts/tv
+
 #EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223000704_epl1.jpg" ,epl1
 https://ufa77.tv/channel?ch=epl1
 #EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210223000726_epl2.jpg" ,epl2
@@ -1387,6 +1404,10 @@ https://ufa77.tv/channel?ch=sportklub2slovenia
 https://ufa77.tv/channel?ch=sportklub3slovenia
 #EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20210222225529_sportklub4slovenia.jpg" ,sportklub4slovenia
 https://ufa77.tv/channel?ch=sportklub4slovenia
+#EXTINF:0 group-title="123" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--335.png" ,sportklub5
+https://www.doonung1234.com/match/view/26851/sportklub5 
+#EXTINF:0 group-title="123" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--336.png" ,sportklub6
+https://www.doonung1234.com/match/view/26851/sportklub6 
 #EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220122124958_sportklub5.png" ,sportklub5
 https://ufa77.tv/channel?ch=sportklub5
 #EXTINF:0 group-title="Ufa" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220122120147_sportklub6.png" ,sportklub6
@@ -1888,7 +1909,12 @@ https://www.ballnaja.com/television/live/one_HD
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-workpoint.png" ,workpiont
 https://www.ballnaja.com/television/live/workpiont
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-mono.png" ,MONO_29
-https://www.ballnaja.com/television/live/MONO_29
+https://www.ballnaja.com/television/live/MONO_29#EXTINF:0 group-title="ballnaja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg" ,TPTV
+https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/TV_720p.m3u8
+#EXTINF:0 group-title="ballnaja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg" ,TPTV
+https://www.tpchannel.org/broadcasts/tv
+
+
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/outdoor-channel.png" ,Outdoor_Channel
 https://www.ballnaja.com/television/live/Outdoor_Channel
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-animalplanet.png" ,Animal_Planet
