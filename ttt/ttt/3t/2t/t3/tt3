@@ -2039,6 +2039,26 @@ https://www.ballnaja.com/television/live/CELESTIAL
 https://www.ballnaja.com/television/live/TVBJ
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-tvb.png" ,TVB_XING_HE
 https://www.ballnaja.com/television/live/TVB_XING_HE
+#EXTINF:0 group-title="ballnaja" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-thaifilm.png" ,thai-film
+https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/thai-film-th/
+#EXTINF:0 group-title="ballnaja" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-movie-hits.png" ,movie-hits
+https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/movie-hits-th/
+#EXTINF:0 group-title="ballnaja" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-asianseries.png" ,true-asianseries
+https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/asian-series-sd-th/
+#EXTINF:0 group-title="ballnaja" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/ccm-1.png" ,ccm
+https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/film-hd/
+#EXTINF:0 group-title="ballnaja" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-film-asia.png" ,film-asia
+https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/film-asia-th/
+#EXTINF:0 group-title="ballnaja" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/wb-tv.png" ,warner-tv
+https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/warner-tv/
+#EXTINF:0 group-title="ballnaja" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lifetime.png" ,lifetime
+https://freetvdd.com/%e0%b8%97%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%94%e0%b8%b4%e0%b8%88%e0%b8%b4%e0%b8%95%e0%b8%ad%e0%b8%a5/lifetime/
+#EXTINF:0 group-title="ballnaja" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tlc.png" ,tlc-th
+https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/tlc-th/
+#EXTINF:0 group-title="ballnaja" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-wild.png" ,true-explore-wild
+https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/true-explore-wild-th/
+
+
 
 ############################################################## TVV
 
