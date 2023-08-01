@@ -1982,7 +1982,7 @@ https://www.livestream88.com/ch8/
 #EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/bLfCZRA.jpg" ,onehd
 https://www.livestream88.com/onehd/
 #EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/Mjv9d8W.jpg" ,thairathtv-hd
-https://www.livestream88.com/thairathtv-hd/
+https://cdn6.goprimetime.info/feed/202306140918/chthairath/index.m3u8
 #EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/TG96JRY.jpg" ,thaipbs
 https://www.livestream88.com/thaipbs/
 #EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/0hgWUW3.jpg" ,mono29
@@ -1993,6 +1993,10 @@ https://www.livestream88.com/nbt/
 https://www.livestream88.com/workpoint/
 #EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/1unJMsf.png" ,jkn
 https://www.inwiptv.com/player_demo.php?channel=27165
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/1unJMsf.png" ,jkn
+https://cdn6.goprimetime.info/feed/202306140918/newtv/index.m3u8
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/lC52Bam.png" ,tptv
+https://cdn6.goprimetime.info/feed/202306140918/TPTV/index.m3u8
 #EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/lC52Bam.png" ,tptv
 https://www.inwiptv.com/player_demo.php?channel=27184
 #EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/Bv0X2TU.jpg" ,tsport
@@ -2013,7 +2017,7 @@ https://www.inwiptv.com/player_demo.php?channel=91303
 https://www.livestream88.com/true-premier-football-hd-1/
 #EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/xkVswxg.jpg" ,premier-football-hd-2
 https://www.livestream88.com/true-premier-football-hd-2/
-#EXTINF:-1 group-title="ballnaja" tvg-logo "https://i.imgur.com/IEcckoh.jpg" ,premier-football-hd-3
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/IEcckoh.jpg" ,premier-football-hd-3
 https://www.livestream88.com/true-premier-football-hd-3/
 #EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/m5LV76R.jpg" ,premier-football-hd-4
 https://www.livestream88.com/true-premier-football-hd-4/
