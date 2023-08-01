@@ -1963,43 +1963,115 @@ https://dooball66s.com/ดูทีวีออนไลน์/
 ################################################################################### ballnaja
 
 
-#EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-ch7.png" ,CH3_HD
-https://www.ballnaja.com/television/live/CH3_HD
-#EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-ch7.png" ,BBTV_CH_7
-https://www.ballnaja.com/television/live/BBTV_CH_7
-#EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-amarin.png" ,AMARIN_TV_HD
-https://www.ballnaja.com/television/live/AMARIN_TV_HD
-#EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-ch8.png" ,CH_8
-https://www.ballnaja.com/television/live/CH_8
-#EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-gmmchannel.png" ,GMM_25
-https://www.ballnaja.com/television/live/GMM_25
-#EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/JKN.png" ,JKN_18
-https://www.ballnaja.com/television/live/JKN_18
-#EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-mcot.png" ,MCOT_HD
-https://www.ballnaja.com/television/live/MCOT_HD
-#EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-nation.png" ,Nation_TV
-https://www.ballnaja.com/television/live/Nation_TV
-#EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-pptv.png" ,PPTV_HD
-https://www.ballnaja.com/television/live/PPTV_HD
-#EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-tnn24.png" ,TNN_24
-https://www.ballnaja.com/television/live/TNN_24
-#EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-ch5.png" ,TV5_HD1
-https://www.ballnaja.com/television/live/TV5_HD1
-#EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-tpbs.png" ,Thai_PBS
-https://www.ballnaja.com/television/live/Thai_PBS
-#EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-thairath.png" ,ThairathTV_HD
-https://www.ballnaja.com/television/live/ThairathTV_HD
-#EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-24u.png" ,True4U
-https://www.ballnaja.com/television/live/True4U
-#EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-gmmone.png" ,one_HD
-https://www.ballnaja.com/television/live/one_HD
-#EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-workpoint.png" ,workpiont
-https://www.ballnaja.com/television/live/workpiont
-#EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-mono.png" ,MONO_29
-https://www.ballnaja.com/television/live/MONO_29#EXTINF:0 group-title="ballnaja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg" ,TPTV
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/Gt5qEOy.jpg" ,ch3
+https://www.livestream88.com/ch3/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/mOQ1lxI.jpg" ,ch7
+https://www.livestream88.com/ch7/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/KXeTULW.jpg" ,ch5
+https://www.livestream88.com/ch7/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/n1IEwLu.png" ,mcot
+https://www.livestream88.com/mcot/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/N3yFd4Y.png" ,tnn
+https://www.livestream88.com/tnn16/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/uD7FV58.png" ,amarin
+https://www.livestream88.com/amarin-tv-hd/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/TSTkXEM.jpg" ,true4u
+https://www.livestream88.com/true4u/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/Ie5CGQj.png" ,ch8
+https://www.livestream88.com/ch8/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/bLfCZRA.jpg" ,onehd
+https://www.livestream88.com/onehd/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/Mjv9d8W.jpg" ,thairathtv-hd
+https://www.livestream88.com/thairathtv-hd/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/TG96JRY.jpg" ,thaipbs
+https://www.livestream88.com/thaipbs/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/0hgWUW3.jpg" ,mono29
+https://www.livestream88.com/mono29/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/l9bmvvY.png" ,nbt
+https://www.livestream88.com/nbt/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/6GP8COg.jpg" ,workpoint
+https://www.livestream88.com/workpoint/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/1unJMsf.png" ,jkn
+https://www.inwiptv.com/player_demo.php?channel=27165
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/lC52Bam.png" ,tptv
+https://www.inwiptv.com/player_demo.php?channel=27184
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/Bv0X2TU.jpg" ,tsport
+https://www.inwiptv.com/player_demo.php?channel=27186
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/Gs3k4lI.jpg" ,nation
+https://www.livestream88.com/nation/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/7c7JyO8.jpg" ,gmm25
+https://www.livestream88.com/gmm25/
+#EXTINF:0 group-title="ballnaja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg" ,TPTV
 https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/TV_720p.m3u8
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Thai_Parliament_TV_Logo.jpg" ,TPTV
 https://www.tpchannel.org/broadcasts/tv
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/wLBGVxp.jpg" ,movie
+https://www.inwiptv.com/player_demo.php?channel=95262
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/0z6Crdd.png" ,document
+https://www.inwiptv.com/player_demo.php?channel=91303
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/vHQu6Oc.jpg" ,bein1
+https://www.livestream88.com/bein-sport-hd-1/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/uyWKqsV.png" ,bein3
+https://www.livestream88.com/bein-sport-hd-3/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/mVdNNMV.jpg" ,true-sport-5
+https://www.livestream88.com/true-sport-5/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/7fmGRE0.jpg" ,true-sport-7
+https://www.livestream88.com/true-sport-7/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/fjFybkD.jpg" ,true-sport-1
+https://www.livestream88.com/true-sport-hd-1/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/g0MrRM3.jpg" ,true-sport-2
+https://www.livestream88.com/true-sport-hd-2/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/0wFYORG.jpg" ,true-sport-3
+https://www.livestream88.com/true-sport-hd-3/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/TnwHNYS.png" ,true-sport-4
+https://www.livestream88.com/true-sport-hd-4/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/LkJA483.jpg" ,golf-channel
+https://www.livestream88.com/ช่อง-golf-channel-thailand/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/rQDuMqz.jpg" ,true-tennis
+https://www.livestream88.com/ช่อง-true-tennis/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/ZqsPV80.jpg" ,spotv1
+https://www.livestream88.com/spotv1/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/fGEtnvq.png" ,spotv2
+https://www.livestream88.com/spotv2/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/gzKMzIH.png" ,bt-sport-hd1
+https://www.livestream88.com/bt-sport-hd1/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/ANKwB1E.png" ,bt-sport-hd2
+https://www.livestream88.com/bt-sport-hd2/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/oFvHylS.png" ,bt-sport-hd3
+https://www.livestream88.com/bt-sport-hd3/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/PHrIzQx.jpg" ,sport-tv-1
+https://www.livestream88.com/sport-tv-1/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/wSR4RW9.jpg" ,sport-tv-2
+https://www.livestream88.com/sport-tv-2/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/U9Sf7b3.jpg" ,sport-tv-3
+https://www.livestream88.com/sport-tv-3/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/dQs1wYU.jpg" ,sport-tv-4
+https://www.livestream88.com/sport-tv-4/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/KZ5jNAQ.jpg" ,digi-sport-1
+https://www.livestream88.com/ช่อง-digi-sport-1/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/GjXtdSK.jpg" ,digi-sport-2
+https://www.livestream88.com/ช่อง-digi-sport-2/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/jmoeFHH.jpg" ,digi-sport-3
+https://www.livestream88.com/ช่อง-digi-sport-3/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/pc3K2SZ.jpg" ,digi-sport-4
+https://www.livestream88.com/ช่อง-digi-sport-4/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/jq8RpYO.png" ,arena-sport-1
+https://www.livestream88.com/ช่อง-arena-sport-1/ 
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/gAxdiaA.png" ,arena-sport-2
+https://www.livestream88.com/ช่อง-arena-sport-2/ 
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/DYVskI4.png" ,arena-sport-3
+https://www.livestream88.com/ช่อง-arena-sport-3/ 
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/NPr0D5v.png" ,arena-sport-4
+https://www.livestream88.com/ช่อง-arena-sport-4/ 
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/uF8fOXW.png" ,astro-supersport-1
+https://www.livestream88.com/ช่อง-astro-supersport-1/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/WwjvdjZ.png" ,astro-supersport-2
+https://www.livestream88.com/ช่อง-astro-supersport-2/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/uEzGFlu.png" ,astro-supersport-3
+https://www.livestream88.com/ช่อง-astro-supersport-3/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/42bttTx.png" ,astro-supersport-4
+https://www.livestream88.com/ช่อง-astro-supersport-4/ 
+
 
 
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/outdoor-channel.png" ,Outdoor_Channel
