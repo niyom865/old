@@ -1,44 +1,44 @@
 #EXTM3U
 #EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-earth.png" ,BBC
-https://freetvdd.com/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94%E0%B8%B5/bbc-earth/#
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=754826&extension=ts&play_token=SFK56glrga
 #EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-earth.png" ,BBC
 http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115622&extension=ts&play_token
 #EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-earth.png" ,BBC LIFESTYLE
 http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115625&extension=ts&play_token
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-discovery.png" ,hd-discovery
-https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-asia-en/
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=689724&extension=ts&play_token=pM4buu2xDG
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-discovery.png" ,hd-discovery
-https://www.ballnaja.com/television/live/Discovery_Asia
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=858902&extension=ts&play_token=nYS2rtjpfj
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/sd-discovery.png" ,discovery
-https://www.doofootball.com/dootv/live/discovery#main_dootv
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=577890&extension=ts&play_token=mKglalWyTS
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/sd-discovery.png" ,discovery
-https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-channel-en/
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=601670&extension=ts&play_token=8D0Poxa5To
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/sd-discovery.png" ,discovery
-http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115399&extension=ts&play_token
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=689724&extension=ts&play_token=pM4buu2xDG
 #EXTINF:0 group-title="ballsod" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/aNIMAL_PLANET.webp" ,animalplanet
-http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115610&extension=ts&play_token
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=263551&extension=ts&play_token=4zg676RNz4
 #EXTINF:0 group-title="ballsod" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/aNIMAL_PLANET.webp" ,animalplanet
-https://www.ballnaja.com/television/live/ANIMAL_PLANET
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=627025&extension=ts&play_token=taP7k3a5Qw
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/cache/channel_thumb/uploads/png/sd-animalplanet.png" ,animalplanet
-https://www.ballnaja.com/television/live/ANIMALPLANET
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=264248&extension=ts&play_token=EAUqZeuI0C
 #EXTINF:0 group-title="ballsod" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/Love_Nature.webp" ,Love_Nature
-https://www.ballnaja.com/television/live/Love_Nature
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=262951&extension=ts&play_token=Q1PKSDww0O
 #EXTINF:0 group-title="ballsod" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/LIFETIME.png" ,LIFETIME
-http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115631&extension=ts&play_token
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=311659&extension=ts&play_token=ZKyPNRQqSv
 #EXTINF:0 group-title="ballsod" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/FOODNETWORK.webp" ,FOOD NETWORK
-http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115672&extension=ts&play_token
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=601666&extension=ts&play_token=FjgPQNlrZh
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-history.png" ,history
-https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/history-en/
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=601665&extension=ts&play_token=yq7Quimtbk
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-history.png" ,history
-https://www.ballnaja.com/television/live/HISTORY
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=577904&extension=ts&play_token=J8uHhFVenp
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-history.png" ,history
 http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115715&extension=ts&play_token
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-natgeo.png" ,natgeo
-https://www.ballnaja.com/television/live/National_Geographic
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=577903&extension=ts&play_token=L5v9r7HtDO
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.ilike-movie.com/uploads/png/hd-natgeo.png" ,natgeo
-https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/national-geographic-en/
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=858905&extension=ts&play_token=kV5Ehg6XZ8
 #EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/nat-geo-wild.png" ,natgeo wild
-https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/national-geographic-wild/
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=858908&extension=ts&play_token=DeQgoqi4FT
 #EXTINF:0 group-title="ballsod" tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051712-true-explore-sci.png" ,sci
 http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115660&extension=ts&play_token
 #EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-life.png" ,life
@@ -46,7 +46,7 @@ http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115659&extension=
 #EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-explore-wild.png" ,wild
 http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115408&extension=ts&play_token
 #EXTINF:0 group-title="ballsod" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/dmax.png" ,demax
-https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/dmax-en/
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=577479&extension=ts&play_token=TabNiUHisI
 #EXTINF:0 group-title="ballsod" tvg-logo="https://we-play.live/uploads/posters/tlc-hd-poster1602705866.jpeg" ,tlc-hd
 http://31.220.3.170/play/live.php?mac=10:27:BE:0d:96:28&stream=115402&extension=ts&play_token
 #EXTINF:0 group-title="ballsod" tvg-logo="https://dooball66.com/wp-content/uploads/2020/07/cropped-logo-1536x369.png" ,dooball66.com
@@ -87,44 +87,99 @@ http://oxax.tv/
 https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="http://adultiptv.net/lists/logo.png" ,AST TV 2
 https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/payom4444/Countries/master/x/brazzers-tv.png" ,brazzers
-http://oxax.tv/brazzers-tv-europe.html
-#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/xo/xy-max.png" ,xy-max
-http://oxax.tv/xy-max-hd.html
-#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/xo/penthouse-gold.png" ,penthouse
-http://oxax.tv/penthouse-gold.html
-#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/xo/hustler-hd.png" ,hustler
-http://oxax.tv/hustler-hd.html
-#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/xo/o-la-la.png" ,oh-ah
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/ox-ha.png" ,oh-ah
 http://oxax.tv/oh-ah.html
-#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/xo/superone-hd.png" ,superone
-http://oxax.tv/superone-hd.html
-#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/xo/shot-tv.png" ,shot-tv
-http://oxax.tv/shot-tv.html
-#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/xo/dorcel-tv.png" ,dorcel-tv.
-http://oxax.tv/dorcel-tv.html
-#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/xo/tv-teens.png" ,teens
-http://oxax.tv/fap-tv-teens.html
-#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/payom4444/Countries/master/x/venus.png" ,venus
-http://oxax.tv/venus.html
-#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/xo/private-tv.png" ,private-tv
-http://oxax.tv/private-tv.html
-#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/xo/dusk.png" ,dusk
-http://oxax.tv/dusk.html
-#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/xo/extasyhd..png" ,extasyhd.
-http://oxax.tv/extasyhd.html
-#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/payom4444/Countries/master/x/xxl.png" ,xxl
-http://oxax.tv/xxl.html
-#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/payom4444/Countries/master/x/playboy-tv.png" ,playboy-tv
-http://oxax.tv/playboy-tv.html
-#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/xo/barely-legal.png" ,barely-legal
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/Braazer%20eropn.png" ,brazzers-tv-europe
+http://oxax.tv/brazzers-tv-europe.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/BRAZZERS%20TV.png" ,brazzers-tv
+http://oxax.tv/brazzers-tv.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/sl-hot1.png" ,sl-hot1
+http://oxax.tv/sl-hot1.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/SL%20khot.png" ,sl-hot2
+http://oxax.tv/sl-hot2.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/red-lips.png" ,red-lips
+http://oxax.tv/red-lips.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/french_lover.png" ,french_lover
+http://oxax.tv/french_lover.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/Kin%20O%20xxx.png" ,kino-xxx
+http://oxax.tv/kino-xxx.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/XX%20max.png" ,xy-max-hd
+http://oxax.tv/xy-max-hd.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/xx%20plus.png" ,xy-plus-hd
+http://oxax.tv/xy-plus-hd.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/xy-mix-hd.png" ,xy-mix-hd
+http://oxax.tv/xy-mix-hd.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/BARELY.png" ,barely-legal
 http://oxax.tv/barely-legal.html
-#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/xo/babes-tv.png" ,babes-tv
-http://oxax.tv/babes-tv.html
-#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/payom4444/tvr/main/xo/vivid-red..png" ,vivid-red
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/PLAyboy.png" ,playboy-tv
+http://oxax.tv/playboy-tv.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/vivid%20red.png" ,vivid-red
 http://oxax.tv/vivid-red.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/hot-pleasure.png" ,hot-pleasure
+http://oxax.tv/hot-pleasure.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/babastv.png" ,babes-tv
+http://oxax.tv/babes-tv.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/russkaya-noch.png" ,russkaya-noch
+http://oxax.tv/russkaya-noch.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/EROX%20HD.png" ,eroxxx-hd
+http://oxax.tv/eroxxx-hd.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/HUSTLER%20HD.png" ,hustler-hd
+http://oxax.tv/hustler-hd.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/PRIVATE.png" ,private-tv
+http://oxax.tv/private-tv.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/RED%20LIGHT%20HD.png" ,redlight-hd
+http://oxax.tv/redlight-hd.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/PENTHOUSE%20GOLD.png" ,penthouse-gold
+http://oxax.tv/penthouse-gold.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/PENTHOUSE%20RED.png" ,penthouse-2
+http://oxax.tv/penthouse-2.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/O%20la%20la.png" ,o-la-la
+http://oxax.tv/o-la-la.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/HUSTLER%20BLUE.png" ,blue-hustler
+http://oxax.tv/blue-hustler.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/shalun.png" ,shalun
+http://oxax.tv/shalun.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/DORCEL%20TV.png" ,dorcel-tv
+http://oxax.tv/dorcel-tv.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/CANDY.png" ,candy
+http://oxax.tv/candy.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/EXTASY.png" ,extasyhd
+http://oxax.tv/extasyhd.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/XXL.png" ,xxl
+http://oxax.tv/xxl.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/FAP%202.png" ,fap-tv-2
+http://oxax.tv/fap-tv-2.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/FAP%203.png" ,fap-tv-3
+http://oxax.tv/fap-tv-3.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/fap%204.png" ,fap-tv-4
+http://oxax.tv/fap-tv-4.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/fap%20parody.png" ,fap-tv-parody
+http://oxax.tv/fap-tv-parody.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/fap%20cmpilation.png" ,fap-tv-compilation
+http://oxax.tv/fap-tv-compilation.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/fap%20annal.png" ,fap-tv-anal
+http://oxax.tv/fap-tv-anal.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/fap%20TEEN.png" ,fap-tv-teens
+http://oxax.tv/fap-tv-teens.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/fap%20BBW.png" ,fap-tv-bbw
+http://oxax.tv/fap-tv-bbw.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/fap%20trans.png" ,fap-tv-trans
+http://oxax.tv/fap-tv-trans.html
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/fap%20gay.png" ,fap-tv-gey
+http://oxax.tv/fap-tv-gey.html
+#EXTINF:0 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/fap%20LESBIAN.png" ,fap-tv-lesbian
+http://oxax.tv/fap-tv-lesbian.html 
 #EXTINF:-1 group-title="XXX" tvg-logo="http://adultiptv.net/lists/logo.png" ,oxax.tv
 http://oxax.tv/
+#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/youjizz.png" ,youjizz
+https://www.youjizz.com/
+#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/youjizz.png" ,blacked
+https://www.youjizz.com/categories/blacked-1.html
+#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/youjizz.png" ,stepmom-1
+https://www.youjizz.com/categories/stepmom-1.html
+#EXTINF:-1 group-title="XXX" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/xo/youjizz.png" ,mom-1
+https://www.youjizz.com/categories/mom-1.html
+
 #EXTINF:-1 group-title="XXX" tvg-name="AdultIPTV.net Live Cams" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" ,AdultIPTV.net Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 group-title="XXX" tvg-name="AdultIPTV.net MILF" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" ,AdultIPTV.net MILF
@@ -1979,6 +2034,8 @@ https://www.livestream88.com/amarin-tv-hd/
 https://www.livestream88.com/true4u/
 #EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/Ie5CGQj.png" ,ch8
 https://www.livestream88.com/ch8/
+#EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/uX5Z5M7.jpg" ,pptv-hd
+https://www.livestream88.com/pptv-hd/
 #EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/bLfCZRA.jpg" ,onehd
 https://www.livestream88.com/onehd/
 #EXTINF:-1 group-title="ballnaja" tvg-logo="https://i.imgur.com/Mjv9d8W.jpg" ,thairathtv-hd
@@ -2089,29 +2146,29 @@ https://www.livestream88.com/ช่อง-astro-supersport-4/
 
 
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/outdoor-channel.png" ,Outdoor_Channel
-https://www.ballnaja.com/television/live/Outdoor_Channel
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=263539&extension=ts&play_token=vzQgdDrWJS
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-animalplanet.png" ,Animal_Planet
-https://www.ballnaja.com/television/live/Animal_Planet
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=263350&extension=ts&play_token=QISPUKnoSS
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/Arirang.webp" ,Arirang
-https://www.ballnaja.com/television/live/Arirang
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=627025&extension=ts&play_token=taP7k3a5Qw
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-discovery.png" ,Discovery
-https://www.ballnaja.com/television/live/Discovery
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=726061&extension=ts&play_token=yV9Uob2vzV
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-history.png" ,History_Channel
-https://www.ballnaja.com/television/live/History_Channel
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=689755&extension=ts&play_token=rS8GQLZbtk
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/Love_Nature.png" ,Love_Nature
-https://www.ballnaja.com/television/live/Love_Nature
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=262176&extension=ts&play_token=XTfFPHVU4V
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-natgeo.png" ,NATGEO
-https://www.ballnaja.com/television/live/NATGEO
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=689756&extension=ts&play_token=3FanFRG07v
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-natgeowild.jpg" ,NATGEOWILD
-https://www.ballnaja.com/television/live/NATGEOWILD
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=260796&extension=ts&play_token=HvK9N0OypQ
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/NATGEO.webp" ,National_Geographic
-https://www.ballnaja.com/television/live/National_Geographic
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=263629&extension=ts&play_token=MB3hlVG7nt
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/Asian_Food_Network.webp" ,Asian_Food_Network
-https://www.ballnaja.com/television/live/Asian_Food_Network
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=356129&extension=ts&play_token=MupUA4mRAW
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/FOODNETWORK.webp" ,Food_Network
-https://www.ballnaja.com/television/live/Food_Network
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=601666&extension=ts&play_token=FjgPQNlrZh
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/BBC_Lifestyle.webp" ,BBC_Lifestyle
-https://www.ballnaja.com/television/live/BBC_Lifestyle
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=263539&extension=ts&play_token=vzQgdDrWJS
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/bbc-earth.png" ,bbc-earth
 https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/bbc-earth/
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/discovery-history.png" ,discovery-history
@@ -2129,89 +2186,89 @@ https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/asia
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/discovery-channel.png" ,discovery-channel
 https://freetvdd.com/%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b8%94%e0%b8%b5/discovery-channel/
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/animal-planet.png" ,ANIMALPLANET
-https://www.ballnaja.com/television/live/ANIMALPLANET
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=689715&extension=ts&play_token=N7dLmzonaE
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/animal-planet.png" ,ANIMAL_PLANET
-https://www.ballnaja.com/television/live/ANIMAL_PLANET
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=812458&extension=ts&play_token=sG3TGjb4Bg
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/asia-discovery.png" ,Discovery_Asia
-https://www.ballnaja.com/television/live/Discovery_Asia
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=627025&extension=ts&play_token=taP7k3a5Qw
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/history.png" ,HISTORY
-https://www.ballnaja.com/television/live/HISTORY
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=553687&extension=ts&play_token=C9nTtAfs42
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/doc/tlc-hd.png" ,TLC
-https://www.ballnaja.com/television/live/TLC
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=626829&extension=ts&play_token=7VK6Jr0m2z
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-explife.png" ,True_Explore_Life
-https://www.ballnaja.com/television/live/True_Explore_Life
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=263033&extension=ts&play_token=a8I4YYRvZI
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-expsci.png" ,True_Explore_Sci
-https://www.ballnaja.com/television/live/True_Explore_Sci
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=262959&extension=ts&play_token=JCLlnTqDJF
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://raw.githubusercontent.com/niyom865/niyom865/main/mz/mov/x-zyte.png" ,True_X-Zyte_HD
-https://www.ballnaja.com/television/live/True_X-Zyte_HD
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=262177&extension=ts&play_token=IGypF2bEpM
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/3BB_Asian.webp" ,3BB_Asian
-https://www.ballnaja.com/television/live/3BB_Asian
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=612177&extension=ts&play_token=CWncFmbAoQ
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-axn.png" ,AXN
-https://www.ballnaja.com/television/live/AXN
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=250665&extension=ts&play_token=GyOT3bXoCr
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/CCM.png" ,CH_CCM
-https://www.ballnaja.com/television/live/CH_CCM
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=262908&extension=ts&play_token=jJZOfqKBDe
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-hbo.jpg" ,HBOHD
-https://www.ballnaja.com/television/live/HBOHD
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=262904&extension=ts&play_token=Q7zaaPQBKz
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-hbohits.jpg" ,HBOHITS
-https://www.ballnaja.com/television/live/HBOHITS
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=263583&extension=ts&play_token=pqSkA5wjgs
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-hbosignature.jpg" ,HBOSIG
-https://www.ballnaja.com/television/live/HBOSIG
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=264315&extension=ts&play_token=TQfKOZyjfi
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/HBOFAMILY.webp" ,HBOFAMILY
 https://www.ballnaja.com/television/live/HBOFAMILY
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/HITS.png" ,HITS
-https://www.ballnaja.com/television/live/HITS
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=264313&extension=ts&play_token=OWb5mnGgI1
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/HITSMOVIE.png" ,HITS_MOVIES
-https://www.ballnaja.com/television/live/HITS_MOVIES
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=577366&extension=ts&play_token=OsF3PjTKOh
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/HITSMOVIE.png" ,HITS_Movies
-https://www.ballnaja.com/television/live/HITS_Movies
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=577449&extension=ts&play_token=8tJZY72WrF
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/Mono29plus.webp" ,MONO29_Plus
-https://www.ballnaja.com/television/live/MONO29_Plus
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=629863&extension=ts&play_token=ycbfLHg3uq
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-tvn.png" ,tvnmovie
-https://www.ballnaja.com/television/live/tvnmovie
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=577381&extension=ts&play_token=wDf7SqPGrd
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-tvn.png" ,tvn
-https://www.ballnaja.com/television/live/tvn
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=262382&extension=ts&play_token=Fr6vbwSsqS
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/Paramount.webp" ,Paramount
-https://www.ballnaja.com/television/live/Paramount
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=845351&extension=ts&play_token=Pz52wS60Rp
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/Paramount_Network.webp" ,Paramount_Network
-https://www.ballnaja.com/television/live/Paramount_Network
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=543499&extension=ts&play_token=OznmmhLeO1
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/ROCK_ENTERTAINMENT.webp" ,ROCK_ENTERTAINMENT
-https://www.ballnaja.com/television/live/ROCK_ENTERTAINMENT
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=543274&extension=ts&play_token=Ho2EljaKun
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/ROCK_Extreme.webp" ,ROCK_Extreme
-https://www.ballnaja.com/television/live/ROCK_Extreme
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=543272&extension=ts&play_token=CLjADqBOHu
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/True_Series.webp" ,TRUE_ASIAN_SERIES_HD
-https://www.ballnaja.com/television/live/TRUE_ASIAN_SERIES_HD
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=259978&extension=ts&play_token=DzupVeEoua
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/TVB-CLASSIC.webp" ,TVB-CLASSIC
-https://www.ballnaja.com/television/live/TVB-CLASSIC
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=259983&extension=ts&play_token=mq78FjEkcO
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-tvb.png" ,TVBS_ASIA
-https://www.ballnaja.com/television/live/TVBS_ASIA
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=263020&extension=ts&play_token=p7DtovNFBT
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-asianmore.png" ,True_Asian_More
-https://www.ballnaja.com/television/live/True_Asian_More
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=259987&extension=ts&play_token=u18n38ym5n
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-chinesemore.png" ,True_Chinese_More
-https://www.ballnaja.com/television/live/True_Chinese_More
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=552091&extension=ts&play_token=64aTe4b3tK
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-koreanmore.png" ,True_Korean_More
-https://www.ballnaja.com/television/live/True_Korean_More
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=845344&extension=ts&play_token=73MMajkljT
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-filmasia.png" ,True_Film_Asia_HD
-https://www.ballnaja.com/television/live/True_Film_Asia_HD
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=543472&extension=ts&play_token=gd6uSvQMWa
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/hd-tfilm.jpg" ,True_Film_HD
-https://www.ballnaja.com/television/live/True_Film_HD
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=699663&extension=ts&play_token=KhcVS4EwYS
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tfilm2.png" ,True_Film_HD2
-https://www.ballnaja.com/television/live/True_Film_HD2
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=699654&extension=ts&play_token=VjyrgHN7PD
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-moviehits.png" ,True_Movie_Hits
-https://www.ballnaja.com/television/live/True_Movie_Hits
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=699652&extension=ts&play_token=TcEKNU98uh
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-series.png" ,True_Series
-https://www.ballnaja.com/television/live/True_Series
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=602183&extension=ts&play_token=M6K7QdxLf3
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-thaifilm.png" ,True_Thai_Film
-https://www.ballnaja.com/television/live/True_Thai_Film
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=699398&extension=ts&play_token=wxXAahpuox
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-warnertv.png" ,Warner_TV
-https://www.ballnaja.com/television/live/Warner_TV
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=265126&extension=ts&play_token=XhNDQL75V9
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94%20%2810%29.webp" ,BBC_News
-https://www.ballnaja.com/television/live/BBC_News
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=699411&extension=ts&play_token=eYVkg4CbOt
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://www.img05.xyz/assets/img/ch_logo/sd-celestial.png" ,CELESTIAL
-https://www.ballnaja.com/television/live/CELESTIAL
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=699504&extension=ts&play_token=HYwOwB8OVT
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/TVB_XING_HE.webp" ,TVBJ
-https://www.ballnaja.com/television/live/TVBJ
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=699412&extension=ts&play_token=3J6B0ibNRU
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://rentapi.blackboxsys.net/images/png/sd-tvb.png" ,TVB_XING_HE
-https://www.ballnaja.com/television/live/TVB_XING_HE
+http://seeallplus.net:80/play/live.php?mac=00:1A:79:c3:f3:b0&stream=553988&extension=ts&play_token=4SHw373jxy
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-thaifilm.png" ,thai-film
 https://freetvdd.com/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%b4%e0%b8%87/thai-film-th/
 #EXTINF:0 group-title="ballnaja" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/true-movie-hits.png" ,movie-hits
